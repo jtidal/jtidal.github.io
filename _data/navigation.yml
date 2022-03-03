@@ -1,9 +1,14 @@
 - link: /
   name: Home
-- link: /about/
-  name: About
+- link: /find
+  name: Find
 - link: /services
   name: Services
-- link: /contact/
-  name: Contact
-
+- link: /help
+  name: Research Help
+- link: /about
+  name: About
+- link: /news
+  name: News
+- link: https://cuny-ny.primo.exlibrisgroup.com/discovery/account?vid=01CUNY_NY:CUNY_NY
+  name: My Library Account
