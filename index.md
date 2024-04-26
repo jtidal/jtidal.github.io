@@ -83,8 +83,8 @@ title: Welcome to City Tech Library
 	</div>
 </div><!--row-->
 
-
-<div class="row" style="padding: 0px 0px 10px 0px;">
+<--START YOUR RESEARCH-->
+<div class="row">
 	<div class="col-md-12 col-sm-12" style="padding-bottom:10px;">
 		<div class="card card-success">
 			<div class="card-heading" style="background:#ffa815">
@@ -93,7 +93,7 @@ title: Welcome to City Tech Library
   			<div class="card-body" style="text-align:center;">
 				<div class="row">
 				    <div class="col-md-3 col-center" style="padding:5px;">
-				    	<a href="https://libguides.citytech.cuny.edu/"><img style="padding: 2px; margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-research-5090533%281%29.png" alt="Access research guides"><p>Research Guides</a></p>
+				    	<a href="https://libguides.citytech.cuny.edu/"><img style="padding: 2px; margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-research-5090533%281%29.png" alt="Access research guides">Research Guides</a>
 				    </div>
 				    <div class="col-md-3 col-center" style="padding:5px;">
 				    	<a href="research/articles/subjects/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-articles-2663651.png" alt="Access articles and databases"><p>Articles & Databases</a></p>
