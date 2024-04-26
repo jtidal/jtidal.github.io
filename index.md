@@ -52,7 +52,7 @@ title: Welcome to City Tech Library
 			<form action="https://library.citytech.cuny.edu/oneSearch2.php" enctype="application/x-www-form-urlencoded; charset=utf-8" method="post" name="searchForm" role="search" class="form-inline">
 			<div class="form-group">
 			   	<div class="col-md-4">
-			        <select name="selectStyle" style="margin: 0px 5px 5px 0px"  class="form-control" aria-label="Search by Type">
+			        <select name="selectStyle" class="form-control" aria-label="Search by Type">
 				        <option label="Print and eBooks">Books (Print + eBooks)</option>
 				        <option label="Everything" selected="selected">Everything</option>
 				        <option label="Articles">Articles</option>
@@ -62,8 +62,9 @@ title: Welcome to City Tech Library
 		                <option label="Journals">Journal</option>
 				        <option label="Site Search">Site</option>
 				     </select> 
-					<p style="padding: 10px; float: left;"><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY&mode=advanced" style="color:#045099; font-weight:bold;">Advanced Search</a></p>
+					<p><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY&mode=advanced" style="color:#045099; font-weight:bold;">Advanced Search</a></p>
 			   	</div><!--col-md-4-->
+
 		    	<div class="col-md-6">
 				    <input name="institution" type="hidden" value="NY" /> 
 				    <input name="vid" type="hidden" value="ny" /> 
@@ -72,10 +73,8 @@ title: Welcome to City Tech Library
 				    <input name="search_scope" type="hidden" value="IZ_CI_AW" /> 
 				    <input id="primoQuery" name="query" type="hidden" /> 
 				    <input label= "search query" id="primoQueryTemp" class="focus form-control" name="queryTemp" size="30" type="text" placeholder="Find books, media, and more" aria-label="Input search query here"/>
-			   	</div><!--col-md-6-->
-		    	<div class="col-md-2">
 		    		<input alt="Search" class="btn btn-info" id="submit" title="Search books, articles &amp; more" type="submit" value="Search" />
-		    	</div><!--col-md-2-->
+		    	</div>
 		  		<div class="row">
 		    		<div class="col-md-3"></div>
 		      			<div class="col-md-6">
