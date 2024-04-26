@@ -5,8 +5,8 @@ title: Welcome to City Tech Library
 <div class="container">
 <div class="row" style="padding-bottom:10px; width:100%">
 <div class="col-md-3 col-sm-12" style="height:100%; padding-bottom:5px;">
-			<div class="panel panel-info">
-  <div class="panel-heading"><h2 style="font-weight:bold;"><span class="glyphicon glyphicon-time"></span><a href="https://libcal.citytech.cuny.edu"> Hours</a></h2></div>
+			<div class="card card-info">
+  <div class="card-heading"><h2 style="font-weight:bold;"><span class="glyphicon glyphicon-time"></span><a href="https://libcal.citytech.cuny.edu"> Hours</a></h2></div>
 
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
 		<script src="https://citytech-cuny.libcal.com/js/hours_today.js"></script> 
@@ -35,21 +35,21 @@ title: Welcome to City Tech Library
                                         .s-lc-w-head-pre { padding-top:10px; display:none; }
 .s-lc-hours-note {display:none;}
 				</style>
-		</div><!-- panel-->
-<div class="panel panel-default">
-  <div class="panel-heading"><h2 style="font-weight:bold;"><span class="glyphicon glyphicon-comment"></span> Chat</h2></div>
-  <div class="panel-body" style="text-align:center">
+		</div><!-- card-->
+<div class="card card-default">
+  <div class="card-heading"><h2 style="font-weight:bold;"><span class="glyphicon glyphicon-comment"></span> Chat</h2></div>
+  <div class="card-body" style="text-align:center">
 <a href="https://library.citytech.cuny.edu/help/ask/index.php"><img style="padding: 2px;  margin:2px; height:50px; width:50px;" src="https://library.citytech.cuny.edu/uploads/noun-chat-bubble-1388380.png" alt="Ask a Librarian"><p>Ask A Librarian</p></a>
 </div>
 </div>
 	</div> <!--col-md-3-->
 
  	<div class="jumbotron col-md-9 col-sm-12" style="height:100%;">
-	<div class="panel panel-primary" style="width:100%;">
-		<div class="panel-heading panel-primary" style="background:#044e95;"><h2 style="color:white; font-weight:bold;"><span class="glyphicon glyphicon-search"></span> Search the Collection</h2></div>
+	<div class="card card-primary" style="width:100%;">
+		<div class="card-heading card-primary" style="background:#044e95;"><h2 style="color:white; font-weight:bold;"><span class="glyphicon glyphicon-search"></span> Search the Collection</h2></div>
 			
 
-	</div><!--panel -->
-	</div><!--panel-->
+	</div><!--card -->
+	</div><!--card-->
 </div>
 </div><!--row-->
