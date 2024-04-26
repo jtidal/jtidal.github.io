@@ -5,7 +5,7 @@ title: Welcome to City Tech Library
 <div class="container fluid">
 <div class="row" style="padding-bottom:10px; width:100%">
 <div class="col-md-3 col-sm-12" style="height:100%; padding-bottom:5px;">
-			<div class="card card-info">
+<div class="card card-info">
 <div class="card-heading"><h2 style="font-weight:bold;"><span class="glyphicon glyphicon-time"></span><a href="https://libcal.citytech.cuny.edu"> Hours</a></h2></div>
 
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
