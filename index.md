@@ -99,25 +99,25 @@ title: Welcome to City Tech Library
 				    	<a href="research/articles/subjects/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-articles-2663651.png" alt="Access articles and databases"><br>Articles & Databases</a>
 				    </div>
 				    <div class="col-md-3 col-center" style="padding:5px;">
-				    	<a href="research/eBooks/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-ebook-4317312.png" alt="Access eBooks">eBooks</a>
+				    	<a href="research/eBooks/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-ebook-4317312.png" alt="Access eBooks"><br>eBooks</a>
 				    </div>
 				    <div class="col-md-3 col-center" style="padding:5px;">
-				    	<a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?vid=01CUNY_NY:CUNY_NY"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-magazine-1188936.png" alt="Access journals">Journals</a>
+				    	<a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?vid=01CUNY_NY:CUNY_NY"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-magazine-1188936.png" alt="Access journals"><br>Journals</a>
 				    </div>
 				</div><!--row-->
 				<br>
 				<div class="row" style="padding-bottom:5px;">
 	    			<div class="col-md-3 col-center" style="padding:5px;">
-	    				<a href="https://libguides.citytech.cuny.edu/er.php?b=c"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-shelves-2208934.png" alt="Access electronic reserves">Electronic Reserves</a>
+	    				<a href="https://libguides.citytech.cuny.edu/er.php?b=c"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-shelves-2208934.png" alt="Access electronic reserves"><br>Electronic Reserves</a>
 	    			</div>
 	    			<div class="col-md-3 col-center" style="padding:5px;">
-	    				<a href="https://libguides.citytech.cuny.edu/az.php?t=49467"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-streaming-3320374.png" alt="Access streaming video">Streaming Video</a>
+	    				<a href="https://libguides.citytech.cuny.edu/az.php?t=49467"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-streaming-3320374.png" alt="Access streaming video"><br>Streaming Video</a>
 	    			</div>
 	    			<div class="col-md-3 col-center" style="padding:5px;">
-	    				<a href="services/interlibraryLoan/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-book-delivery-85121.png" alt="Access interlibrary loan">Interlibrary Loan</a>
+	    				<a href="services/interlibraryLoan/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-book-delivery-85121.png" alt="Access interlibrary loan"><br>Interlibrary Loan</a>
 	    			</div>
 					<div class="col-md-3 col-center" style="padding:5px;">
-						<a href="https://library.citytech.cuny.edu/orientation/"  target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-tutorial-2366925.png" alt="Access library tutorials">Tutorials</a>
+						<a href="https://library.citytech.cuny.edu/orientation/"  target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-tutorial-2366925.png" alt="Access library tutorials"><br>Tutorials</a>
 					</div>
 				</div><!--row-->
 			</div><!--body-->
