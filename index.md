@@ -44,11 +44,12 @@ title: Welcome to City Tech Library
 	</div> <!--col-md-3-->
 
 <!--SEARCH THE COLLECTION-->
-	<div class="jumbotron col-md-9 col-sm-12">
+	<div class="col-md-9 col-sm-12">
 		<div class="card card-primary">
 			<div class="card-heading card-primary" style="background:#044e95;">
 				<h2 style="color:white; font-weight:bold;"><span class="glyphicon glyphicon-search"></span> Search the Collection</h2>
 			</div>
+
 			<form action="https://library.citytech.cuny.edu/oneSearch2.php" enctype="application/x-www-form-urlencoded; charset=utf-8" method="post" name="searchForm" role="search" class="form-inline">
 			<div class="form-group">
 			        <select name="selectStyle" class="form-control" aria-label="Search by Type">
