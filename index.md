@@ -125,7 +125,8 @@ title: Welcome to City Tech Library
 	</div><!--col-->
 </div><!--row-->
 
-<div class="row" style="padding: 0px 0px 10px 0px; margin-left:5px; width:98%">
+<!--NEWS AND EVENTS-->
+<div class="row">
 	<div class="col-md-8 col-sm-12" style="padding-bottom:10px;">
 		<div class="card card-primary">
 	 		<div class="card-heading" style="background:#044e95;" ><h2 style="font-weight:bold; color:white;"><span class="glyphicon glyphicon-flash"></span> News & Events</h2></div>
