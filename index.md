@@ -87,3 +87,108 @@ title: Welcome to City Tech Library
 	</div><!--card-->
 	</div>
 </div><!--row-->
+
+
+<div class="row" style="padding: 0px 0px 10px 0px;">
+	<div class="col-md-12 col-sm-12" style="padding-bottom:10px;">
+		<div class="card card-success">
+			<div class="card-heading" style="background:#ffa815">
+				<h2 style="font-weight:bold;"><span class="glyphicon glyphicon-education"></span> Start Your Research</h2>
+		 	</div>
+  			<div class="card-body" style="text-align:center;">
+				<div class="row" >
+				    <div class="col-md-3 col-center" style="padding:5px;">
+				    	<a href="https://libguides.citytech.cuny.edu/"><img style="padding: 2px; margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-research-5090533%281%29.png" alt="Access research guides"><p>Research Guides</a></p>
+				    </div>
+				    <div class="col-md-3 col-center" style="padding:5px;">
+				    	<a href="research/articles/subjects/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-articles-2663651.png" alt="Access articles and databases"><p>Articles & Databases</a></p>
+				    </div>
+				    <div class="col-md-3 col-center" style="padding:5px;">
+				    	<a href="research/eBooks/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;"" src="https://library.citytech.cuny.edu/uploads/noun-ebook-4317312.png" alt="Access eBooks"><p>eBooks</p></a>
+				    </div>
+				    <div class="col-md-3 col-center" style="padding:5px;">
+				    	<a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?vid=01CUNY_NY:CUNY_NY"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-magazine-1188936.png" alt="Access journals"><p>Journals</p></a>
+				    </div>
+				</div><!--row-->
+				<br>
+				<div class="row" style="padding-bottom:5px;">
+	    			<div class="col-md-3 col-center" style="padding:5px;">
+	    				<a href="https://libguides.citytech.cuny.edu/er.php?b=c"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-shelves-2208934.png" alt="Access electronic reserves"><p>Electronic Reserves</a></p>
+	    			</div>
+	    			<div class="col-md-3 col-center" style="padding:5px;">
+	    				<a href="https://libguides.citytech.cuny.edu/az.php?t=49467"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-streaming-3320374.png" alt="Access streaming video"><p>Streaming Video</a></p>
+	    			</div>
+	    			<div class="col-md-3 col-center" style="padding:5px;">
+	    				<a href="services/interlibraryLoan/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-book-delivery-85121.png" alt="Access interlibrary loan"><p>Interlibrary Loan</a></p>
+	    			</div>
+					<div class="col-md-3 col-center" style="padding:5px;">
+						<a href="https://library.citytech.cuny.edu/orientation/"  target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-tutorial-2366925.png" alt="Access library tutorials"><p>Tutorials</p></a>
+					</div>
+				</div><!--row-->
+			</div><!--body-->
+		</div><!--card-->
+</div><!--col-->
+</div><!--row-->
+
+<div class="row" style="padding: 0px 0px 10px 0px; margin-left:5px; width:98%">
+<div class="col-md-8 col-sm-12" style="padding-bottom:10px;">
+<div class="card card-primary">
+  <div class="card-heading" style="background:#044e95;" ><h2 style="font-weight:bold; color:white;"><span class="glyphicon glyphicon-flash"></span> News & Events</h2></div>
+<?php
+set_time_limit(60);
+date_default_timezone_set('America/New_York');
+	$rss = new DOMDocument();
+	$rss->load('https://openlab.citytech.cuny.edu/library/feed/');
+	$feed = array();
+	foreach ($rss->getElementsByTagName('item') as $node) {
+		$item = array ( 
+			'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
+			'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
+			'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
+			'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
+			);
+		array_push($feed, $item);
+	}
+
+echo '<div class="card-body"><table class="table"><tbody>';
+
+	$limit = 6;
+	for($x=0;$x<$limit;$x++) {
+		$title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
+		$link = $feed[$x]['link'];
+		$description = $feed[$x]['desc'];
+                $date = date('l F d, Y', strtotime($feed[$x]['date']));
+
+                $description = rtrim(mb_strimwidth($description, 0, 250, "..."));
+
+		echo '<tr><td><p><span style="font-weight:bold;">'.$date.'</span><br><a href="'.$link.'" title="'.$title.'" style="font-weight:bold;">'.$title.'</a></p><p>'.$description.'</p><p><a class="btn btn-default" href="'.$link.'" role="button">Read more</a></p></td></tr>';
+	}
+       echo '<tr><td align="right"><a href="http://openlab.citytech.cuny.edu/library"><p>More News...</p></a></tr></td>';
+	echo '</tbody></table></div>';
+?>
+</div>
+</div>
+
+<div class="col-md-4 col-sm-12">
+<div class="card card-warning">
+  <div class="card-heading"  style="background:#ffa815"><h2 style="font-weight:bold;"><span class="glyphicon glyphicon-blackboard"></span> Workshops</h2></div>
+  <div class="card-body" style="height:100%;">
+<div id="api_upc_cid17264_iid4689"></div><script src="https://libcal.citytech.cuny.edu/api_events.php?m=upc&cid=17264&audience=&c=&d=&l=5&target=_blank&simple=agenda&context=object&format=js"> </script>
+</div><!--bod-->
+</div><!--card-->
+
+<div class="card card-primary">
+  <div class="card-heading" style="background:#044e95;"><h2 style="font-weight:bold; color:white;"><span class="glyphicon glyphicon-globe"></span> Explore</h2></div>
+  <div class="card-body">
+<div class="row"  style="text-align:center;">
+<div style="padding: 15px;"><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01CUNY_NY:CUNY_NY" target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-book-shelf-2174494%281%29.png" alt="Featured Collections"><br>Featured Collections</a></div>
+<div style="padding: 15px;"><a href="https://libguides.citytech.cuny.edu/exhibits" target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-exhibit-648083.png" alt="Access library exhibits"><br>Library Exhibits</a></div>
+<div style="padding: 15px;"><a href="https://academicworks.cuny.edu/ny_pubs/"  target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-academic-1544056.png" alt="Access CUNY Academic Works"><br>Academic Works</a></div>
+</div>
+<div class="row"  style="text-align:center;">
+<div style="padding: 15px;"><a href="https://openlab.citytech.cuny.edu/oerresources/"  target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-reading-book-4822569.png" alt="Access open educational resources"><br>Open Educational Resources</a></div>
+</div>
+</div><!--bod-->
+</div><!--card-->
+</div><!--col-->
+</div><!--row-->
