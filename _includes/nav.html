@@ -3,10 +3,9 @@
         <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
         <span class="fs-4"><img src="{{ site.url }}/assets/images/logo.png"></span>
       </a>
-
 <ul class="nav nav-pills">
     {% for item in site.data.navbar %}
-      <li></li><a class="nav-item nav-link" href="{{item.link}}">{{ item.name }}</a></li>
+      <li><a class="nav-item nav-link" href="{{item.link}}">{{ item.name }}</a></li>
     {% endfor %}  
 </ul>
 
