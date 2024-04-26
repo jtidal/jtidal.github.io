@@ -1,8 +1,3 @@
----
-layout: default
-title: Other Libraries
----
-<h1>{{page.title}}</h1>
 <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
