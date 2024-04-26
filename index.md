@@ -93,13 +93,13 @@ title: Welcome to City Tech Library
   			<div class="card-body" style="text-align:center;">
 				<div class="row">
 				    <div class="col-md-3 col-center" style="padding:5px;">
-				    	<a href="https://libguides.citytech.cuny.edu/"><img style="padding: 2px; margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-research-5090533%281%29.png" alt="Access research guides">Research Guides</a>
+				    	<a href="https://libguides.citytech.cuny.edu/"><img style="padding: 2px; margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-research-5090533%281%29.png" alt="Access research guides"><br>Research Guides</a>
 				    </div>
 				    <div class="col-md-3 col-center" style="padding:5px;">
-				    	<a href="research/articles/subjects/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-articles-2663651.png" alt="Access articles and databases">Articles & Databases</a>
+				    	<a href="research/articles/subjects/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-articles-2663651.png" alt="Access articles and databases"><br>Articles & Databases</a>
 				    </div>
 				    <div class="col-md-3 col-center" style="padding:5px;">
-				    	<a href="research/eBooks/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;"" src="https://library.citytech.cuny.edu/uploads/noun-ebook-4317312.png" alt="Access eBooks">eBooks</a>
+				    	<a href="research/eBooks/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-ebook-4317312.png" alt="Access eBooks">eBooks</a>
 				    </div>
 				    <div class="col-md-3 col-center" style="padding:5px;">
 				    	<a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?vid=01CUNY_NY:CUNY_NY"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-magazine-1188936.png" alt="Access journals">Journals</a>
