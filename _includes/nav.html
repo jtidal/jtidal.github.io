@@ -1,12 +1,14 @@
-<header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-      <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-        <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
-        <span class="fs-4"><img src="{{ site.url }}/assets/images/logo.png"></span>
-      </a>
-<nav>
-<ul class="nav nav-pills">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#"><span><img src="{{ site.url }}/assets/images/logo.png"></span>
+</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
       {% for item in site.data.navbar %}
-      <li><a class="nav-item nav-link" href="{{ item.link }}">{{ item.name }}</a></li>
+      <a class="nav-item nav-link" href="{{item.link}}">{{ item.name }}</a>
       {% endfor %}  
-</ul>
+    </div>
+  </div>
 </nav>
