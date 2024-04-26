@@ -75,14 +75,14 @@ title: Welcome to City Tech Library
 				    <input label= "search query" id="primoQueryTemp" class="focus form-control" name="queryTemp" size="30" type="text" placeholder="Find books, media, and more" aria-label="Input search query here"/>
 		    		<input alt="Search" class="btn btn-info" id="submit" title="Search books, articles &amp; more" type="submit" value="Search" />
 		    	</div>
+
 		  		<div class="row">
-		    		<div class="col-md-3"></div>
-		      			<div class="col-md-6">
-		       				<div style="padding-top:10px;">
-		       					<label class="radio-inline"><input type="radio" name="radioSelection" checked="checked" value="any" >Keyword</label><label class="radio-inline" style="margin-left:15px"><input type="radio" name="radioSelection" value="title">Title</label> <label class="radio-inline"><input type="radio" name="radioSelection" value="creator">Author</label><label class="radio-inline"><input type="radio" name="radioSelection" value="sub">Subject</label>
+		    		<div class="col-md-6">
+		       			<div style="padding-top:10px;">
+		       				<label class="radio-inline"><input type="radio" name="radioSelection" checked="checked" value="any" >Keyword</label><label class="radio-inline" style="margin-left:15px"><input type="radio" name="radioSelection" value="title">Title</label> <label class="radio-inline"><input type="radio" name="radioSelection" value="creator">Author</label><label class="radio-inline"><input type="radio" name="radioSelection" value="sub">Subject</label>
 		      				</div><!--col-md-6-->
 			   			</div><!--padding top-->
-				</div><!--row-->
+					</div><!--row-->
 				</form><!--form-group-->
 			</div><!--card -->
 		</div><!--card-->
