@@ -1,3 +1,6 @@
+
+url: https://jtidal.github.io/
+
 plugins:
   - jekyll-autoprefixer
 
