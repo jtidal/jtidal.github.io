@@ -1,4 +1,14 @@
 - name: Home
   link: /
+- name: Find
+  link: /find
+- name: Services
+  link: /services
+- name: Research Help
+  link: /research
 - name: About
   link: /about
+- name: News
+  link: /news
+- name: My Library Account
+  link: /account
