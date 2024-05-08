@@ -1,5 +1,3 @@
-touch _data/navbar.yml
-#_data/navbar.yml
 - name: Home
   link: /
 - name: About
