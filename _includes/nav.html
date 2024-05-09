@@ -6,8 +6,7 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-
-{% for item in site.data.samplelist.toc %}
+{% for item in site.data.navbar%}
     <h3>{{ item.title }}</h3>
       <ul>
         {% for entry in item.subfolderitems %}
