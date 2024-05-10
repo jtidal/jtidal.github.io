@@ -1,31 +1,25 @@
 toc:
-- title: Find
-      subfolderitems:
-      - page: Books
-        url: https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY
-      - page: Articles
-        url: https://library.citytech.cuny.edu/research/articles/subjects/index.php
-      - page: Journals
-        url: https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?vid=01CUNY_NY:CUNY_NY
-      - page: eBooks
-        url: https://library.citytech.cuny.edu/research/eBooks/index.php
-      - page: E-Reserves
-        url: https://libguides.citytech.cuny.edu/er.php
-      - page: Video & Audio
-        url: https://libguides.citytech.cuny.edu/az.php?t=49467
-      - page: Research Guides
-        url: https://libguides.citytech.cuny.edu/?b=s
-      - page: Other Libraries
-        url: https://library.citytech.cuny.edu/research/otherLibraries/index.php
-      - page: Library Subject Specialists
-        url: https://library.citytech.cuny.edu/research/subjectSpecialists.php
-- name: Services
-  link: /services
-- name: Research Help
-  link: /research
-- name: About
-  link: /about
-- name: News
-  link: /news
-- name: My Library Account
-  link: /account
+  - title: Group 1
+    subfolderitems:
+      - page: Thing 1
+        url: /thing1.html
+      - page: Thing 2
+        url: /thing2.html
+      - page: Thing 3
+        url: /thing3.html
+  - title: Group 2
+    subfolderitems:
+      - page: Piece 1
+        url: /piece1.html
+      - page: Piece 2
+        url: /piece2.html
+      - page: Piece 3
+        url: /piece3.html
+  - title: Group 3
+    subfolderitems:
+      - page: Widget 1
+        url: /widget1.html
+      - page: Widget 2
+        url: /widget2.html
+      - page: Widget 3
+        url: /widget3.html
