@@ -2,7 +2,7 @@
 layout: default
 ---
 
-    <div class="dropdown">
+<div class="dropdown">
   <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
     Dropdown button
   </button>
@@ -16,4 +16,3 @@ layout: default
       </div>
     </div>
   </div>
-</main>
