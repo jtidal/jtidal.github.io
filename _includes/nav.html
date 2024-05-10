@@ -5,7 +5,7 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 {% for item in site.data.navbar.toc %}
-    <a class="nav-link dropdown toggle" href="#" id="navbarDropdownMenuLink role="button" data-togg="dropdown" aria-haspopup=true" aria-expanded="false">{{ item.title }}</a>
+    <a class="nav-link dropdown toggle" href="#" id="navbarDropdownMenuLink role="button" data-togg="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
       <div class="drown-downmenu" aria-labelledby="navbarDropdownMenuLink">
         {% for entry in item.subfolderitems %}
           <a href="{{ entry.url }}">{{ entry.page }}</a>
