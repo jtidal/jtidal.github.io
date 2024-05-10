@@ -19,14 +19,24 @@ toc:
         url: https://library.citytech.cuny.edu/research/otherLibraries/index.php
       - page: Library Subject Specialists
         url: https://library.citytech.cuny.edu/research/subjectSpecialists.php
-  - title: Group 2
+  - title: Services
     subfolderitems:
-      - page: Piece 1
+      - page: Borrow, Renew, Request
         url: /piece1.html
-      - page: Piece 2
+      - page: Interlibrary Loan
         url: /piece2.html
-      - page: Piece 3
+      - page: Student Services
         url: /piece3.html
+      - page: Faculty Services
+        url: #
+      - page: Multimedia Resources Center
+        url: #
+      - page: Archives
+        url: #
+      - page: Open Educational Resources
+        url: #
+      - page: Library Classes
+        url: #
   - title: Group 3
     subfolderitems:
       - page: Widget 1
