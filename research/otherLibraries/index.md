@@ -63,26 +63,20 @@ title: Other Libraries
     <div id="ALB" class="panel-collapse collapse in">
       <div class="panel-body">
       <p>City Tech students may visit, study, and use resources at other college libraries in Brooklyn. This is possible through the Academic Libraries of Brooklyn (ALB). They may borrow up to two (2) books at a time from these locations.</p>
-
       <p>City Tech does not permit lending books through the ALB, though ALB visitors to the City Tech Library can use materials on site.</p>
-
       <p>City Tech students must request an ALB card at the Borrow & Return Desk before visiting an ALB library. The card allows access to the following non-CUNY libraries:</p>
-
       <ul>
       <li><a href="https://www.liu.edu/Brooklyn/Brooklyn-Campus-Library" >Long Island University</a></li>
       <li><a href="http://library.pratt.edu/" >Pratt Institute</a></li>
       <li><a href="http://library.sfc.edu/" >St. Francis College</a></li>
       </ul>
-
       <p>Other libraries that students can visit with exceptions:</p>
-
       <p><a href="https://www.sjcny.edu/libraries" >St. Joseph’s College</a>
       <ul>
       <li>No visits for studying due to space limitations.</li>
       <li>Students must call ahead of your visit to borrow books.</li>
       </ul>
       </p>
-
       <p><a href="https://library.nyu.edu/locations/bern-dibner-library/" >NYU Tandon School of Engineering</a>
       <ul>
       <li>Students will need to request advance permission to visit NYU Tandon.</li>
@@ -93,7 +87,6 @@ title: Other Libraries
     </div>
   </div>
 </div> 
-
  <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
@@ -107,7 +100,6 @@ title: Other Libraries
     </div>
   </div>
 </div> 
-
  <div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
