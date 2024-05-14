@@ -23,7 +23,8 @@ title: Other Libraries
 <li><a href="http://www.mec.cuny.edu/library" target="_blank" >Medgar Evers College</a></li>
 <li><a href="http://www.qc.edu/Library/index.html" target="_blank" >Queens College</a></li>
 <li><a href="http://www.library.csi.cuny.edu/" target="_blank" >College of Staten Island</a></li>
-<li><a href="http://www.york.cuny.edu/library/" target="_blank" >York College</a></li></ul></li></ul>
+<li><a href="http://www.york.cuny.edu/library/" target="_blank" >York College</a></li>
+</ul>
       </div>
       <div class="col-md-4">
       <strong>Community Colleges</strong><ul>
@@ -32,12 +33,17 @@ title: Other Libraries
 <li><a href="http://www.hostos.cuny.edu/library/index.htm" target="_blank" >Hostos Community College</a></li>
 <li><a href="https://www.kbcc.cuny.edu/kcclibrary/Homepage.html" target="_blank" >Kingsborough Community College</a></li>
 <li><a href="http://www.lagcc.cuny.edu/library/" target="_blank" >LaGuardia Community College</a></li>
-<li><a href="http://www.qcc.cuny.edu/library/" target="_blank" >Queensborough Community College</a></li></ul></li></ul>
+<li><a href="http://www.qcc.cuny.edu/library/" target="_blank" >Queensborough Community College</a></li>
+</ul>
+
       </div>
-      <div class="col-md-4">
-      <strong>Other</strong><ul><li><a href="http://library.gc.cuny.edu/" target="_blank" >CUNY Graduate Center</a></li>
-<li><a href="http://www.law.cuny.edu/library/" target="_blank" >CUNY School of Law</a></li>
-<li><a href="http://www.journalism.cuny.edu/research-center/" target="_blank" >CUNY Graduate School of Journalism</font></a></li></ul>
+<div class="col-md-4">
+      <strong>Other</strong>
+      <ul>
+      <li><a href="http://library.gc.cuny.edu/" target="_blank" >CUNY Graduate Center</a></li>
+      <li><a href="http://www.law.cuny.edu/library/" target="_blank" >CUNY School of Law</a></li>
+      <li><a href="http://www.journalism.cuny.edu/research-center/" target="_blank" >CUNY Graduate School of Journalism</font></a></li>
+</ul>
       </div> 
         </div>
 <div class="col-md-12">
