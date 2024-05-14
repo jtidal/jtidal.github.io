@@ -18,7 +18,7 @@ toc:
       - page: Other Libraries
         url: https://library.citytech.cuny.edu/research/otherLibraries/index.php
       - page: Library Subject Specialists
-        url: https://library.citytech.cuny.edu/research/subjectSpecialists.php
+        url: research/subjectSpecialists.html
   - title: Services
     subfolderitems:
       - page: Borrow, Renew, Request
