@@ -1,5 +1,5 @@
 toc:
-  - title: Finds
+  - title: Find
     subfolderitems:
       - page: Books
         url: https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY
@@ -37,8 +37,8 @@ toc:
         url: #
       - page: Library Classes
         url: #
- - title: Research Help
-   subfolderitems:
+  - title: Research Help
+    subfolderitems:
       - page: Ask A Librarian
         url: /widget1.html
       - page: Citations & Writing
@@ -69,7 +69,7 @@ toc:
         url: /widget3.html
       - page: Employment
         url: /widget3.html
-   - title: News
+  - title: News
     subfolderitems:
       - page: LibraryBuzz News Blog
         url: https://openlab.citytech.cuny.edu/library
