@@ -37,14 +37,55 @@ toc:
         url: #
       - page: Library Classes
         url: #
-  - title: Group 3
+  - title: Research Help
     subfolderitems:
-      - page: Widget 1
+      - page: Ask A Librarian
         url: /widget1.html
-      - page: Widget 2
+      - page: Citations & Writing
         url: /widget2.html
-      - page: Widget 3
+      - page: Tutorials
         url: /widget3.html
-
-
-     
+      - page: Workshops
+        url: /widget3.html
+      - page: How Do I...?
+        url: /widget3.html
+  - title: About
+    subfolderitems:
+      - page: Hours
+        url: /widget1.html
+      - page: Directions
+        url: /widget2.html
+      - page: Library Faculty & Staff
+        url: /widget3.html
+      - page: LIB Courses
+        url: /widget3.html
+      - page: Mission & History
+        url: /widget3.html
+      - page: Strategic Plan
+        url: /widget3.html
+      - page: Diversity Commitments
+        url: /widget3.html
+      - page: Policies
+        url: /widget3.html
+      - page: Employment
+        url: /widget3.html
+   - title: News
+    subfolderitems:
+      - page: LibraryBuzz News Blog
+        url: /widget1.html
+      - page: Directions
+        url: /widget2.html
+      - page: Library Faculty & Staff
+        url: /widget3.html
+      - page: LIB Courses
+        url: /widget3.html
+      - page: Mission & History
+        url: /widget3.html
+      - page: Strategic Plan
+        url: /widget3.html
+      - page: Diversity Commitments
+        url: /widget3.html
+      - page: Policies
+        url: /widget3.html
+      - page: Employment
+        url: /widget3.html    
