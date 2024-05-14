@@ -6,7 +6,7 @@ title: Other Libraries
   <div class="card card-default">
     <div class="card-heading">
       <h3 class="card-title">
-        <h3><strong>CUNY Libraries and Colleges</strong></h3>
+        <strong>CUNY Libraries and Colleges</strong>
       </h3>
     </div>
       <div class="card-body">
@@ -56,7 +56,7 @@ title: Other Libraries
   <div class="card card-default">
     <div class="card-heading">
       <h4 class="card-title">
-        <h3><strong>Academic Libraries of Brooklyn (ALB)</strong></h3>
+        <strong>Academic Libraries of Brooklyn (ALB)</strong>
       </h4>
     </div>
       <div class="card-body">
@@ -89,7 +89,7 @@ title: Other Libraries
   <div class="card card-default">
     <div class="card-heading">
       <h4 class="card-title">
-        <h3><strong>METRO</strong></h3>
+        <strong>METRO</strong>
       </h4>
     </div>
       <div class="card-body"><p><a href="http://www.metro.org/" target="_blank" >The Metropolitan New York Library Council, or METRO</a>, is an organization of libraries and library systems. It spans the five boroughs of NYC and Westchester County. It is a diverse group of academic, public, hospital and special libraries.</p>
@@ -101,7 +101,7 @@ title: Other Libraries
   <div class="card card-default">
     <div class="card-heading">
       <h4 class="card-title">
-        <h3><strong>Manhattan Research Library Initiative</strong></h3>
+        <strong>Manhattan Research Library Initiative</strong>
       </h4>
     </div>
       <div class="card-body"><p><a href="http://www.nypl.org/help/finding-things/MaRLI" target="_blank" >MaRLI</a>&nbsp; is a partnership between New York Public Library, Columbia University, and New York University. Any NYPL cardholder who has exhausted local research resources is eligible to borrow select research materials from Columbia and NYU Libraries. <a href="http://www.nypl.org/help/library-card" target="_blank" >NYPL cardholders</a> may <a href="http://www.nypl.org/MaRLI-application" target="_blank" >register for MaRLI&nbsp;</a>.</p>
