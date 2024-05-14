@@ -52,10 +52,8 @@ title: Other Libraries
 <li><a href="https://kokomoto.carto.com/builder/7f1a1151-7e8e-4044-aab4-b068d2c6695b/embed" >Map of CUNY libraries accessible to City Tech users</a></li>
 </ul>
 </div>
-      </div>
-    </div>
-
-  </div>
+</div>
+</div>
 </div> 
 
  <div class="card-group">
