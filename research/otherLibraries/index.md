@@ -1,18 +1,18 @@
 --- 
 layout: page
 title: Other Libraries
----  
-<div class="card- group">
-  <div class="card card- default">
-    <div class="card- heading">
-      <h3 class="card- title">
+--- 
+<div class="card-group">
+<div class="card card-default">
+<div class="card-heading">
+<h3 class="card-title">
 **CUNY Libraries and Colleges**
-      </h3>
-    </div>
-    <div>
-      <div class="card- body">
-        <div class="row">
-        <div class="col- md- 4">
+</h3>
+</div>
+<div>
+<div class="card- body">
+<div class="row">
+<div class="col-md-4">
 **Senior Colleges**
 - <a href="https://library.baruch.cuny.edu/" target="_blank" >Baruch College</a>
 - <a href="http://academic.brooklyn.cuny.edu/library/" target="_blank" >Brooklyn College</a>
@@ -25,8 +25,8 @@ title: Other Libraries
 - <a href="http://www.library.csi.cuny.edu/" target="_blank" >College of Staten Island</a>
 - <a href="http://www.york.cuny.edu/library/" target="_blank" >York College</a></ul></ul>
 </div>
-<div class="col- md- 4">
-**Community Colleges**<ul>
+<div class="col-md-4">
+**Community Colleges**
 - <a href="http://lib1.bmcc.cuny.edu/lib/" target="_blank" >Borough of Manhattan Community College</a>
 - <a href="http://www.bcc.cuny.edu/library/" target="_blank" >Bronx Community College</a>
 - <a href="http://www.hostos.cuny.edu/library/index.htm" target="_blank" >Hostos Community College</a>
@@ -34,65 +34,53 @@ title: Other Libraries
 - <a href="http://www.lagcc.cuny.edu/library/" target="_blank" >LaGuardia Community College</a>
 - <a href="http://www.qcc.cuny.edu/library/" target="_blank" >Queensborough Community College</a></ul></ul>
  </div>
-<div class="col- md- 4">
+<div class="col-md-4">
 **Other**<ul>- <a href="http://library.gc.cuny.edu/" target="_blank" >CUNY Graduate Center</a>
 - <a href="http://www.law.cuny.edu/library/" target="_blank" >CUNY School of Law</a>
 - <a href="http://www.journalism.cuny.edu/research- center/" target="_blank" >CUNY Graduate School of Journalism</font></a></ul>
 </div> 
 </div>
-<div class="col- md- 12">
-<ul>
+<div class="col-md-12">
 - Patrons can request books from other CUNY libraries via <a href="https://library.citytech.cuny.edu/help/how/clics.php" >CLICS</a>.
 - <a href="https://kokomoto.carto.com/builder/7f1a1151- 7e8e- 4044- aab4- b068d2c6695b/embed" >Map of CUNY libraries accessible to City Tech users</a>
-</ul>
 </div>
 </div>
 </div>
 </div>
 </div> 
-
- <div class="card- group">
-  <div class="card card- default">
-    <div class="card- heading">
-      <h4 class="card- title">
-        <h3>**Academic Libraries of Brooklyn (ALB)**</h3>
-      </h4>
-    </div>
-    <div>
-      <div class="card- body">
-      <p>City Tech students may visit, study, and use resources at other college libraries in Brooklyn. This is possible through the Academic Libraries of Brooklyn (ALB). They may borrow up to two (2) books at a time from these locations.</p>
-
-      <p>City Tech does not permit lending books through the ALB, though ALB visitors to the City Tech Library can use materials on site.</p>
-
-      <p>City Tech students must request an ALB card at the Borrow & Return Desk before visiting an ALB library. The card allows access to the following non- CUNY libraries:</p>
-
-      - <a href="https://www.liu.edu/Brooklyn/Brooklyn- Campus- Library" >Long Island University</a>
-      - <a href="http://library.pratt.edu/" >Pratt Institute</a>
-      - <a href="http://library.sfc.edu/" >St. Francis College</a>
-
-      <p>Other libraries that students can visit with exceptions:</p>
-
-      <p><a href="https://www.sjcny.edu/libraries" >St. Joseph’s College</a>
-      - No visits for studying due to space limitations.
-      - Students must call ahead of your visit to borrow books.
-      </p>
-
-      <p><a href="https://library.nyu.edu/locations/bern- dibner- library/" >NYU Tandon School of Engineering</a>
-      <ul>
-      - Students will need to request advance permission to visit NYU Tandon.
-      - Request a visit at the Ask A Librarian Desk of the City Tech Library.
-      </ul>
-      </p>
-      </div>
-    </div>
-  </div>
+<div class="card-group">
+<div class="card card-default">
+<div class="card-heading">
+<h4 class="card-title">
+<h3>**Academic Libraries of Brooklyn (ALB)**</h3>
+</h4>
+</div>
+<div>
+<div class="card- body">
+<p>City Tech students may visit, study, and use resources at other college libraries in Brooklyn. This is possible through the Academic Libraries of Brooklyn (ALB). They may borrow up to two (2) books at a time from these locations.</p>
+<p>City Tech does not permit lending books through the ALB, though ALB visitors to the City Tech Library can use materials on site.</p>
+<p>City Tech students must request an ALB card at the Borrow & Return Desk before visiting an ALB library. The card allows access to the following non- CUNY libraries:</p>
+- <a href="https://www.liu.edu/Brooklyn/Brooklyn- Campus- Library" >Long Island University</a>
+- <a href="http://library.pratt.edu/" >Pratt Institute</a>
+- <a href="http://library.sfc.edu/" >St. Francis College</a>
+<p>Other libraries that students can visit with exceptions:</p>
+<p><a href="https://www.sjcny.edu/libraries" >St. Joseph’s College</a>
+- No visits for studying due to space limitations.
+- Students must call ahead of your visit to borrow books.
+</p>
+<p><a href="https://library.nyu.edu/locations/bern- dibner- library/" >NYU Tandon School of Engineering</a>
+- Students will need to request advance permission to visit NYU Tandon.
+- Request a visit at the Ask A Librarian Desk of the City Tech Library.
+</p>
+<div>
+</div>
+</div>
 </div> 
-
- <div class="card- group">
-  <div class="card card- default">
-    <div class="card- heading">
-      <h4 class="card- title">
-        <h3>**METRO**</h3>
+ <div class="card-group">
+  <div class="card card-default">
+    <div class="card-heading">
+      <h4 class="card-title">
+<h3>**METRO**</h3>
       </h4>
     </div>
     <div id="METRO" class="card">
@@ -102,10 +90,10 @@ title: Other Libraries
   </div>
 </div> 
 
- <div class="card- group">
-  <div class="card card- default">
-    <div class="card- heading">
-      <h4 class="card- title">
+ <div class="card-group">
+  <div class="card card-default">
+    <div class="card-heading">
+      <h4 class="card-title">
         <a data- toggle="collapse" href="#MARLI"><h3>**Manhattan Research Library Initiative**</h3></a>
       </h4>
     </div>
