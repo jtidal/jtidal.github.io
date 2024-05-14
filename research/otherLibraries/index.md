@@ -15,36 +15,36 @@ title: Other Libraries
       <div class="col-md-4">
       <strong>Senior Colleges</strong>
 <ul>
-<li><a href="https://library.baruch.cuny.edu/" target="_blank" >Baruch College</a></li>
-<li><a href="http://academic.brooklyn.cuny.edu/library/" target="_blank" >Brooklyn College</a></li>
-<li><a href="http://www.ccny.cuny.edu/library/" target="_blank" >City College of New York</a></li>
-<li><a href="http://library.hunter.cuny.edu/" target="_blank" >Hunter College</a></li>
-<li><a href="http://www.lib.jjay.cuny.edu/" target="_blank" >John Jay College of Criminal Justice</a></li>
-<li><a href="https://www.lehman.edu/library/" target="_blank" >Lehman College</a></li>
-<li><a href="http://www.mec.cuny.edu/library" target="_blank" >Medgar Evers College</a></li>
-<li><a href="http://www.qc.edu/Library/index.html" target="_blank" >Queens College</a></li>
-<li><a href="http://www.library.csi.cuny.edu/" target="_blank" >College of Staten Island</a></li>
-<li><a href="http://www.york.cuny.edu/library/" target="_blank" >York College</a></li></ul></li></ul>
+-<a href="https://library.baruch.cuny.edu/" target="_blank" >Baruch College</a>
+-<a href="http://academic.brooklyn.cuny.edu/library/" target="_blank" >Brooklyn College</a>
+-<a href="http://www.ccny.cuny.edu/library/" target="_blank" >City College of New York</a>
+-<a href="http://library.hunter.cuny.edu/" target="_blank" >Hunter College</a>
+-<a href="http://www.lib.jjay.cuny.edu/" target="_blank" >John Jay College of Criminal Justice</a>
+-<a href="https://www.lehman.edu/library/" target="_blank" >Lehman College</a>
+-<a href="http://www.mec.cuny.edu/library" target="_blank" >Medgar Evers College</a>
+-<a href="http://www.qc.edu/Library/index.html" target="_blank" >Queens College</a>
+-<a href="http://www.library.csi.cuny.edu/" target="_blank" >College of Staten Island</a>
+-<a href="http://www.york.cuny.edu/library/" target="_blank" >York College</a></ul></ul>
       </div>
       <div class="col-md-4">
       <strong>Community Colleges</strong><ul>
-<li><a href="http://lib1.bmcc.cuny.edu/lib/" target="_blank" >Borough of Manhattan Community College</a></li>
-<li><a href="http://www.bcc.cuny.edu/library/" target="_blank" >Bronx Community College</a></li>
-<li><a href="http://www.hostos.cuny.edu/library/index.htm" target="_blank" >Hostos Community College</a></li>
-<li><a href="https://www.kbcc.cuny.edu/kcclibrary/Homepage.html" target="_blank" >Kingsborough Community College</a></li>
-<li><a href="http://www.lagcc.cuny.edu/library/" target="_blank" >LaGuardia Community College</a></li>
-<li><a href="http://www.qcc.cuny.edu/library/" target="_blank" >Queensborough Community College</a></li></ul></li></ul>
+-<a href="http://lib1.bmcc.cuny.edu/lib/" target="_blank" >Borough of Manhattan Community College</a>
+-<a href="http://www.bcc.cuny.edu/library/" target="_blank" >Bronx Community College</a>
+-<a href="http://www.hostos.cuny.edu/library/index.htm" target="_blank" >Hostos Community College</a>
+-<a href="https://www.kbcc.cuny.edu/kcclibrary/Homepage.html" target="_blank" >Kingsborough Community College</a>
+-<a href="http://www.lagcc.cuny.edu/library/" target="_blank" >LaGuardia Community College</a>
+-<a href="http://www.qcc.cuny.edu/library/" target="_blank" >Queensborough Community College</a></ul></ul>
       </div>
       <div class="col-md-4">
-      <strong>Other</strong><ul><li><a href="http://library.gc.cuny.edu/" target="_blank" >CUNY Graduate Center</a></li>
-<li><a href="http://www.law.cuny.edu/library/" target="_blank" >CUNY School of Law</a></li>
-<li><a href="http://www.journalism.cuny.edu/research-center/" target="_blank" >CUNY Graduate School of Journalism</font></a></li></ul>
+      <strong>Other</strong><ul>-<a href="http://library.gc.cuny.edu/" target="_blank" >CUNY Graduate Center</a>
+-<a href="http://www.law.cuny.edu/library/" target="_blank" >CUNY School of Law</a>
+-<a href="http://www.journalism.cuny.edu/research-center/" target="_blank" >CUNY Graduate School of Journalism</font></a></ul>
       </div> 
         </div>
 <div class="col-md-12">
 <ul>
-<li>Patrons can request books from other CUNY libraries via <a href="https://library.citytech.cuny.edu/help/how/clics.php" >CLICS</a>.</li>
-<li><a href="https://kokomoto.carto.com/builder/7f1a1151-7e8e-4044-aab4-b068d2c6695b/embed" >Map of CUNY libraries accessible to City Tech users</a></li>
+-Patrons can request books from other CUNY libraries via <a href="https://library.citytech.cuny.edu/help/how/clics.php" >CLICS</a>.
+-<a href="https://kokomoto.carto.com/builder/7f1a1151-7e8e-4044-aab4-b068d2c6695b/embed" >Map of CUNY libraries accessible to City Tech users</a>
 </ul>
 </div>
       </div>
@@ -69,24 +69,24 @@ title: Other Libraries
       <p>City Tech students must request an ALB card at the Borrow & Return Desk before visiting an ALB library. The card allows access to the following non-CUNY libraries:</p>
 
       <ul>
-      <li><a href="https://www.liu.edu/Brooklyn/Brooklyn-Campus-Library" >Long Island University</a></li>
-      <li><a href="http://library.pratt.edu/" >Pratt Institute</a></li>
-      <li><a href="http://library.sfc.edu/" >St. Francis College</a></li>
+      -<a href="https://www.liu.edu/Brooklyn/Brooklyn-Campus-Library" >Long Island University</a>
+      -<a href="http://library.pratt.edu/" >Pratt Institute</a>
+      -<a href="http://library.sfc.edu/" >St. Francis College</a>
       </ul>
 
       <p>Other libraries that students can visit with exceptions:</p>
 
       <p><a href="https://www.sjcny.edu/libraries" >St. Joseph’s College</a>
       <ul>
-      <li>No visits for studying due to space limitations.</li>
-      <li>Students must call ahead of your visit to borrow books.</li>
+      -No visits for studying due to space limitations.
+      -Students must call ahead of your visit to borrow books.
       </ul>
       </p>
 
       <p><a href="https://library.nyu.edu/locations/bern-dibner-library/" >NYU Tandon School of Engineering</a>
       <ul>
-      <li>Students will need to request advance permission to visit NYU Tandon.</li>
-      <li>Request a visit at the Ask A Librarian Desk of the City Tech Library.</li>
+      -Students will need to request advance permission to visit NYU Tandon.
+      -Request a visit at the Ask A Librarian Desk of the City Tech Library.
       </ul>
       </p>
       </div>
