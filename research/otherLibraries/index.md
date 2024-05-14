@@ -1,3 +1,7 @@
+---
+layout: page
+title: Other Libraries
+---
 <div class="card-group">
   <div class="card card-default">
     <div class="card-heading">
