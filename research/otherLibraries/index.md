@@ -45,7 +45,7 @@ title: Other Libraries
       <li><a href="http://www.journalism.cuny.edu/research-center/" target="_blank" >CUNY Graduate School of Journalism</font></a></li>
 </ul>
       </div> 
-        </div>
+
 <div class="col-md-12">
 <ul>
 <li>Patrons can request books from other CUNY libraries via <a href="https://library.citytech.cuny.edu/help/how/clics.php" >CLICS</a>.</li>
@@ -54,7 +54,7 @@ title: Other Libraries
 </div>
 </div>
 </div>
-</div> 
+
 
  <div class="card-group">
   <div class="card card-default">
@@ -88,7 +88,7 @@ title: Other Libraries
       </div>
     </div>
   </div>
-</div> 
+
  <div class="card-group">
   <div class="card card-default">
     <div class="card-heading">
@@ -100,7 +100,7 @@ title: Other Libraries
 <p>The City Tech library offers yellow title METRO referral cards. The cards allow access to on-site books unavailable at CUNY or frp, local public libraries.For more information, read our&nbsp;<a href="http://library.citytech.cuny.edu/policies/access/metrocard.php" https://library.nyu.edu/locations/bern-dibner-library/>METRO card policy</a>.</p></div>
     </div>
   </div>
-</div> 
+
  <div class="card-group">
   <div class="card card-default">
     <div class="card-heading">
@@ -113,4 +113,3 @@ title: Other Libraries
 </div>
     </div>
   </div>
-</div> 
