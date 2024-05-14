@@ -25,7 +25,7 @@ title: Other Libraries
 - <a href="http://www.library.csi.cuny.edu/" target="_blank" >College of Staten Island</a>
 - <a href="http://www.york.cuny.edu/library/" target="_blank" >York College</a></ul></ul>
 </div>
-      <div class="col- md- 4">
+<div class="col- md- 4">
 **Community Colleges**<ul>
 - <a href="http://lib1.bmcc.cuny.edu/lib/" target="_blank" >Borough of Manhattan Community College</a>
 - <a href="http://www.bcc.cuny.edu/library/" target="_blank" >Bronx Community College</a>
@@ -33,23 +33,22 @@ title: Other Libraries
 - <a href="https://www.kbcc.cuny.edu/kcclibrary/Homepage.html" target="_blank" >Kingsborough Community College</a>
 - <a href="http://www.lagcc.cuny.edu/library/" target="_blank" >LaGuardia Community College</a>
 - <a href="http://www.qcc.cuny.edu/library/" target="_blank" >Queensborough Community College</a></ul></ul>
-      </div>
-      <div class="col- md- 4">
+ </div>
+<div class="col- md- 4">
 **Other**<ul>- <a href="http://library.gc.cuny.edu/" target="_blank" >CUNY Graduate Center</a>
 - <a href="http://www.law.cuny.edu/library/" target="_blank" >CUNY School of Law</a>
 - <a href="http://www.journalism.cuny.edu/research- center/" target="_blank" >CUNY Graduate School of Journalism</font></a></ul>
-      </div> 
-        </div>
+</div> 
+</div>
 <div class="col- md- 12">
 <ul>
 - Patrons can request books from other CUNY libraries via <a href="https://library.citytech.cuny.edu/help/how/clics.php" >CLICS</a>.
 - <a href="https://kokomoto.carto.com/builder/7f1a1151- 7e8e- 4044- aab4- b068d2c6695b/embed" >Map of CUNY libraries accessible to City Tech users</a>
 </ul>
 </div>
-      </div>
-    </div>
-
-  </div>
+</div>
+</div>
+</div>
 </div> 
 
  <div class="card- group">
