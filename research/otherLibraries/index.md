@@ -2,15 +2,15 @@
 layout: page
 title: Other Libraries
 --- 
-<div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h3 class="panel-title">
+<div class="card-group">
+  <div class="card card-default">
+    <div class="card-heading">
+      <h3 class="card-title">
         <a data-toggle="collapse" href="#collapse1"><h3><strong>CUNY Libraries and Colleges</strong></h3></a>
       </h3>
     </div>
-    <div id="collapse1" class="panel-collapse collapse in">
-      <div class="panel-body">
+    <div id="collapse1" class="card-collapse collapse in">
+      <div class="card-body">
         <div class="row">
       <div class="col-md-4">
       <strong>Senior Colleges</strong>
@@ -53,15 +53,15 @@ title: Other Libraries
   </div>
 </div> 
 
- <div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
+ <div class="card-group">
+  <div class="card card-default">
+    <div class="card-heading">
+      <h4 class="card-title">
         <a data-toggle="collapse" href="#ALB"><h3><strong>Academic Libraries of Brooklyn (ALB)</strong></h3></a>
       </h4>
     </div>
-    <div id="ALB" class="panel-collapse collapse in">
-      <div class="panel-body">
+    <div id="ALB" class="card-collapse collapse in">
+      <div class="card-body">
       <p>City Tech students may visit, study, and use resources at other college libraries in Brooklyn. This is possible through the Academic Libraries of Brooklyn (ALB). They may borrow up to two (2) books at a time from these locations.</p>
       <p>City Tech does not permit lending books through the ALB, though ALB visitors to the City Tech Library can use materials on site.</p>
       <p>City Tech students must request an ALB card at the Borrow & Return Desk before visiting an ALB library. The card allows access to the following non-CUNY libraries:</p>
@@ -87,28 +87,28 @@ title: Other Libraries
     </div>
   </div>
 </div> 
- <div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
+ <div class="card-group">
+  <div class="card card-default">
+    <div class="card-heading">
+      <h4 class="card-title">
         <a data-toggle="collapse" href="#METRO"><h3><strong>METRO</strong></h3></a>
       </h4>
     </div>
-    <div id="METRO" class="panel-collapse collapse in">
-      <div class="panel-body"><p><a href="http://www.metro.org/" target="_blank" >The Metropolitan New York Library Council, or METRO</a>, is an organization of libraries and library systems. It spans the five boroughs of NYC and Westchester County. It is a diverse group of academic, public, hospital and special libraries.</p>
+    <div id="METRO" class="card-collapse collapse in">
+      <div class="card-body"><p><a href="http://www.metro.org/" target="_blank" >The Metropolitan New York Library Council, or METRO</a>, is an organization of libraries and library systems. It spans the five boroughs of NYC and Westchester County. It is a diverse group of academic, public, hospital and special libraries.</p>
 <p>The City Tech library offers yellow title METRO referral cards. The cards allow access to on-site books unavailable at CUNY or frp, local public libraries.For more information, read our&nbsp;<a href="http://library.citytech.cuny.edu/policies/access/metrocard.php" https://library.nyu.edu/locations/bern-dibner-library/>METRO card policy</a>.</p></div>
     </div>
   </div>
 </div> 
- <div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
+ <div class="card-group">
+  <div class="card card-default">
+    <div class="card-heading">
+      <h4 class="card-title">
         <a data-toggle="collapse" href="#MARLI"><h3><strong>Manhattan Research Library Initiative</strong></h3></a>
       </h4>
     </div>
-    <div id="MARLI" class="panel-collapse collapse in">
-      <div class="panel-body"><p><a href="http://www.nypl.org/help/finding-things/MaRLI" target="_blank" >MaRLI</a>&nbsp; is a partnership between New York Public Library, Columbia University, and New York University. Any NYPL cardholder who has exhausted local research resources is eligible to borrow select research materials from Columbia and NYU Libraries. <a href="http://www.nypl.org/help/library-card" target="_blank" >NYPL cardholders</a> may <a href="http://www.nypl.org/MaRLI-application" target="_blank" >register for MaRLI&nbsp;</a>.</p>
+    <div id="MARLI" class="card-collapse collapse in">
+      <div class="card-body"><p><a href="http://www.nypl.org/help/finding-things/MaRLI" target="_blank" >MaRLI</a>&nbsp; is a partnership between New York Public Library, Columbia University, and New York University. Any NYPL cardholder who has exhausted local research resources is eligible to borrow select research materials from Columbia and NYU Libraries. <a href="http://www.nypl.org/help/library-card" target="_blank" >NYPL cardholders</a> may <a href="http://www.nypl.org/MaRLI-application" target="_blank" >register for MaRLI&nbsp;</a>.</p>
 <p>For complete details about the program, including a list of participating libraries and all eligibility requirements, please view the&nbsp;<a href="http://marli.libguides.com/content.php?pid=194135&amp;sid=1627106" target="_blank" >LibGuide</a>&nbsp;on the NYU library website.</p>
 </div>
     </div>
