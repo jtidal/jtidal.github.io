@@ -1,7 +1,8 @@
 --- 
 layout: page
 title: Other Libraries
---- <div class="panel-group">
+--- 
+<div class="panel-group">
   <div class="panel panel-default">
     <div class="panel-heading">
       <h3 class="panel-title">
