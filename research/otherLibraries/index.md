@@ -6,14 +6,14 @@ title: Other Libraries
 <div class="card card-default">
 <div class="card-heading">
 <h3 class="card-title">
-**CUNY Libraries and Colleges**
+<strong>CUNY Libraries and Colleges</strong>
 </h3>
 </div>
 <div>
 <div class="card- body">
 <div class="row">
 <div class="col-md-4">
-**Senior Colleges**
+<strong>Senior Colleges</strong>
 - <a href="https://library.baruch.cuny.edu/" target="_blank" >Baruch College</a>
 - <a href="http://academic.brooklyn.cuny.edu/library/" target="_blank" >Brooklyn College</a>
 - <a href="http://www.ccny.cuny.edu/library/" target="_blank" >City College of New York</a>
@@ -23,21 +23,21 @@ title: Other Libraries
 - <a href="http://www.mec.cuny.edu/library" target="_blank" >Medgar Evers College</a>
 - <a href="http://www.qc.edu/Library/index.html" target="_blank" >Queens College</a>
 - <a href="http://www.library.csi.cuny.edu/" target="_blank" >College of Staten Island</a>
-- <a href="http://www.york.cuny.edu/library/" target="_blank" >York College</a></ul></ul>
+- <a href="http://www.york.cuny.edu/library/" target="_blank" >York College</a>
 </div>
 <div class="col-md-4">
-**Community Colleges**
+<strong>Community Colleges</strong>
 - <a href="http://lib1.bmcc.cuny.edu/lib/" target="_blank" >Borough of Manhattan Community College</a>
 - <a href="http://www.bcc.cuny.edu/library/" target="_blank" >Bronx Community College</a>
 - <a href="http://www.hostos.cuny.edu/library/index.htm" target="_blank" >Hostos Community College</a>
 - <a href="https://www.kbcc.cuny.edu/kcclibrary/Homepage.html" target="_blank" >Kingsborough Community College</a>
 - <a href="http://www.lagcc.cuny.edu/library/" target="_blank" >LaGuardia Community College</a>
-- <a href="http://www.qcc.cuny.edu/library/" target="_blank" >Queensborough Community College</a></ul></ul>
+- <a href="http://www.qcc.cuny.edu/library/" target="_blank" >Queensborough Community College</a>
  </div>
 <div class="col-md-4">
-**Other**<ul>- <a href="http://library.gc.cuny.edu/" target="_blank" >CUNY Graduate Center</a>
+<strong>Other<strong><ul>- <a href="http://library.gc.cuny.edu/" target="_blank" >CUNY Graduate Center</a>
 - <a href="http://www.law.cuny.edu/library/" target="_blank" >CUNY School of Law</a>
-- <a href="http://www.journalism.cuny.edu/research- center/" target="_blank" >CUNY Graduate School of Journalism</font></a></ul>
+- <a href="http://www.journalism.cuny.edu/research- center/" target="_blank" >CUNY Graduate School of Journalism</font></a>
 </div> 
 </div>
 <div class="col-md-12">
@@ -52,7 +52,7 @@ title: Other Libraries
 <div class="card card-default">
 <div class="card-heading">
 <h4 class="card-title">
-<h3>**Academic Libraries of Brooklyn (ALB)**</h3>
+<h3><strong>Academic Libraries of Brooklyn (ALB)</strong></h3>
 </h4>
 </div>
 <div>
@@ -80,7 +80,7 @@ title: Other Libraries
   <div class="card card-default">
     <div class="card-heading">
       <h4 class="card-title">
-<h3>**METRO**</h3>
+<h3><strong>METRO<strong></h3>
       </h4>
     </div>
     <div id="METRO" class="card">
@@ -94,7 +94,7 @@ title: Other Libraries
   <div class="card card-default">
     <div class="card-heading">
       <h4 class="card-title">
-        <a data- toggle="collapse" href="#MARLI"><h3>**Manhattan Research Library Initiative**</h3></a>
+        <a data- toggle="collapse" href="#MARLI"><h3><strong>Manhattan Research Library Initiative<strong></h3></a>
       </h4>
     </div>
     <div id="MARLI" class="card- collapse collapse in">
