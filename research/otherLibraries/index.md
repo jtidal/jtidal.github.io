@@ -6,7 +6,7 @@ title: Other Libraries
   <div class="card card-default">
     <div class="card-heading">
       <h3 class="card-title">
-        <a data-toggle="collapse" href="#collapse1"><h3><strong>CUNY Libraries and Colleges</strong></h3></a>
+        <h3><strong>CUNY Libraries and Colleges</strong></h3>
       </h3>
     </div>
     <div id="collapse1" class="card-collapse collapse in">
@@ -57,7 +57,7 @@ title: Other Libraries
   <div class="card card-default">
     <div class="card-heading">
       <h4 class="card-title">
-        <a data-toggle="collapse" href="#ALB"><h3><strong>Academic Libraries of Brooklyn (ALB)</strong></h3></a>
+        <h3><strong>Academic Libraries of Brooklyn (ALB)</strong></h3>
       </h4>
     </div>
     <div id="ALB" class="card-collapse collapse in">
@@ -91,7 +91,7 @@ title: Other Libraries
   <div class="card card-default">
     <div class="card-heading">
       <h4 class="card-title">
-        <a data-toggle="collapse" href="#METRO"><h3><strong>METRO</strong></h3></a>
+        <h3><strong>METRO</strong></h3>
       </h4>
     </div>
     <div id="METRO" class="card-collapse collapse in">
@@ -104,7 +104,7 @@ title: Other Libraries
   <div class="card card-default">
     <div class="card-heading">
       <h4 class="card-title">
-        <a data-toggle="collapse" href="#MARLI"><h3><strong>Manhattan Research Library Initiative</strong></h3></a>
+        <h3><strong>Manhattan Research Library Initiative</strong></h3>
       </h4>
     </div>
     <div id="MARLI" class="card-collapse collapse in">
