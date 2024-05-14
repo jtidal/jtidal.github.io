@@ -1,5 +1,6 @@
 ---
 layout: page
+title: News
 ---
 <header>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
