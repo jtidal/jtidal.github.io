@@ -31,7 +31,7 @@ title: Other Libraries
             - <a href="http://www.qcc.cuny.edu/library/" target="_blank">Queensborough Community College</a>
         </div>
         <div class="col-md-4">
-            <strong>Other<strong>
+            <strong>Other</strong>
             - <a href="http://library.gc.cuny.edu/" target="_blank">CUNY Graduate Center</a>
             - <a href="http://www.law.cuny.edu/library/" target="_blank">CUNY School of Law</a>
             - <a href="http://www.journalism.cuny.edu/research- center/" target="_blank">CUNY Graduate School of Journalism</a>
