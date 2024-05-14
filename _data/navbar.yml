@@ -72,7 +72,7 @@ toc:
    - title: News
     subfolderitems:
       - page: LibraryBuzz News Blog
-        url: /widget1.html
+        url: https://openlab.citytech.cuny.edu/library
       - page: Directions
         url: /widget2.html
       - page: Library Faculty & Staff
