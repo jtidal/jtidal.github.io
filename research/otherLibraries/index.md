@@ -6,7 +6,7 @@ title: Other Libraries
   <div class="card card-default">
     <div class="card-heading">
       <h3 class="card-title">
-        <h3><strong>CUNY Libraries and Colleges</strong></h3>
+        <strong>CUNY Libraries and Colleges</strong>
       </h3>
     </div>
     <div>
