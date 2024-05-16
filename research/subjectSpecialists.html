@@ -6,18 +6,33 @@ Each discipline and department at City Tech has a subject specialist, a library 
 
 Visit our <a href="https://libguides.citytech.cuny.edu/">Research Guides</a> for discipline resources.
 
-<table class="views-table sticky-enabled cols-2 table table-striped table-bordered table-condensed table-0"   >
-        <thead>
+<table class="cols-2 table table-striped table-condensed">
+  <thead>
     <tr>
-              <th>
-          Subject         </th>
-              <th>
-          Librarian        </th>
-          </tr>
+    <th>Name &amp; Contact</th>
+    <th>Rank &amp; Service Area</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for item in site.data.librarians.librarians %}
+    <tr><td><h4><a href="{{ item.link}}">{{item.subject}}</a></h4>
+    </td>
+    <td></td>
+    </tr>  
+  {% endfor %}
+  </tbody>
+    </table>
+
+<table>
+    <thead>
+      <tr>
+        <th>Subject</th>
+        <th>Librarian</th>
+      </tr>
     </thead>
     <tbody>
-      <tr class="odd views-row-first">
-              <td>
+      {% for person in site.data.librarians.librarians %}
+      <tr><td>
           <a href="/subject-specializations/african-american-studies">African American Studies</a>        </td>
               <td>
           <a href="/about/faculty/wanett-clyde">Wanett Clyde</a>        </td>
