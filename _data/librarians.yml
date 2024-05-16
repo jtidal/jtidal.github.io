@@ -9,12 +9,15 @@ librarians:
     room: L543D
     rank: Associate Professor
     area: Instruction and Reference
-    subjects: 
-     - Architectural Technology
-     - Developmental Reading and Writing   
-     - 'Fiction & Poetry'  
-     - Human Services
-     - 'Performing Arts (Theater, Dance & Music)'
+    specialist: 
+     - subject: Architectural Technology
+       link: https://libguides.citytech.cuny.edu/architecture
+     - subject: Developmental Reading and Writing   
+     - subject: 'Fiction & Poetry'  
+     - subject: Human Services
+       link: https://libguides.citytech.cuny.edu/hus
+     - subject: 'Performing Arts (Theater, Dance & Music)'
+       link: https://libguides.citytech.cuny.edu/theater
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=45408'
 
   - name: Monica Berger
@@ -25,12 +28,16 @@ librarians:
     room: L543A
     rank: Professor
     area: Instruction and Scholarly Communications
-    subjects: 
-    - Art History
-    - Communication Design 
-    - Hospitality Management 
-    - 'Performing Arts (Theater, Dance & Music)'
-    - Physics
+    specialist: 
+    - subject: Art History
+      link: https://libguides.citytech.cuny.edu/artHistory
+    - subject: Communication Design
+      link: https://libguides.citytech.cuny.edu/comm 
+    - subject: Hospitality Management 
+      link: https://libguides.citytech.cuny.edu/hm
+    - subject: 'Performing Arts (Theater, Dance & Music)'
+    - subject: Physics
+      link: https://libguides.citytech.cuny.edu/phy
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=26580'
 
   - name: Wanett Clyde
@@ -41,9 +48,11 @@ librarians:
     room:  L539C 
     rank: Assistant Professor 
     area: Collections Management and Archives
-    subjects:   
-    - African American Studies 
-    - 'Business (Fashion)'
+    specialist:
+    - subject: African American Studies 
+      link: https://libguides.citytech.cuny.edu/afr
+    - subject: 'Business (Fashion)'
+      link: https://libguides.citytech.cuny.edu/business
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=185296'
 
   - name: Cailean Cooney
@@ -54,11 +63,15 @@ librarians:
     room: L436
     rank: Associate Professor
     area: Open Educational Resources 
-    subjects:   
-    - Biological Sciences  
-    - Career and Technology Teacher Education  
-    - Health Sciences  
-    - Psychology
+    specialist:   
+    - subject: Biological Sciences  
+      link: https://libguides.citytech.cuny.edu/bio
+    - subject: Career and Technology Teacher Education  
+      link: https://libguides.citytech.cuny.edu/careerTech
+    - subject: 'Health Sciences/Health Services Administration  
+      link: https://libguides.citytech.cuny.edu/hsa
+    - subject: Psychology
+      link: https://libguides.citytech.cuny.edu/psych
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=41998'
 
   - name: Morris Hounion
@@ -69,9 +82,11 @@ librarians:
     room: L539A
     rank: Assistant Professor 
     area: 'Instruction  and Reference, Exhibits, Gifts (of materials to library)'
-    subjects:   
-    - Communications 
-    - Vision Care Technology
+    specialist:   
+    - subject: Communications
+      link: https://libguides.citytech.cuny.edu/com 
+    - subject: Vision Care Technology
+      link: https://libguides.citytech.cuny.edu/vct
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=45409'
 
   - name: Jen Hoyer
@@ -82,12 +97,15 @@ librarians:
     room: L539B
     rank: Assistant Professor 
     area: 'Technical Services (Periodicals and Cataloging), Electronic Resources'
-    subjects:   
-    - Anthropology 
-    - Health Communications  
-    - 'Law & Paralegal Studies'  
-    - Philosophy 
-    - 'Radiologic Technology & Medical Imaging'
+    specialist:   
+    - subject: Anthropology 
+    - subject: Health Communications  
+    - subject: 'Law & Paralegal Studies'
+      link: https://libguides.citytech.cuny.edu/law  
+    - subject: Philosophy 
+      link: https://libguides.citytech.cuny.edu/phl
+    - subject: 'Radiologic Technology & Medical Imaging'
+      link: https://libguides.citytech.cuny.edu/rad
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=304256'
 
   - name: Nanette Johnson
@@ -98,9 +116,10 @@ librarians:
     room: L438A
     rank: Assistant Professor 
     area: 'Access Services (Circulation, Reserves)'
-    subjects:   
-    - Mathematics  
-    - Modern Languages
+    specialist:   
+    - subject: Mathematics  
+      link: https://libguides.citytech.cuny.edu/mat
+    - subject: Modern Languages
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=193221'
 
   - name: Rachel Jones
@@ -118,9 +137,11 @@ librarians:
     room: L442
     rank: Assistant Professor 
     area: 'Information Technology & Interlibrary Loan'
-    subjects:   
-    - Chemistry  
-    - Gender and Sexuality Studies
+    specialist:   
+    - subject: Chemistry
+      link: https://libguides.citytech.cuny.edu/chem  
+    - subject: Gender and Sexuality Studies
+      link: https://libguides.citytech.cuny.edu/genderandsexuality
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=193222'
 
   - name: Anne Leonard
@@ -131,11 +152,14 @@ librarians:
     room: L544
     rank: Associate Professor 
     area: Interim Chief Librarian and Department Chair
-    subjects:   
-    - 'Construction/Civil Engineering Technology'  
-    - English  
-    - 'Environmental Control Technology/Facilities Management' 
-    - Geography
+    specialist:   
+    - subject: 'Construction/Civil Engineering Technology'
+      link: https://libguides.citytech.cuny.edu/CMCE  
+    - subject: English  
+      link: https://libguides.citytech.cuny.edu/english
+    - subject: 'Environmental Control Technology/Facilities Management' 
+      link: https://libguides.citytech.cuny.edu/ENVC
+    - subject: Geography
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=45405'
 
 
@@ -147,12 +171,15 @@ librarians:
     room: L435
     rank: Associate Professor 
     area: 'Reference (Coordinator) and Instruction'
-    subjects:   
-    - 'Business (Accounting/Marketing)'  
-    - Economics  
-    - 'Government & Political Science'
-    - History  
-    - Sociology
+    specialist:   
+    - subject: 'Business (Accounting/Marketing)'  
+    - subject: Economics  
+      link: https://libguides.citytech.cuny.edu/econ
+    - subject: 'Government & Political Science'
+    - subject: History  
+      link: https://libguides.citytech.cuny.edu/history
+    - subject: Sociology
+      link: https://libguides.citytech.cuny.edu/soc
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=193222'
 
   - name: Nandi Prince
@@ -163,10 +190,15 @@ librarians:
     room: L440
     rank: Assistant Professor 
     area: Instruction and Reference
-    subjects:   
-    - 'English to Speakers of Other Languages (ESOL) & Applied Linguistics'  
-    - Latin American and Puerto Rican Studies  
-    - Nursing
+    specialist:   
+    - subject: 'English to Speakers of Other Languages (ESOL) & Applied Linguistics'  
+    - subject: Dental Hygiene 
+      link: https://libguides.citytech.cuny.edu/den
+    - subject: Latin American and Puerto Rican Studies  
+    - subject: Nursing
+      link: https://libguides.citytech.cuny.edu/nur
+    - subject: Restorative Dentistry
+      link: https://libguides.citytech.cuny.edu/den
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=62457'
 
   - name: Junior Tidal
@@ -177,10 +209,15 @@ librarians:
     room: L434
     rank: Professor 
     area: Web Services and Multimedia Resources
-    subjects:   
-    - Computer Engineering Technology  
-    - Computer Systems Technology  
-    - 'Electrical/Telecommunications Engineering Technology' 
-    - Entertainment Technology 
-    - Mechanical Engineering Technology
+    specialist:   
+    - subject: Computer Engineering Technology
+      link: https://libguides.citytech.cuny.edu/cet  
+    - subject: Computer Systems Technology
+      link: https://libguides.citytech.cuny.edu/cst
+    - subject: 'Electrical/Telecommunications Engineering Technology' 
+      link: https://libguides.citytech.cuny.edu/ETET
+    - subject: Entertainment Technology 
+      link: https://libguides.citytech.cuny.edu/ent
+    - subject: Mechanical Engineering Technology
+      link: https://libguides.citytech.cuny.edu/mech
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=32667'
