@@ -1,20 +1,20 @@
 ---
 # Librarians
 librarians:
- - name: Nora Almeida
-   fname: Nora
-   lname: Almeida
-   email: nalmeida@citytech.cuny.edu
-   phone: 718.260.5478
-   room: L543D
-   rank: Associate Professor
-   area: Instruction and Reference
-   subjects: 
-  - Architectural Technology
-  - Developmental Reading and Writing   
-  - 'Fiction & Poetry'  
-  - Human Services
-  -'Performing Arts (Theater, Dance & Music)''
+  - name: Nora Almeida
+    fname: Nora
+    lname: Almeida
+    email: nalmeida@citytech.cuny.edu
+    phone: 718.260.5478
+    room: L543D
+    rank: Associate Professor
+    area: Instruction and Reference
+    subjects: 
+     - Architectural Technology
+     - Developmental Reading and Writing   
+     - 'Fiction & Poetry'  
+     - Human Services
+     - 'Performing Arts (Theater, Dance & Music)'
 
   - name: Monica Berger
     fname: Monica
@@ -25,11 +25,11 @@ librarians:
     rank: Professor
     area: Instruction and Scholarly Communications
     subjects: 
-    -Art History
-    -Communication Design 
-    -Hospitality Management 
+    - Art History
+    - Communication Design 
+    - Hospitality Management 
     -'Performing Arts (Theater, Dance & Music)'
-    -Physics
+    - Physics
 
   - name: Wanett Clyde
     fname: Wanett
@@ -40,8 +40,8 @@ librarians:
     rank: Assistant Professor 
     area: Collections Management and Archives
     subjects:   
-    -African American Studies 
-    -'Business (Fashion)''  
+    - African American Studies 
+    - 'Business (Fashion)''  
 
   - name: Cailean Cooney
     fname: Cailean
@@ -52,10 +52,10 @@ librarians:
     rank: Associate Professor
     area: Open Educational Resources 
     subjects:   
-    -Biological Sciences  
-    -Career and Technology Teacher Education  
-    -Health Sciences  
-    -Psychology
+    - Biological Sciences  
+    - Career and Technology Teacher Education  
+    - Health Sciences  
+    - Psychology
 
    - name: Morris Hounion
     fname: Morris
@@ -66,8 +66,8 @@ librarians:
     rank: Assistant Professor 
     area: 'Instruction  and Reference, Exhibits, Gifts (of materials to library)''
     subjects:   
-    -Communications 
-    -Vision Care Technology
+    - Communications 
+    - Vision Care Technology
 
    - name: Jen Hoyer
     fname: Jen
@@ -78,11 +78,11 @@ librarians:
     rank: Assistant Professor 
     area: 'Technical Services (Periodicals and Cataloging), Electronic Resources'
     subjects:   
-    -Anthropology 
-    -Health Communications  
-    -'Law & Paralegal Studies'  
-    -Philosophy 
-    -'Radiologic Technology & Medical Imaging'
+    - Anthropology 
+    - Health Communications  
+    - 'Law & Paralegal Studies'  
+    - Philosophy 
+    - 'Radiologic Technology & Medical Imaging'
 
    - name: Nanette Johnson
     fname: Nanette
@@ -93,8 +93,8 @@ librarians:
     rank: Assistant Professor 
     area: 'Access Services (Circulation, Reserves)'
     subjects:   
-    -Mathematics  
-    -Modern Languages
+    - Mathematics  
+    - Modern Languages
 
    - name: Kel Karpinski
     fname: Kel
@@ -105,8 +105,8 @@ librarians:
     rank: Assistant Professor 
     area: 'Information Technology & Interlibrary Loan'
     subjects:   
-    -Chemistry  
-    -Gender and Sexuality Studies
+    - Chemistry  
+    - Gender and Sexuality Studies
 
    - name: Anne Leonard
     fname: Anne
@@ -117,10 +117,10 @@ librarians:
     rank: Associate Professor 
     area: Interim Chief Librarian and Department Chair
     subjects:   
-    -'Construction/Civil Engineering Technology'  
-    -English  
-    -'Environmental Control Technology/Facilities Management' 
-    -Geography
+    - 'Construction/Civil Engineering Technology'  
+    - English  
+    - 'Environmental Control Technology/Facilities Management' 
+    - Geography
 
    - name: Keith Muchowski
     fname: Keith
@@ -131,11 +131,11 @@ librarians:
     rank: Associate Professor 
     area: 'Reference (Coordinator) and Instruction'
     subjects:   
-    -'Business (Accounting/Marketing')  
-    -Economics  
-    -'Government & Political Science'
-    -History  
-    -Sociology
+    - 'Business (Accounting/Marketing')  
+    - Economics  
+    - 'Government & Political Science'
+    - History  
+    - Sociology
 
    - name: Nandi Prince
     fname: Nandi
@@ -144,12 +144,11 @@ librarians:
     phone: 718.260.5978
     room: L440
     rank: Assistant Professor 
-    area: Instruction 
-    -Reference
+    area: Instruction and Reference
     subjects:   
-    -'English to Speakers of Other Languages (ESOL) & Applied Linguistics'  
-    -Latin American and Puerto Rican Studies  
-    -Nursing
+    - 'English to Speakers of Other Languages (ESOL) & Applied Linguistics'  
+    - Latin American and Puerto Rican Studies  
+    - Nursing
 
    - name: Junior Tidal
     fname: Junior
@@ -158,11 +157,10 @@ librarians:
     phone: 718.260.5481
     room: L434
     rank: Professor 
-    area: Web Services  
-    -Multimedia Resources
+    area: Web Services and Multimedia Resources
     subjects:   
-    -Computer Engineering Technology  
-    -Computer Systems Technology  
-    -'Electrical/Telecommunications Engineering Technology' 
-    -Entertainment Technology 
-    -Mechanical Engineering Technology
+    - Computer Engineering Technology  
+    - Computer Systems Technology  
+    - 'Electrical/Telecommunications Engineering Technology' 
+    - Entertainment Technology 
+    - Mechanical Engineering Technology
