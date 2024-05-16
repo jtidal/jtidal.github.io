@@ -1,20 +1,20 @@
 ---
 # Librarians
 librarians:
-  - name: Nora Almeida
-  fname: Nora
-  lname: Almeida
-  email: nalmeida@citytech.cuny.edu
-  phone: 718.260.5478
-  room: L543D
-  rank: Associate Professor
-  area: Instruction and Reference
-  subjects: 
- -Architectural Technology
- -Developmental Reading and Writing   
- -'Fiction & Poetry'  
- -Human Services
- -'Performing Arts (Theater, Dance & Music)''
+ - name: Nora Almeida
+   fname: Nora
+   lname: Almeida
+   email: nalmeida@citytech.cuny.edu
+   phone: 718.260.5478
+   room: L543D
+   rank: Associate Professor
+   area: Instruction and Reference
+   subjects: 
+  - Architectural Technology
+  - Developmental Reading and Writing   
+  - 'Fiction & Poetry'  
+  - Human Services
+  -'Performing Arts (Theater, Dance & Music)''
 
   - name: Monica Berger
     fname: Monica
