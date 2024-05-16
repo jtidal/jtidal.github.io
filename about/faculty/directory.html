@@ -2,11 +2,24 @@
 layout: page
 title: Library Faculty and Staff Directory
 ---
-<ul>
-{% for person in site.data.librarians.librarians %}
-  <li>
-      {{ person.name }}
-    </a>
-  </li>
+<table class="cols-2 table table-striped table-condensed">
+  <thead>
+    <tr>
+    <th>Name &amp; Contact</th>
+    <th>Rank &amp; Service Area</th>
+    </tr>
+  </thead>
+  <tbody><tr class="odd views-row-first">
+  {% for person in site.data.librarians.librarians %}
+    <td><h4>{% if person.url and person.url != "" and person.url != nil %}
+        <a href="{{ person.url }}">{{ person.name }}</a></h4>
+    {% else %}
+        {% for person in site.data.librarians.librarians %}</h4>
+    {% endif %}
+    <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
+    {{ person.room }}
+    </td>
+    <td>{{ person.rank }}<br>{{ person.area }}
+    </td>
+    </tr>    
 {% endfor %}
-</ul>
