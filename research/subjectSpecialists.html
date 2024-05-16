@@ -6,6 +6,22 @@ Each discipline and department at City Tech has a subject specialist, a library 
 
 Visit our <a href="https://libguides.citytech.cuny.edu/">Research Guides</a> for discipline resources.
 
+<table class="cols-2 table table-striped table-condensed">
+  <thead>
+    <tr>
+    <th>Name &amp; Contact</th>
+    <th>Rank &amp; Service Area</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for item in site.data.librarians.librarians %}
+    <tr><td><h4><a href="{{ item.specialist.link}}">{{item.specialist.subject}}</a></h4>
+    </td>
+    <td></td>
+    </tr>  
+  {% endfor %}
+  </tbody>
+    </table>
 
 <table>
     <thead>
