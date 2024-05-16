@@ -44,6 +44,29 @@ title: Library Faculty and Staff Directory
   {% endfor %}
   </tbody>
     </table>
+
+    <h2>Administrative and Technical Staff</h2>
+    <table class="cols-2 table table-striped table-condensed">
+  <thead>
+    <tr>
+    <th>Name &amp; Contact</th>
+    <th>Rank &amp; Service Area</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for person in site.data.staff.staff %}
+    <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
+    <br><a href="mailto:{{ person.email }}">{{ person.email }} </a>
+    <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
+    {{ person.room }}
+    </td>
+    <td>{{ person.area }}
+    </td>
+    </tr>    
+  {% endfor %}
+  </tbody>
+    </table>
+   
   </div>
   <div class="col-sm-12 col-md-3 col-lg-3">
   
