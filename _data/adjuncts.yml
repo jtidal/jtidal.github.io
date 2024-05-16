@@ -19,13 +19,13 @@ adjuncts:
     email:
     area: 'Instruction/Reference'
 
-    - name: Laurie Murphy
+   - name: Laurie Murphy
     fname: Laurie
     lname: Murphy
     email: lmurphy@citytech.cuny.edu
     area: 'Instruction/Reference'
 
-    - name: Joshua Peach
+   - name: Joshua Peach
     fname: Joshua
     lname: Peach
     email: jpeach@citytech.cuny.edu
