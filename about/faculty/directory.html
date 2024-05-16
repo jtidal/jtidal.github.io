@@ -33,7 +33,7 @@ title: Library Faculty and Staff Directory
     </tr>
   </thead>
   <tbody>
-  {% for person in site.data.emeritus %}
+  {% for person in site.data.emeritus.emeritus %}
     <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
     <br><a href="mailto:{{ person.email }}">{{ person.email }} </a>
     </td>
