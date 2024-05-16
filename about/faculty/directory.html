@@ -1,0 +1,12 @@
+---
+layout: page
+title: Library Faculty and Staff Directory
+---
+<ul>
+{% for librarians in site.data.librarians %}
+  <li>
+      {{ librarians .name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
