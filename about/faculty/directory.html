@@ -9,9 +9,9 @@ title: Library Faculty and Staff Directory
     <th>Rank &amp; Service Area</th>
     </tr>
   </thead>
-  <tbody><tr class="odd views-row-first">
+  <tbody>
   {% for person in site.data.librarians.librarians %}
-    <td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
+    <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
     <br><a href="mailto:{{ person.email }}">{{ person.email }} </a>
     <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
     {{ person.room }}
