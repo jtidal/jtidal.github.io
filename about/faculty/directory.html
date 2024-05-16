@@ -11,8 +11,7 @@ title: Library Faculty and Staff Directory
   </thead>
   <tbody><tr class="odd views-row-first">
   {% for person in site.data.librarians.librarians %}
-    <td><h4>{% if person.url and person.url != "" and person.url != nil %}
-        <a href="{{ person.url }}">{{ person.name }}</a></h4>
+    <td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
     <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
     {{ person.room }}
     </td>
