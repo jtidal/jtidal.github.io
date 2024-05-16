@@ -69,7 +69,7 @@ librarians:
     - Communications 
     - Vision Care Technology
 
-   - name: Jen Hoyer
+  - name: Jen Hoyer
     fname: Jen
     lname: Hoyer
     email: jhoyer@citytech.cuny.edu
@@ -84,7 +84,7 @@ librarians:
     - Philosophy 
     - 'Radiologic Technology & Medical Imaging'
 
-   - name: Nanette Johnson
+  - name: Nanette Johnson
     fname: Nanette
     lname: Johnson
     email: njohnson@citytech.cuny.edu
@@ -96,7 +96,7 @@ librarians:
     - Mathematics  
     - Modern Languages
 
-   - name: Kel Karpinski
+  - name: Kel Karpinski
     fname: Kel
     lname: Karpinski
     email: kkarpinski@citytech.cuny.edu
@@ -108,7 +108,7 @@ librarians:
     - Chemistry  
     - Gender and Sexuality Studies
 
-   - name: Anne Leonard
+  - name: Anne Leonard
     fname: Anne
     lname: Leonard
     email: aleonard@citytech.cuny.edu
@@ -122,7 +122,7 @@ librarians:
     - 'Environmental Control Technology/Facilities Management' 
     - Geography
 
-   - name: Keith Muchowski
+  - name: Keith Muchowski
     fname: Keith
     lname: Muchowski
     email: kmuchowski@citytech.cuny.edu
@@ -137,7 +137,7 @@ librarians:
     - History  
     - Sociology
 
-   - name: Nandi Prince
+  - name: Nandi Prince
     fname: Nandi
     lname: Prince
     email: nprince@citytech.cuny.edu
@@ -150,7 +150,7 @@ librarians:
     - Latin American and Puerto Rican Studies  
     - Nursing
 
-   - name: Junior Tidal
+  - name: Junior Tidal
     fname: Junior
     lname: Tidal
     email: jtidal@citytech.cuny.edu
