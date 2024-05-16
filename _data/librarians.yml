@@ -15,6 +15,7 @@ librarians:
      - 'Fiction & Poetry'  
      - Human Services
      - 'Performing Arts (Theater, Dance & Music)'
+    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=45408'
 
   - name: Monica Berger
     fname: Monica
@@ -30,6 +31,7 @@ librarians:
     - Hospitality Management 
     - 'Performing Arts (Theater, Dance & Music)'
     - Physics
+    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=26580'
 
   - name: Wanett Clyde
     fname: Wanett
@@ -42,6 +44,7 @@ librarians:
     subjects:   
     - African American Studies 
     - 'Business (Fashion)'
+    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=185296'
 
   - name: Cailean Cooney
     fname: Cailean
@@ -56,6 +59,7 @@ librarians:
     - Career and Technology Teacher Education  
     - Health Sciences  
     - Psychology
+    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=41998'
 
   - name: Morris Hounion
     fname: Morris
@@ -68,6 +72,7 @@ librarians:
     subjects:   
     - Communications 
     - Vision Care Technology
+    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=45409'
 
   - name: Jen Hoyer
     fname: Jen
@@ -83,6 +88,7 @@ librarians:
     - 'Law & Paralegal Studies'  
     - Philosophy 
     - 'Radiologic Technology & Medical Imaging'
+    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=304256'
 
   - name: Nanette Johnson
     fname: Nanette
@@ -95,6 +101,14 @@ librarians:
     subjects:   
     - Mathematics  
     - Modern Languages
+    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=193221'
+
+  - name: Rachel Jones
+    fname: Rachel
+    lname: Jones
+    email: RaJones@citytech.cuny.edu
+    rank: Substitute
+    area: 'Substitute Library Instruction Coordinator/Information Literacy Librarian'
 
   - name: Kel Karpinski
     fname: Kel
@@ -107,6 +121,7 @@ librarians:
     subjects:   
     - Chemistry  
     - Gender and Sexuality Studies
+    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=193222'
 
   - name: Anne Leonard
     fname: Anne
@@ -121,6 +136,8 @@ librarians:
     - English  
     - 'Environmental Control Technology/Facilities Management' 
     - Geography
+    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=45405'
+
 
   - name: Keith Muchowski
     fname: Keith
@@ -136,6 +153,7 @@ librarians:
     - 'Government & Political Science'
     - History  
     - Sociology
+    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=193222'
 
   - name: Nandi Prince
     fname: Nandi
@@ -149,6 +167,7 @@ librarians:
     - 'English to Speakers of Other Languages (ESOL) & Applied Linguistics'  
     - Latin American and Puerto Rican Studies  
     - Nursing
+    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=62457'
 
   - name: Junior Tidal
     fname: Junior
@@ -164,3 +183,4 @@ librarians:
     - 'Electrical/Telecommunications Engineering Technology' 
     - Entertainment Technology 
     - Mechanical Engineering Technology
+    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=32667'
