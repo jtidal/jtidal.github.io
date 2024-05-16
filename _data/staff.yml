@@ -57,7 +57,7 @@ staff:
   room: L-438B
   area: Circulation
   
-  - name: Jennifer Raibaldi
+- name: Jennifer Raibaldi
   fname: Jennifer
   lname: Raibaldi
   email: jraibaldi@citytech.cuny.edu
@@ -65,7 +65,7 @@ staff:
   room: L438B
   area: Circulation
   
-  - name: Anderson Uribe
+- name: Anderson Uribe
   fname: Anderson
   lname: Uribe
   email: ARodriguez@citytech.cuny.edu
@@ -73,7 +73,7 @@ staff:
   room: L441
   area: IT Assistant
   
-  - name: Anita Rolling
+- name: Anita Rolling
   fname: Anita
   lname: Rolling
   email: arolling@citytech.cuny.edu
@@ -81,7 +81,7 @@ staff:
   room: L438B
   area: Interlibrary Loan, Circulation
   
-  - name: Takiyah Smart
+- name: Takiyah Smart
   fname: Takiyah
   lname: Smart
   email: tasmart@citytech.cuny.edu
