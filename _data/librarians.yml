@@ -1,122 +1,122 @@
 ---
 # Librarians
+librarians:
+  name: Nora Almeida
+  fname: Nora
+  lname: Almeida
+  email: nalmeida@citytech.cuny.edu
+  phone: 718.260.5478
+  room: L543D
+  rank: Associate Professor
+  area: Instruction, Reference
+  subjects: Architectural Technology, Developmental Reading and Writing, Fiction & Poetry, Human Services, Performing Arts (Theater, Dance & Music) 
 
-name: Nora Almeida
-fname: Nora
-lname: Almeida
-email: nalmeida@citytech.cuny.edu
-phone: 718.260.5478
-room: L543D
-rank: Associate Professor
-area: Instruction, Reference
-subjects: Architectural Technology, Developmental Reading and Writing, Fiction & Poetry, Human Services, Performing Arts (Theater, Dance & Music) 
+  name: Monica Berger
+  fname: Monica
+  lname: Berger
+  email: mberger@citytech.cuny.edu
+  phone: 718.260.5488
+  room: L543A
+  rank: Professor
+  area: Instruction and Scholarly Communications
+  subjects: Art History, Communication Design, Hospitality Management, Performing Arts (Theater, Dance & Music), Physics
 
-name: Monica Berger
-fname: Monica
-lname: Berger
-email: mberger@citytech.cuny.edu
-phone: 718.260.5488
-room: L543A
-rank: Professor
-area: Instruction and Scholarly Communications
-subjects: Art History, Communication Design, Hospitality Management, Performing Arts (Theater, Dance & Music), Physics
+  name: Wanett Clyde
+  fname: Wanett
+  lname: Clyde
+  email: wclyde@citytech.cuny.edu
+  phone: 718.260.5496
+  room:  L539C 
+  rank: Assistant Professor 
+  area: Collections Management and Archives
+  subjects: African American Studies, Business (Fashion) 	
 
-name: Wanett Clyde
-fname: Wanett
-lname: Clyde
-email: wclyde@citytech.cuny.edu
-phone: 718.260.5496
-room:  L539C 
-rank: Assistant Professor 
-area: Collections Management and Archives
-subjects: African American Studies, Business (Fashion) 	
+  name: Cailean Cooney
+  fname: Cailean
+  lname: Cooney
+  email: ccooney@citytech.cuny.edu
+  phone: 718.260.5424 
+  room: L436
+  rank: Associate Professor
+  area: Open Educational Resources 
+  subjects: Biological Sciences, Career and Technology Teacher Education, Health Sciences, Psychology
 
-name: Cailean Cooney
-fname: Cailean
-lname: Cooney
-email: ccooney@citytech.cuny.edu
-phone: 718.260.5424 
-room: L436
-rank: Associate Professor
-area: Open Educational Resources 
-subjects: Biological Sciences, Career and Technology Teacher Education, Health Sciences, Psychology
+  name: Morris Hounion
+  fname: Morris
+  lname: Hounion
+  email: mhounion@citytech.cuny.edu
+  phone: 718.260.5491
+  room: L539A
+  rank: Assistant Professor 
+  area: Instruction, Reference, Exhibits, Gifts (of materials to library)
+  subjects: Communications, Vision Care Technology
 
-name: Morris Hounion
-fname: Morris
-lname: Hounion
-email: mhounion@citytech.cuny.edu
-phone: 718.260.5491
-room: L539A
-rank: Assistant Professor 
-area: Instruction, Reference, Exhibits, Gifts (of materials to library)
-subjects: Communications, Vision Care Technology
+  name: Jen Hoyer
+  fname: Jen
+  lname: Hoyer
+  email: jhoyer@citytech.cuny.edu
+  phone: 718.260.5434
+  room: L539B
+  rank: Assistant Professor 
+  area: Technical Services (Periodicals and Cataloging), Electronic Resources
+  subjects: Anthropology, Health Communications, Law & Paralegal Studies, Philosophy, Radiologic Technology & Medical Imaging 
 
-name: Jen Hoyer
-fname: Jen
-lname: Hoyer
-email: jhoyer@citytech.cuny.edu
-phone: 718.260.5434
-room: L539B
-rank: Assistant Professor 
-area: Technical Services (Periodicals and Cataloging), Electronic Resources
-subjects: Anthropology, Health Communications, Law & Paralegal Studies, Philosophy, Radiologic Technology & Medical Imaging 
+  name: Nanette Johnson
+  fname: Nanette
+  lname: Johnson
+  email: njohnson@citytech.cuny.edu
+  phone: 718.260.5471
+  room: L438A
+  rank: Assistant Professor 
+  area: Access Services (Circulation, Reserves)
+  subjects: Mathematics, Modern Languages
 
-name: Nanette Johnson
-fname: Nanette
-lname: Johnson
-email: njohnson@citytech.cuny.edu
-phone: 718.260.5471
-room: L438A
-rank: Assistant Professor 
-area: Access Services (Circulation, Reserves)
-subjects: Mathematics, Modern Languages
+  name: Kel Karpinski
+  fname: Kel
+  lname: Karpinski
+  email: kkarpinski@citytech.cuny.edu
+  phone: 718.254.8275
+  room: L442
+  rank: Assistant Professor 
+  area: Information Technology & Interlibrary Loan
+  subjects: Chemistry, Gender and Sexuality Studies
 
-name: Kel Karpinski
-fname: Kel
-lname: Karpinski
-email: kkarpinski@citytech.cuny.edu
-phone: 718.254.8275
-room: L442
-rank: Assistant Professor 
-area: Information Technology & Interlibrary Loan
-subjects: Chemistry, Gender and Sexuality Studies
+  name: Anne Leonard
+  fname: Anne
+  lname: Leonard
+  email: aleonard@citytech.cuny.edu
+  phone: 718.260.5487
+  room: L544
+  rank: Associate Professor 
+  area: Interim Chief Librarian and Department Chair
+  subjects: Construction/Civil Engineering Technology, English, Environmental Control Technology/Facilities Management, Geography
 
-name: Anne Leonard
-fname: Anne
-lname: Leonard
-email: aleonard@citytech.cuny.edu
-phone: 718.260.5487
-room: L544
-rank: Associate Professor 
-area: Interim Chief Librarian and Department Chair
-subjects: Construction/Civil Engineering Technology, English, Environmental Control Technology/Facilities Management, Geography
+  name: Keith Muchowski
+  fname: Keith
+  lname: Muchowski
+  email: kmuchowski@citytech.cuny.edu
+  phone: 718.260.5480
+  room: L435
+  rank: Associate Professor 
+  area: Reference (Coordinator) and Instruction
+  subjects: Business (Accounting/Marketing), Economics, Government & Political Science, History, Sociology
 
-name: Keith Muchowski
-fname: Keith
-lname: Muchowski
-email: kmuchowski@citytech.cuny.edu
-phone: 718.260.5480
-room: L435
-rank: Associate Professor 
-area: Reference (Coordinator) and Instruction
-subjects: Business (Accounting/Marketing), Economics, Government & Political Science, History, Sociology
+  name: Nandi Prince
+  fname: Nandi
+  lname: Prince
+  email: nprince@citytech.cuny.edu
+  phone: 718.260.5978
+  room: L440
+  rank: Assistant Professor 
+  area: Instruction, Reference
+  subjects: English to Speakers of Other Languages (ESOL) & Applied Linguistics, Latin American and Puerto Rican Studies, Nursing
 
-name: Nandi Prince
-fname: Nandi
-lname: Prince
-email: nprince@citytech.cuny.edu
-phone: 718.260.5978
-room: L440
-rank: Assistant Professor 
-area: Instruction, Reference
-subjects: English to Speakers of Other Languages (ESOL) & Applied Linguistics, Latin American and Puerto Rican Studies, Nursing
-
-name: Junior Tidal
-fname: Junior
-lname: Tidal
-email: jtidal@citytech.cuny.edu
-phone: 718.260.5481
-room: L434
-rank: Professor 
-area: Web Services, Multimedia Resources
-subjects: Computer Engineering Technology, Computer Systems Technology, Electrical/Telecommunications Engineering Technology, Entertainment Technology, Mechanical Engineering Technology
+  name: Junior Tidal
+  fname: Junior
+  lname: Tidal
+  email: jtidal@citytech.cuny.edu
+  phone: 718.260.5481
+  room: L434
+  rank: Professor 
+  area: Web Services, Multimedia Resources
+  subjects: Computer Engineering Technology, Computer Systems Technology, Electrical/Telecommunications Engineering Technology, Entertainment Technology, Mechanical Engineering Technology
