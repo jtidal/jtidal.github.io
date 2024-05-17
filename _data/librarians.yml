@@ -10,6 +10,17 @@ librarians:
     rank: Associate Professor
     area: Instruction and Reference
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=45408'
+    subjects:
+    - sub: Architectural Technology
+      link: https://library.citytech.cuny.edu/subject-specializations/architectural-technology
+    - sub: Developmental Reading and Writing
+      link: https://library.citytech.cuny.edu/subject-specializations/developmental-reading-and-writing
+    - sub: 'Fiction & Poetry'
+      link: https://library.citytech.cuny.edu/subject-specializations/fiction-poetry
+    - sub: Human Services
+      link: https://library.citytech.cuny.edu/subject-specializations/human-services
+    - sub: 'Performing Arts (Theater, Dance & Music)'
+      link: https://library.citytech.cuny.edu/subject-specializations/performing-arts-theater-dance-music
 
   - name: Monica Berger
     fname: Monica
@@ -20,6 +31,17 @@ librarians:
     rank: Professor
     area: Instruction and Scholarly Communications
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=26580'
+    subjects:
+    - sub: Art History
+      link: https://library.citytech.cuny.edu/subject-specializations/art-history
+    - sub: Communication Design
+      link: https://library.citytech.cuny.edu/subject-specializations/communication-design
+    - sub: Hospitality Management
+      link: https://library.citytech.cuny.edu/subject-specializations/hospitality-management
+    - sub: 'Performing Arts (Theater, Dance & Music)'
+      link: https://library.citytech.cuny.edu/subject-specializations/performing-arts-theater-dance-music
+    - sub: Physics
+      link: https://library.citytech.cuny.edu/subject-specializations/physics
 
   - name: Wanett Clyde
     fname: Wanett
@@ -30,6 +52,11 @@ librarians:
     rank: Assistant Professor 
     area: Collections Management and Archives
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=185296'
+    subjects:
+    - sub: African American Studies
+      link: https://library.citytech.cuny.edu/subject-specializations/african-american-studies
+    - sub: 'Business: Fashion'
+      link: https://library.citytech.cuny.edu/subject-specializations/business-fashion
 
   - name: Cailean Cooney
     fname: Cailean
@@ -40,6 +67,15 @@ librarians:
     rank: Associate Professor
     area: Open Educational Resources 
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=41998'
+    subjects:
+    - sub: Biological Sciences
+      link: https://library.citytech.cuny.edu/subject-specializations/biological-sciences
+    - sub: Career and Technology Teacher Education
+      link: https://library.citytech.cuny.edu/subject-specializations/career-and-technology-teacher-education
+    - sub: Health Sciences
+      link: https://library.citytech.cuny.edu/subject-specializations/health-sciences
+    - sub: Psychology
+      link: https://library.citytech.cuny.edu/subject-specializations/psychology
 
   - name: Morris Hounion
     fname: Morris
@@ -51,7 +87,12 @@ librarians:
     area: 'Instruction  and Reference, Exhibits, Gifts (of materials to library)'
     specialist:   
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=45409'
-
+    subjects:
+    - sub: Communications
+      link: https://library.citytech.cuny.edu/subject-specializations/communications
+    - sub: Vision Care Technology
+      link: https://library.citytech.cuny.edu/subject-specializations/vision-care-technology
+        
   - name: Jen Hoyer
     fname: Jen
     lname: Hoyer
@@ -61,7 +102,18 @@ librarians:
     rank: Assistant Professor 
     area: 'Technical Services (Periodicals and Cataloging), Electronic Resources'
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=304256'
-
+    subjects:
+    - sub: Anthropology
+      link: 'https://library.citytech.cuny.edu/subject-specializations/anthropology'
+    - sub: Health Communications
+      link: https://library.citytech.cuny.edu/subject-specializations/health-communications
+    - sub: 'Law & Paralegal Studies'
+      link: 'https://library.citytech.cuny.edu/subject-specializations/law-paralegal-studies'
+    - sub: Philosophy
+      link: 'https://library.citytech.cuny.edu/subject-specializations/philosophy'
+    - sub: 'Radiologic Technology & Medical Imaging'
+      link: https://library.citytech.cuny.edu/subject-specializations/radiologic-technology-medical-imaging
+        
   - name: Nanette Johnson
     fname: Nanette
     lname: Johnson
@@ -71,14 +123,19 @@ librarians:
     rank: Assistant Professor 
     area: 'Access Services (Circulation, Reserves)'
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=193221'
-
+    subjects:
+    - sub: Mathematics
+      link: https://library.citytech.cuny.edu/subject-specializations/mathematics
+    - sub: Modern Languages
+      link: https://library.citytech.cuny.edu/subject-specializations/modern-languages
+        
   - name: Rachel Jones
     fname: Rachel
     lname: Jones
     email: RaJones@citytech.cuny.edu
     rank: Substitute
     area: 'Substitute Library Instruction Coordinator/Information Literacy Librarian'
-
+        
   - name: Kel Karpinski
     fname: Kel
     lname: Karpinski
@@ -88,7 +145,12 @@ librarians:
     rank: Assistant Professor 
     area: 'Information Technology & Interlibrary Loan'
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=193222'
-
+    subjects:
+    - sub: Chemistry
+      link: https://library.citytech.cuny.edu/subject-specializations/chemistry
+    - sub: Gender and Sexuality Studies
+      link: https://library.citytech.cuny.edu/subject-specializations/gender-and-sexuality-studies
+        
   - name: Anne Leonard
     fname: Anne
     lname: Leonard
@@ -98,7 +160,16 @@ librarians:
     rank: Associate Professor 
     area: Interim Chief Librarian and Department Chair
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=45405'
-
+    subjects:
+    - sub: 'Construction/Civil Engineering Technology'
+      link: https://library.citytech.cuny.edu/subject-specializations/constructioncivil-engineering-technology
+    - sub: English
+      link: https://library.citytech.cuny.edu/subject-specializations/english
+    - sub: 'Environmental Control Technology/Facilities Management'
+      link: https://library.citytech.cuny.edu/subject-specializations/environmental-control-technologyfacilities-management
+    - sub: Geography
+      link: https://library.citytech.cuny.edu/subject-specializations/geography
+        
 
   - name: Keith Muchowski
     fname: Keith
@@ -109,7 +180,18 @@ librarians:
     rank: Associate Professor 
     area: 'Reference (Coordinator) and Instruction'
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=193222'
-
+    subjects:
+    - sub: 'Business: Accounting/Marketing'
+      link: https://library.citytech.cuny.edu/subject-specializations/business-accountingmarketing
+    - sub: Economics
+      link: https://library.citytech.cuny.edu/subject-specializations/economics
+    - sub: 'Government & Political Science'
+      link: https://library.citytech.cuny.edu/subject-specializations/government-political-science
+    - sub: History
+      link: https://library.citytech.cuny.edu/subject-specializations/history
+    - sub: Sociology
+      link: https://library.citytech.cuny.edu/subject-specializations/sociology
+        
   - name: Nandi Prince
     fname: Nandi
     lname: Prince
@@ -119,7 +201,19 @@ librarians:
     rank: Assistant Professor 
     area: Instruction and Reference
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=62457'
+    subjects:
+    - sub: Dental Hygiene
+      link: https://library.citytech.cuny.edu/subject-specializations/dental-hygiene
+    - sub: 'English to Speakers of Other Languages (ESOL) & Applied Linguistics'
+      link: https://library.citytech.cuny.edu/subject-specializations/english-speakers-other-languages-esol-applied-linguistics
+    - sub: Latin American and Puerto Rican Studies
+      link: https://library.citytech.cuny.edu/subject-specializations/latin-american-and-puerto-rican-studies
+    - sub: Nursing
+      link: https://library.citytech.cuny.edu/subject-specializations/nursing
+    - sub: Restorative Dentistry
+      link: https://library.citytech.cuny.edu/subject-specializations/restorative-dentistry
 
+        
   - name: Junior Tidal
     fname: Junior
     lname: Tidal
@@ -129,3 +223,14 @@ librarians:
     rank: Professor 
     area: Web Services and Multimedia Resources
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=32667'
+    subjects:
+    - sub: Computer Engineering Technology
+      link: https://library.citytech.cuny.edu/subject-specializations/computer-engineering-technology
+    - sub: Computer Systems Technology
+      link: https://library.citytech.cuny.edu/subject-specializations/computer-systems-technology
+    - sub: Electrical/Telecommunications Engineering Technology
+      link: https://library.citytech.cuny.edu/subject-specializations/electricaltelecommunications-engineering-technology
+    - sub: Entertainment Technology
+      link: https://library.citytech.cuny.edu/subject-specializations/entertainment-technology
+    - sub: Mechanical Engineering Technology
+      link: https://library.citytech.cuny.edu/subject-specializations/mechanical-engineering-technology
