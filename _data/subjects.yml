@@ -1,99 +1,187 @@
 ---
 #Subject Specialists
 disciplines:
- - subject: African American Studies
-   url: https://library.citytech.cuny.edu/subject-specializations/african-american-studies
-   specialist: Wanett Clyde
-   link: https://library.citytech.cuny.edu/about/faculty/wanett-clyde
- - subject: Anthropology
-   url:
-   specialist: Jen Hoyer
-   link:
- - subject: Architectural Technology
-   specialist: Nora Almeida
- - subject: Art History	
-   specialist: Monica Berger
- - subject: Biological Sciences	
-   specialist: Cailean Cooney
- - subject: 'Business: Accounting/Marketing'
-   specialist: Keith Muchowski
- - subject: 'Business: Fashion'
-   specialist: Wanett Clyde
- - subject: Career and Technology Teacher Education	
-   specialist: Cailean Cooney
- - subject: Chemistry
-   specialist: Kel Karpinski
- - subject: Communication Design
-   specialist: Monica Berger
- - subject: Communications
-   specialist: Morris Hounion
- - subject: Computer Engineering Technology	
-   specialist: Junior Tidal
- - subject: Computer Systems Technology	
-   specialist: Junior Tidal
- - subject: 'Construction/Civil Engineering Technology'
-   specialist: Anne Leonard
- - subject: Dental Hygiene
-   specialist: Nandi Prince
- - subject: Developmental Reading and Writing	
-   specialist: Nora Almeida
- - subject: Economics
-   specialist: Keith Muchowski
- - subject: 'Electrical/Telecommunications Engineering Technology'
-   specialist: Junior Tidal
- - subject: English
-   specialist: Anne Leonard
- - subject: 'English to Speakers of Other Languages (ESOL) & Applied Linguistics'
-   specialist: Nandi Prince
- - subject: Entertainment Technology
-   specialist: Junior Tidal
- - subject: 'Environmental Control Technology/Facilities Management'
-   specialist: Anne Leonard
- - subject: 'Fiction & Poetry'
-   specialist: Nora Almeida
- - subject: Gender and Sexuality Studies
-   specialist: Kel Karpinski
- - subject: Geography
-   specialist: Anne Leonard
- - subject: 'Government & Political Science'
-   specialist: Keith Muchowski
- - subject: Health Sciences	
-   specialist: Cailean Cooney
- - subject: Health Communications
-   specialist: Jen Hoyer
- - subject: History
-   specialist: Keith Muchowski
- - subject: Hospitality Management
-   specialist: Monica Berger
- - subject: Human Services	
-   specialist: Nora Almeida
- - subject: Latin American and Puerto Rican Studies	
-   specialist: Nandi Prince
- - subject: 'Law & Paralegal Studies'
-   specialist: Jen Hoyer
- - subject: Mathematics
-   specialist: Nanette Johnson
- - subject: Mechanical Engineering Technology	
-   specialist: Junior Tidal
- - subject: Modern Languages
-   specialist: Nanette Johnson
- - subject: Nursing
-   specialist: Nandi Prince
- - subject: 'Performing Arts (Theater, Dance & Music)'
-   specialist: Monica Berger
- - subject: 'Performing Arts (Theater, Dance & Music)'
-   specialist: Nora Almeida
- - subject: Philosophy
-   specialist: Jen Hoyer
- - subject: Physics
-   specialist: Monica Berger
- - subject: Psychology
-   specialist: Cailean Cooney
- - subject: 'Radiologic Technology & Medical Imaging'
-   specialist: Jen Hoyer
- - subject: Restorative Dentistry
-   specialist: Nandi Prince
- - subject: Sociology
-   specialist: Keith Muchowski
- - subject: Vision Care Technology	
-   specialist: Morris Hounion
+  - subject:  African American Studies
+   url: https://libguides.citytech.cuny.edu/afr
+   specialist:  Wanett Clyde
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=185296
+  - subject:  Anthropology
+   url: https://libguides.citytech.cuny.edu/az.php?s=207175
+   specialist:  Jen Hoyer
+   link: https://libguides.citytech.cuny.edu/prf.php?id=60d18225-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Architectural Technology
+   url: https://libguides.citytech.cuny.edu/architecture
+   specialist:  Nora Almeida
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=45408
+  - subject:  Art History	
+   url: https://libguides.citytech.cuny.edu/prf.php?account_id=26580
+   specialist:  Monica Berger
+   link: https://libguides.citytech.cuny.edu/art
+  - subject:  Biological Sciences	
+   url: https://libguides.citytech.cuny.edu/prf.php?account_id=26580
+   specialist:  Cailean Cooney
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=41998
+  - subject:  'Business: Accounting/Marketing'
+   url: https://libguides.citytech.cuny.edu/prf.php?account_id=41998
+   specialist:  Keith Muchowski
+   link: https://libguides.citytech.cuny.edu/az.php?s=220574
+  - subject:  'Business: Fashion'
+   url: https://library.citytech.cuny.edu/subject-specializations/business-fashion
+   specialist:  Wanett Clyde
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=185296
+  - subject:  Career and Technology Teacher Education	
+   url: https://libguides.citytech.cuny.edu/careerTech
+   specialist:  Cailean Cooney
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=41998
+  - subject:  Chemistry
+   url: https://libguides.citytech.cuny.edu/chem
+   specialist:  Kel Karpinski
+   link: https://libguides.citytech.cuny.edu/prf.php?id=5ca69440-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Communication Design
+   url: https://libguides.citytech.cuny.edu/comm
+   specialist:  Monica Berger
+   link: https://libguides.citytech.cuny.edu/prf.php?id=58e793a4-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Communications
+   url: https://libguides.citytech.cuny.edu/com
+   specialist:  Morris Hounion
+   link: https://libguides.citytech.cuny.edu/prf.php?id=5924be8b-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Computer Engineering Technology	
+   url: https://libguides.citytech.cuny.edu/cet
+   specialist:  Junior Tidal
+   link: https://libguides.citytech.cuny.edu/prf.php?id=58e5d847-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Computer Systems Technology	
+   url: https://library.citytech.cuny.edu/subject-specializations/computer-systems-technology
+   specialist:  Junior Tidal
+   link: https://libguides.citytech.cuny.edu/prf.php?id=58e5d847-7cdb-11ed-9922-0ad758b798c3
+  - subject:  'Construction/Civil Engineering Technology'
+   url: https://libguides.citytech.cuny.edu/CMCE
+   specialist:  Anne Leonard
+   link: https://libguides.citytech.cuny.edu/prf.php?id=59040af0-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Dental Hygiene
+   url: https://libguides.citytech.cuny.edu/den
+   specialist:  Nandi Prince
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=62457
+  - subject:  Developmental Reading and Writing	
+   url: 
+   specialist:  Nora Almeida
+   link: https://libguides.citytech.cuny.edu/prf.php?id=5904270d-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Economics
+   url: https://libguides.citytech.cuny.edu/econ
+   specialist:  Keith Muchowski
+   link: https://libguides.citytech.cuny.edu/prf.php?id=5911b0df-7cdb-11ed-9922-0ad758b798c3
+  - subject:  'Electrical/Telecommunications Engineering Technology'
+   url: https://libguides.citytech.cuny.edu/ETET
+   specialist:  Junior Tidal
+   link: https://libguides.citytech.cuny.edu/prf.php?id=58e5d847-7cdb-11ed-9922-0ad758b798c3
+  - subject:  English
+   url: https://libguides.citytech.cuny.edu/english
+   specialist:  Anne Leonard
+   link: https://libguides.citytech.cuny.edu/prf.php?id=59040af0-7cdb-11ed-9922-0ad758b798c3
+  - subject:  'English to Speakers of Other Languages (ESOL) & Applied Linguistics'
+   url: https://libguides.citytech.cuny.edu/esollinguistics
+   specialist:  Nandi Prince
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=62457
+  - subject:  Entertainment Technology
+   url: https://library.citytech.cuny.edu/subject-specializations/entertainment-technology
+   specialist:  Junior Tidal
+   link: https://libguides.citytech.cuny.edu/prf.php?id=58e5d847-7cdb-11ed-9922-0ad758b798c3
+  - subject:  'Environmental Control Technology/Facilities Management'
+   url: https://libguides.citytech.cuny.edu/ENVC
+   specialist:  Anne Leonard
+   link: https://libguides.citytech.cuny.edu/prf.php?id=59040af0-7cdb-11ed-9922-0ad758b798c3
+  - subject:  'Fiction & Poetry'
+   url: https://libguides.citytech.cuny.edu/english
+   specialist:  Nora Almeida
+   link: https://libguides.citytech.cuny.edu/prf.php?id=5904270d-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Gender and Sexuality Studies
+   url: https://library.citytech.cuny.edu/subject-specializations/gender-and-sexuality-studies
+   specialist:  Kel Karpinski
+   link: https://libguides.citytech.cuny.edu/prf.php?id=5ca69440-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Geography
+   url: https://libguides.citytech.cuny.edu/az.php?s=207180
+   specialist:  Anne Leonard
+   link: https://libguides.citytech.cuny.edu/prf.php?id=59040af0-7cdb-11ed-9922-0ad758b798c3
+  - subject:  'Government & Political Science'
+   url: https://libguides.citytech.cuny.edu/az.php?s=207178
+   specialist:  Keith Muchowski
+   link: https://libguides.citytech.cuny.edu/prf.php?id=5911b0df-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Health Sciences	
+   url: https://libguides.citytech.cuny.edu/hsa
+   specialist:  Cailean Cooney
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=41998
+  - subject:  Health Communications
+   url: 
+   specialist:  Jen Hoyer
+   link: https://libguides.citytech.cuny.edu/prf.php?id=60d18225-7cdb-11ed-9922-0ad758b798c3
+  - subject:  History
+   url: https://libguides.citytech.cuny.edu/history
+   specialist:  Keith Muchowski
+   link: https://libguides.citytech.cuny.edu/prf.php?id=5911b0df-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Hospitality Management
+   url: https://libguides.citytech.cuny.edu/hm
+   specialist:  Monica Berger
+   link: https://libguides.citytech.cuny.edu/prf.php?id=58e793a4-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Human Services	
+   url: https://libguides.citytech.cuny.edu/hus
+   specialist:  Nora Almeida
+   link: https://libguides.citytech.cuny.edu/prf.php?id=5904270d-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Latin American and Puerto Rican Studies	
+   url: https://libguides.citytech.cuny.edu/lapr
+   specialist:  Nandi Prince
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=62457
+  - subject:  'Law & Paralegal Studies'
+   url: https://libguides.citytech.cuny.edu/legalstudies
+   specialist:  Jen Hoyer
+   link: https://libguides.citytech.cuny.edu/prf.php?id=60d18225-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Mathematics
+   url: https://libguides.citytech.cuny.edu/mat
+   specialist:  Nanette Johnson
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=193221
+  - subject:  Mechanical Engineering Technology	
+   url: https://libguides.citytech.cuny.edu/mech
+   specialist:  Junior Tidal
+   link: https://libguides.citytech.cuny.edu/prf.php?id=58e5d847-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Modern Languages
+   url: 
+   specialist:  Nanette Johnson
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=193221
+  - subject:  Nursing
+   url: https://libguides.citytech.cuny.edu/nursing
+   specialist:  Nandi Prince
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=62457
+  - subject:  'Performing Arts (Theater, Dance & Music)'
+   url: https://libguides.citytech.cuny.edu/theater
+   specialist:  Monica Berger
+   link: https://libguides.citytech.cuny.edu/prf.php?id=58e793a4-7cdb-11ed-9922-0ad758b798c3
+  - subject:  'Performing Arts (Theater, Dance & Music)'
+   url: https://libguides.citytech.cuny.edu/theater
+   specialist:  Nora Almeida
+   link: https://libguides.citytech.cuny.edu/prf.php?id=5904270d-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Philosophy
+   url: https://libguides.citytech.cuny.edu/phl
+   specialist:  Jen Hoyer
+   link: https://libguides.citytech.cuny.edu/prf.php?id=60d18225-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Physics
+   url: https://libguides.citytech.cuny.edu/phy
+   specialist:  Monica Berger
+   link: https://libguides.citytech.cuny.edu/prf.php?id=58e793a4-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Psychology
+   url: https://libguides.citytech.cuny.edu/psych
+   specialist:  Cailean Cooney
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=41998
+  - subject:  'Radiologic Technology & Medical Imaging'
+   url: https://libguides.citytech.cuny.edu/rad
+   specialist:  Jen Hoyer
+   link: https://libguides.citytech.cuny.edu/prf.php?id=60d18225-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Restorative Dentistry
+   url: https://library.citytech.cuny.edu/subject-specializations/restorative-dentistry
+   specialist:  Nandi Prince
+   link: https://libguides.citytech.cuny.edu/prf.php?account_id=62457
+  - subject:  Sociology
+   url: https://libguides.citytech.cuny.edu/soc
+   specialist:  Keith Muchowski
+   link: https://libguides.citytech.cuny.edu/prf.php?id=5911b0df-7cdb-11ed-9922-0ad758b798c3
+  - subject:  Vision Care Technology	
+   url: https://libguides.citytech.cuny.edu/vct
+   specialist:  Morris Hounion
+   link: https://libguides.citytech.cuny.edu/prf.php?id=5924be8b-7cdb-11ed-9922-0ad758b798c3
