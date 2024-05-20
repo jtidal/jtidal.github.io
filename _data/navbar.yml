@@ -40,7 +40,7 @@ toc:
   - title: Research Help
     subfolderitems:
       - page: Ask A Librarian
-        url: ttps://{{site.name}}/help/ask/index.html
+        url: https://{{site.name}}/help/ask/index.html
       - page: Citations & Writing
         url: https://libguides.citytech.cuny.edu/citations
       - page: Tutorials
@@ -52,23 +52,23 @@ toc:
   - title: About
     subfolderitems:
       - page: Hours
-        url: /widget1.html
+        url: https://libcal.citytech.cuny.edu/
       - page: Directions
-        url: /widget2.html
+        url: https://{{site.name}}/about/directions.html
       - page: Library Faculty & Staff
-        url: /widget3.html
+        url: https://{{site.name}}/about/faculty/directory.html
       - page: LIB Courses
-        url: /widget3.html
+        url: https://{{site.name}}/help/lib1201.html
       - page: Mission & History
-        url: /widget3.html
+        url: https://{{site.name}}/about/mission/index.html
       - page: Strategic Plan
-        url: /widget3.html
+        url: https://{{site.name}}/strategicPlan.html
       - page: Diversity Commitments
-        url: /widget3.html
+        url: https://{{site.name}}/about/antioppression/index.html
       - page: Policies
-        url: /widget3.html
+        url: https://{{site.name}}/about/policies/index.php
       - page: Employment
-        url: /widget3.html
+        url: https://{{site.name}}/about/openPositions.php
   - title: News
     subfolderitems:
       - page: LibraryBuzz News Blog
