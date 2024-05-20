@@ -4,7 +4,7 @@ toc:
       - page: Books
         url: https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY
       - page: Articles
-        url: https://{{site.baseurl}}research/articles/subjects/index.php
+        url: https://{{site.url}}research/articles/subjects/index.php
       - page: Journals
         url: https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?vid=01CUNY_NY:CUNY_NY
       - page: eBooks
@@ -16,31 +16,31 @@ toc:
       - page: Research Guides
         url: https://libguides.citytech.cuny.edu/?b=s
       - page: Other Libraries
-        url: https://{{site.baseurl}}research/otherLibraries/index.php
+        url: https://{{site.url}}research/otherLibraries/index.php
       - page: Library Subject Specialists
-        url: https://{{site.baseurl}}/research/subjectSpecialists.html
+        url: https://{{site.url}}/research/subjectSpecialists.html
   - title: Services
     subfolderitems:
       - page: Borrow, Renew, Request
-        url: https://{{site.baseurl}}/services/circulation/index.html
+        url: https://{{site.url}}/services/circulation/index.html
       - page: Interlibrary Loan
-        url: https://{{site.baseurl}}/services/interlibraryLoan/index.html
+        url: https://{{site.url}}/services/interlibraryLoan/index.html
       - page: Student Services
-        url: https://{{site.baseurl}}/services/student/index.html
+        url: https://{{site.url}}/services/student/index.html
       - page: Faculty Services
-        url: https://{{site.baseurl}}/services/faculty/index.html
+        url: https://{{site.url}}/services/faculty/index.html
       - page: Multimedia Resources Center
-        url: https://{{site.baseurl}}/services/multimedia/index.html
+        url: https://{{site.url}}/services/multimedia/index.html
       - page: Archives
-        url: https://{{site.baseurl}}/services/archives/index.html
+        url: https://{{site.url}}/services/archives/index.html
       - page: Open Educational Resources
-        url: https://{{site.baseurl}}/services/oer/index.html
+        url: https://{{site.url}}/services/oer/index.html
       - page: Library Classes
-        url: https://{{site.baseurl}}/help/classes/index.html
+        url: https://{{site.url}}/help/classes/index.html
   - title: Research Help
     subfolderitems:
       - page: Ask A Librarian
-        url: https://{{site.baseurl}}/help/ask/index.html
+        url: https://{{site.url}}/help/ask/index.html
       - page: Citations & Writing
         url: https://libguides.citytech.cuny.edu/citations
       - page: Tutorials
@@ -54,21 +54,21 @@ toc:
       - page: Hours
         url: https://libcal.citytech.cuny.edu/
       - page: Directions
-        url: https://{{site.baseurl}}/about/directions.html
+        url: https://{{site.url}}/about/directions.html
       - page: Library Faculty & Staff
-        url: https://{{site.baseurl}}/about/faculty/directory.html
+        url: https://{{site.url}}/about/faculty/directory.html
       - page: LIB Courses
-        url: https://{{site.baseurl}}/help/lib1201.html
+        url: https://{{site.url}}/help/lib1201.html
       - page: Mission & History
-        url: https://{{site.baseurl}}/about/mission/index.html
+        url: https://{{site.url}}/about/mission/index.html
       - page: Strategic Plan
-        url: https://{{site.baseurl}}/strategicPlan.html
+        url: https://{{site.url}}/strategicPlan.html
       - page: Diversity Commitments
-        url: https://{{site.baseurl}}/about/antioppression/index.html
+        url: https://{{site.url}}/about/antioppression/index.html
       - page: Policies
-        url: https://{{site.baseurl}}/about/policies/index.php
+        url: https://{{site.url}}/about/policies/index.php
       - page: Employment
-        url: https://{{site.baseurl}}/about/openPositions.php
+        url: https://{{site.url}}/about/openPositions.php
   - title: News
     subfolderitems:
       - page: LibraryBuzz News Blog
