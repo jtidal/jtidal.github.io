@@ -25,3 +25,37 @@ h1 {
   color: $primary;
   background-color: $secondary;
 }
+
+label{
+  padding: 5px;
+}
+
+input{
+  padding: 5px;
+}
+
+.card{
+  margin: 5px;
+  padding: 10px;
+}
+
+.embolden{
+  font-weight:bold;
+}
+
+body {
+  min-height: 75rem;
+  padding-top: 7.5rem;
+}
+
+footer {
+  background-color: #eeeeee;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.icon-space{
+  margin-right: 5px;
+}
+
+.sideburns{padding: 0px 15px 0px 5px;"}
