@@ -1,13 +1,14 @@
 <header> 
-  <nav class="navbar navbar-expand-lg navbar-custom">
-      <a class="navbar-brand" href="#"><span><img src="{{ site.url }}/assets/images/logo.png"></span></a>
+  <nav class="navbar navbar-expand-md fixed-top" style="background:#044e95;">
+    <div class="container">
+    <a class="navbar-brand" href="#"><span><img src="{{ site.url }}/assets/images/logo.png"></span></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">{% for item in site.data.navbar.toc %}
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ item.title }}</a>
+          <li class="nav-item dropdown sideburns" >
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color:white; font-weight:bold;">{{ item.title }}</a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
               {% for entry in item.subfolderitems %}
               <li><a class="dropdown-item" href="{{ entry.url }}">{{ entry.page }}</a></li>
@@ -15,7 +16,14 @@
             </ul>
             </li>
             {% endfor %}
+            <li class="nav-item"><a class="nav-link" style="color:white; font-weight:bold" href="https://cuny-ny.primo.exlibrisgroup.com/discovery/account?vid=01CUNY_NY:CUNY_NY">My Library Account</a></li>
         </ul>
+       
+        </div>
+         <div class="pull-right">
+          <a class="btn pull-right" style="display:inline" href="https://www.citytech.cuny.edu"><img src="{{ site.url}}/assets/images/citytech_logo.png" style="width:168px; height:48px;" alt="Link to the New York City College of Technology Website">
+          </a>
     </div>
+  </div>
   </nav>
-</header> 
+</header>
