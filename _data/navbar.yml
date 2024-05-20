@@ -4,7 +4,7 @@ toc:
       - page: Books
         url: https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY
       - page: Articles
-        url: https://jtidal.github.io/research/articles/subjects/index.php
+        url: https://jtidal.github.io/research/articles/subjects/index.html
       - page: Journals
         url: https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?vid=01CUNY_NY:CUNY_NY
       - page: eBooks
@@ -16,7 +16,7 @@ toc:
       - page: Research Guides
         url: https://libguides.citytech.cuny.edu/?b=s
       - page: Other Libraries
-        url: https://jtidal.github.io/research/otherLibraries/index.php
+        url: https://jtidal.github.io/research/otherLibraries/index.html
       - page: Library Subject Specialists
         url: https://jtidal.github.io/research/subjectSpecialists.html
   - title: Services
