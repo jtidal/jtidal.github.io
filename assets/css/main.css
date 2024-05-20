@@ -7,8 +7,8 @@ input{
 }
 
 .card{
-  margin: 5px;
-  padding: 10px;
+  margin: 15px;
+  padding: 0px;
 }
 
 .embolden{
@@ -30,4 +30,11 @@ footer {
   margin-right: 5px;
 }
 
-.sideburns{padding: 0px 15px 0px 5px;}
+.sideburns{padding: 0px 15px 0px 5px;"}
+
+
+
+.card-header{
+  margin:0px; 
+  padding:10px;
+}
