@@ -49,7 +49,7 @@ title: Welcome to City Tech Library
 <!--SEARCH THE COLLECTION-->
 	<div class="col-md-9 col-sm-12">
 		<div class="card" >
-			<h1 class="card-header embolden" style="font-weight:bold;"><i class="bi-search icon-space"></i>Search the collection</h1>
+			<h1 class="card-header embolden"  style="background-color:#044e95; color:white;"><i class="bi-search icon-space"></i>Search the collection</h1>
 			<div class="card-body">
 			<form action="https://library.citytech.cuny.edu/oneSearch2.php" enctype="application/x-www-form-urlencoded; charset=utf-8" method="post" name="searchForm" role="search" class="form-inline">
 			        <select name="selectStyle" class="form-select form-control-lg" aria-label="Search by Type">
@@ -90,7 +90,7 @@ title: Welcome to City Tech Library
 <div class="row">
 	<div class="col-md-12 col-sm-12" style="padding-bottom:10px;">
 		<div class="card">
-			<div class="card-header">
+			<div class="card-header" style="background-color: #ffa815;">
 				<h2 class="embolden"><i class="bi-mortarboard-fill icon-space"></i>Start Your Research</h2>
 		 	</div>
   			<div class="card-body" style="text-align:center;">
@@ -132,21 +132,21 @@ title: Welcome to City Tech Library
 <div class="row">
 	<div class="col-md-8 col-sm-12" style="padding-bottom:10px;">
 		<div class="card card-primary">
-	 		<div class="card-header"><h2 class="embolden"><i class="bi-newspaper icon-space"></i>News & Events</h2></div>
+	 		<div class="card-header" style="background-color:#044e95; color:white;"><h2 class="embolden"><i class="bi-newspaper icon-space"></i>News & Events</h2></div>
 			
 	</div>
 	</div>
 
 	<div class="col-md-4 col-sm-12">
 	<div class="card card-warning">
-	  <div class="card-header"><h2 style="font-weight:bold;"><i class="bi-people-fill icon-space"></i>Workshops</h2></div>
+	  <div class="card-header" style="background-color: #ffa815;"><h2 style="font-weight:bold;"><i class="bi-people-fill icon-space"></i>Workshops</h2></div>
 	  <div class="card-body" style="height:100%;">
 	<div id="api_upc_cid17264_iid4689"></div><script src="https://libcal.citytech.cuny.edu/api_events.php?m=upc&cid=17264&audience=&c=&d=&l=5&target=_blank&simple=agenda&context=object&format=js"> </script>
 	</div><!--bod-->
 	</div><!--card-->
 
 	<div class="card card-primary">
-	  <div class="card-header"><h2 class="embolden"><i class="bi-globe icon-space"></i>Explore</h2></div>
+	  <div class="card-header" style="background-color:#044e95; color:white;"><h2 class="embolden"><i class="bi-globe icon-space"></i>Explore</h2></div>
 	  <div class="card-body">
 	<div class="row"  style="text-align:center;">
 	<div style="padding: 15px;"><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01CUNY_NY:CUNY_NY" target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-book-shelf-2174494%281%29.png" alt="Featured Collections"><br>Featured Collections</a></div>
