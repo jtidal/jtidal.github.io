@@ -40,15 +40,15 @@ toc:
   - title: Research Help
     subfolderitems:
       - page: Ask A Librarian
-        url: /widget1.html
+        url: ttps://{{site.name}}/help/ask/index.html
       - page: Citations & Writing
-        url: /widget2.html
+        url: https://libguides.citytech.cuny.edu/citations
       - page: Tutorials
-        url: /widget3.html
+        url: https://library.citytech.cuny.edu/orientation/
       - page: Workshops
-        url: /widget3.html
+        url: https://libcal.citytech.cuny.edu/calendar/workshops?cid=17264&t=g&d=0000-00-00&cal=17264&inc=0
       - page: How Do I...?
-        url: /widget3.html
+        url: https://citytech-cuny.libanswers.com/how/search/
   - title: About
     subfolderitems:
       - page: Hours
