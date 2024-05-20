@@ -73,19 +73,9 @@ toc:
     subfolderitems:
       - page: LibraryBuzz News Blog
         url: https://openlab.citytech.cuny.edu/library
-      - page: Directions
-        url: /widget2.html
-      - page: Library Faculty & Staff
-        url: /widget3.html
-      - page: LIB Courses
-        url: /widget3.html
-      - page: Mission & History
-        url: /widget3.html
-      - page: Strategic Plan
-        url: /widget3.html
-      - page: Diversity Commitments
-        url: /widget3.html
-      - page: Policies
-        url: /widget3.html
-      - page: Employment
-        url: /widget3.html    
+      - page: Events
+        url: https://openlab.citytech.cuny.edu/library/category/events/
+      - page: Workshops
+        url: https://libcal.citytech.cuny.edu/calendar/workshops?cid=17264&t=g&d=0000-00-00&cal=17264&inc=0
+      - page: Exhibits  
+        url: https://libguides.citytech.cuny.edu/exhibits
