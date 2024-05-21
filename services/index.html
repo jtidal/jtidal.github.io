@@ -3,9 +3,7 @@ layout: page
 title: Service
 categories: 
 ---
-<h2>{{site.data.navbar.toc.title.[1]}}</h2>
-<ul>
-   {% for item in site.data.navbar.toc.title.[1] %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   {% endfor %}
-</ul>
+
+{% for links in site.data.navbar.toc[1] %}
+  {{ links }}
+{% endfor %}
