@@ -2,13 +2,13 @@ find:
   title: Find
   url: /research/
 
-services:
-  title: Services
-  url: /services/
-
 circulation:
   title: 'Borrow, Renew, Request'
   url: services/circulation/
+
+services:
+  title: Services
+  url: /services/
 
 about:
    title: About
