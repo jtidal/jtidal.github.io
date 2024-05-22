@@ -1,7 +1,7 @@
 <div class="alert alert-light" role="alert">
 <ol class="breadcrumb">
   <li class="breadcrumb-item">
-    <a href="{{ site.baseurl }}">Home</a>
+    <a href="{{ site.url }}">Home</a>
   </li>
 
   {%- for category in page.categories -%}
@@ -16,9 +16,7 @@
   {%- endfor -%}
 
   <li class="breadcrumb-item active">
-    <a href="{{ page.url | prepend: site.baseurl }}">
-      {{ page.title }}
-    </a>
+          {{ page.title }}
   </li>
 </ol>
 
