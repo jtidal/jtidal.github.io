@@ -8,7 +8,7 @@
   {%-   assign crumb = site.data.breadcrumbs[category] -%}
  
   <li class="breadcrumb-item">
-    <a href="{{ crumb.url | prepend: site.baseurl }}">
+    <a href="{{ crumb.url | prepend: site.url }}">
       {{ crumb.title }}
     </a>
   </li>
