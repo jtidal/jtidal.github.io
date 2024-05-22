@@ -4,6 +4,7 @@ find:
 
 circulation:
   title: 'Borrow, Renew, Request'
+  parent: services
   url: services/circulation/
 
 services:
