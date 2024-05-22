@@ -4,16 +4,16 @@
     <a href="{{ site.url }}">Home</a>
   </li>
 
-  {%- for category in page.categories -%}
-  {%-   assign crumb = site.data.breadcrumbs[category] -%}
-  {%-   if crumb -%}
+  {% for category in page.categories %}
+  {%   assign crumb = site.data.breadcrumbs[category] %}
+  {%   if crumb %}
   <li class="breadcrumb-item">
     <a href="{{ crumb.url | prepend: crumb.parent }}">
       {{ crumb.title }}
     </a>
   </li>
-  {%-   endif -%}
-  {%- endfor -%}
+  {%   endif %}
+  {% endfor %}
 
   <li class="breadcrumb-item active">
       {{ page.title }}
