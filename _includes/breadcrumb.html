@@ -5,9 +5,15 @@
   </li>
 
   {% for category in page.categories %}
-  Cats:{{category}}
-  {% endfor %}
-
+    {% assign crumb = site.data.breadcrumbs[category] %}
+     {%if crumb %}{{category}}
+            <a href="{{ crumb.url | prepend: site.baseurl }}">
+            {{ crumb.title }}
+    </a>
+  </li>
+  {%-   endif -%}
+  {%- endfor -%}
+  
   <li class="breadcrumb-item active">
       {{ page.title }}
   </li>
