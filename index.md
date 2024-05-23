@@ -5,7 +5,7 @@ title: Welcome to City Tech Library
 <div class="row">
 	<div class="col-md-3 col-sm-12">
 		<div class="card card-info">
-			<djv class="card-heading"><h2 class="card-header embolden"><i class="bi-alarm icon-space" ></i><a href="https://libcal.citytech.cuny.edu">Hours</a></h2></djv>
+			<div class="card-header"><h2 class="embolden"><i class="bi-alarm icon-space" ></i><a href="https://libcal.citytech.cuny.edu">Hours</a></h2></djv>
 				<script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
 				<script src="https://citytech-cuny.libcal.com/js/hours_today.js"></script> 
 				<div id="s_lc_tdh_4689_10010" style=" font-size:14px;"></div> 
@@ -36,7 +36,7 @@ title: Welcome to City Tech Library
 		</div><!-- card-->
 
 		<div class="card card-default">
-			<h2 class="card-header embolden"><i class="bi-chat icon-space"></i>Chat</h2>
+			<div class="card-header"><h2 class="embolden"><i class="bi-chat icon-space"></i>Chat</h2></div>
 			<div class="card-body" style="text-align:center">
 				<a href="https://library.citytech.cuny.edu/help/ask/index.php"><img style="padding: 2px;  margin:2px; height:50px; width:50px;" src="https://library.citytech.cuny.edu/uploads/noun-chat-bubble-1388380.png" alt="Ask a Librarian"><p>Ask A Librarian</p></a>
 			</div>
