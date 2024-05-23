@@ -17,7 +17,6 @@ categories:
   <tbody>
   {% for person in site.data.librarians.librarians %}
     <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
-    <br>
     {% if person.email %}
     <p><a href="mailto:{{ person.email }}">{{ person.email }}</a>
     {% else %}
@@ -42,8 +41,8 @@ categories:
   </thead>
   <tbody>
   {% for person in site.data.emeritus.emeritus %}
-    <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
-    <br><p><a href="mailto:{{ person.email }}">{{ person.email }} </a></p>
+    <tr><td><h4>{{ person.name }}</h4>
+    <p><a href="mailto:{{ person.email }}">{{ person.email }} </a></p>
     </td>
     <td>{{ person.rank }}</td>
     </tr>    
@@ -61,8 +60,8 @@ categories:
   </thead>
   <tbody>
   {% for person in site.data.staff.staff %}
-    <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
-    <p><a href="mailto:{{ person.email }}">{{ person.email }} </a>
+    <tr><td><h4>{{ person.name }}</h4>
+    <p><a href="mailto:{{ person.email }}">{{ person.email }}</a>
     <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
     {{ person.room }}</p>
     </td>
@@ -83,7 +82,7 @@ categories:
   </thead>
   <tbody>
   {% for person in site.data.adjuncts.adjuncts %}
-    <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
+    <tr><td><h4>{{ person.name }}</h4>
     <p><a href="mailto:{{ person.email }}">{{ person.email }} </a>
     <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
     {{ person.room }}</p>
