@@ -1,4 +1,9 @@
- /* unvisited link */
+input{
+ padding: 3px;
+ margin: 3px;
+}
+
+/* unvisited link */
 a:link {
   color: 0000FF;
 }
