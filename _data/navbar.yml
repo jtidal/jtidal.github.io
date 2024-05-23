@@ -3,22 +3,31 @@ toc:
     subfolderitems:
       - page: Books
         url: https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY
+        title: 'Find materials within City Tech and CUNY's collection.'
       - page: Articles
         url: https://jtidal.github.io/research/articles/subjects/index.html
+        title: 'Find articles, journals, and other materials.'
       - page: Journals
         url: https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?vid=01CUNY_NY:CUNY_NY
+        title: 'Find journals by title, subject, and more.'
       - page: eBooks
         url: https://libguides.citytech.cuny.edu/az.php?t=42693
+        title: 'Browse our eBook collections.'
       - page: E-Reserves
         url: https://libguides.citytech.cuny.edu/er.php
+        title: 'Find an article if you have a specific citation.'
       - page: Video & Audio
         url: https://libguides.citytech.cuny.edu/az.php?t=49467
+        title: 'Find resources for your subject.'
       - page: Research Guides
         url: https://libguides.citytech.cuny.edu/?b=s
+        title: 'Start your research with librarian curated research guides.'
       - page: Other Libraries
         url: https://jtidal.github.io/research/otherLibraries/index.html
+        title: 'Use CUNY, public, and other institutions' libraries for your research.'
       - page: Library Subject Specialists
         url: https://jtidal.github.io/research/subjectSpecialists.html
+        title: 'This is a list of faculty library subject specialists.'
   - title: Services
     subfolderitems:
       - page: Borrow, Renew, Request
