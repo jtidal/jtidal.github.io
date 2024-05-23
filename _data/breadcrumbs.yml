@@ -1,71 +1,70 @@
 find:
   title: Find
-  url: research/
+  url: research/index.html
 
 circulation:
   title: 'Borrow, Renew, Request'
-  parent: services
-  url: services/circulation/
+  url: services/circulation/index.html
 
 services:
   title: Services
-  url: services/
+  url: services/index.html
 
 about:
    title: About
-   url: about/
+   url: about/index.html
 
 antioppression:
    title: Diversity Statements
-   url: about/antioppression/
+   url: about/antioppression/index.html
 
 faculty:
    title: Faculty
-   url: faculty/
+   url: faculty/index.html
 
 mission:
    title: Mission
-   url: mission/
+   url: mission/index.html
 
 policies:
    title: Policies
-   url: policies/
+   url: policies/index.html
 
 access:
    title: Access
-   url: access/
+   url: access/index.html
 
 multimedia:
    title: Multimedia
-   url: multimedia/
+   url: multimedia/index.html
 
 help:
   title: Help
-  url: help/
+  url: help/index.html
 
 ask:
    title: Ask
-   url: ask/
+   url: ask/index.html
 
 classes:
    title: Classes
-   url: classes/
+   url: classes/index.html
 
 research:
    title: Find
-   url: research/
+   url: research/index.html
 
 articles:
    title: Articles
-   url: articles/
+   url: articles/index.html
 
 subjects:
    title: Subjects
-   url: subjects/
+   url: subjects/index.html
 
 otherLibraries:
    title: Other Libraries
-   url: otherLibraries
+   url: otherLibraries/index.html
 
 news:
   title: News
