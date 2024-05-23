@@ -4,9 +4,6 @@ title: Welcome to City Tech Library
 ---
 <div class="row">
 	<div class="col-md-3 col-sm-12">
-	
-
-
 		<div class="card card-info">
 			<djv class="card-heading"><h2 class="card-header embolden"><i class="bi-alarm icon-space" ></i><a href="https://libcal.citytech.cuny.edu">Hours</a></h2></djv>
 				<script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
@@ -49,7 +46,7 @@ title: Welcome to City Tech Library
 <!--SEARCH THE COLLECTION-->
 	<div class="col-md-9 col-sm-12">
 		<div class="card" >
-			<h1 class="card-header embolden"  style="background-color:#044e95; color:white;"><i class="bi-search icon-space"></i>Search the collection</h1>
+			<div class="card-header embolden"  style="background-color:#044e95; color:white;"><i class="bi-search icon-space"></i><h1>Search the collection</h1></div>
 			<div class="card-body">
 			<form action="https://library.citytech.cuny.edu/oneSearch2.php" enctype="application/x-www-form-urlencoded; charset=utf-8" method="post" name="searchForm" role="search" class="form-inline">
 			        <select name="selectStyle" class="form-select form-control-lg" aria-label="Search by Type">
