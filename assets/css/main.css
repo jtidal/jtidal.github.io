@@ -6,6 +6,11 @@
   border: 1px solid black;
 }
 
+.btn-info{
+ background-color: #044e95;
+  color: white;
+}
+
 p{
   margin: 5px;
   padding: 5px;
