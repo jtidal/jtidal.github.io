@@ -1,6 +1,6 @@
 find:
   title: Find
-  url: /research/
+  url: research/
 
 circulation:
   title: 'Borrow, Renew, Request'
@@ -9,11 +9,11 @@ circulation:
 
 services:
   title: Services
-  url: /services/
+  url: services/
 
 about:
    title: About
-   url: /about/
+   url: about/
 
 antioppression:
    title: Diversity Statements
@@ -21,56 +21,52 @@ antioppression:
 
 faculty:
    title: Faculty
-   url: /faculty/
+   url: faculty/
 
 mission:
    title: Mission
-   url: /mission/
+   url: mission/
 
 policies:
    title: Policies
-   url: /policies/
+   url: policies/
 
 access:
    title: Access
-   url: /access/
+   url: access/
 
 multimedia:
    title: Multimedia
-   url: /multimedia/
+   url: multimedia/
 
 help:
   title: Help
-  url: /help/
+  url: help/
 
 ask:
    title: Ask
-   url: /ask/
+   url: ask/
 
 classes:
    title: Classes
-   url: /classes/
+   url: classes/
 
 research:
    title: Find
-   url: /research/
+   url: research/
 
 articles:
    title: Articles
-   url: /articles/
+   url: articles/
 
 subjects:
    title: Subjects
-   url: /subjects/
+   url: subjects/
 
 otherLibraries:
    title: Other Libraries
-   url: /otherLibraries
-
-services:
-   title: Services
-   url: /services/
+   url: otherLibraries
 
 news:
   title: News
-  url: /news/
+  url: news/
