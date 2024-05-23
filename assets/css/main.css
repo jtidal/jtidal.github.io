@@ -55,9 +55,11 @@ footer {
 
 .sideburns{padding: 0px 15px 0px 5px;"}
 
-
-
 .card-header{
   margin:0px; 
   padding:10px;
+}
+
+.navbar a{
+font-size: 14px;
 }
