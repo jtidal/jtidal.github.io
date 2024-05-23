@@ -73,7 +73,7 @@ title: Welcome to City Tech Library
 				    <br>
 		    		<input alt="Search" class="btn-primary" id="submit" title="Search books, articles &amp; more" type="submit" value="Search" />
 		       		<fieldset>
-	       			<legend>Search type:</legend>
+	       			<legend style="display:none">Search type:</legend>
 		       		<label class="radio-inline"><input type="radio" name="radioSelection" checked="checked" value="any">Keyword</label>
 		       		<label class="radio-inline"><input type="radio" name="radioSelection" value="title">Title</label> 
 		       		<label class="radio-inline"><input type="radio" name="radioSelection" value="creator">Author</label>
