@@ -19,13 +19,13 @@ categories:
     <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
     <br>
     {% if person.email %}
-    <a href="mailto:{{ person.email }}">{{ person.email }} </a>
+    <p></p><a href="mailto:{{ person.email }}">{{ person.email }} </a>
     {% else %}
     {% endif %}
     <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
-    {{ person.room }}
+    {{ person.room }}</p>
     </td>
-    <td>{{ person.rank }}<br>{{ person.area }}
+    <td><p></p>{{ person.rank }}<br>{{ person.area }}</p>
     </td>
     </tr>    
   {% endfor %}
@@ -43,7 +43,7 @@ categories:
   <tbody>
   {% for person in site.data.emeritus.emeritus %}
     <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
-    <br><a href="mailto:{{ person.email }}">{{ person.email }} </a>
+    <br><p></p><a href="mailto:{{ person.email }}">{{ person.email }} </a></p>
     </td>
     <td>{{ person.rank }}</td>
     </tr>    
@@ -62,9 +62,9 @@ categories:
   <tbody>
   {% for person in site.data.staff.staff %}
     <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
-    <br><a href="mailto:{{ person.email }}">{{ person.email }} </a>
+    <p><a href="mailto:{{ person.email }}">{{ person.email }} </a>
     <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
-    {{ person.room }}
+    {{ person.room }}</p>
     </td>
     <td>{{ person.area }}
     </td>
@@ -84,11 +84,11 @@ categories:
   <tbody>
   {% for person in site.data.adjuncts.adjuncts %}
     <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
-    <br><a href="mailto:{{ person.email }}">{{ person.email }} </a>
+    <p><a href="mailto:{{ person.email }}">{{ person.email }} </a>
     <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
-    {{ person.room }}
+    {{ person.room }}</p>
     </td>
-    <td>{{ person.area }}
+    <td><p>{{ person.area }}</p>
     </td>
     </tr>    
   {% endfor %}
@@ -100,19 +100,19 @@ categories:
   
         <h2>Library Phone Numbers</h2>
     
-<table class="table table-striped"><tbody><tr><td><strong>Circulation:</strong></td>
-<td align="right"><a href="tel:718.260.5470">718.260.5470</a></td>
-</tr><tr><td><strong>Reference:</strong></td>
-<td align="right"><a href="tel:718.260.5485">718.260.5485</a></td>
-</tr><tr><td><strong>Administration:</strong></td>
-<td align="right"><a href="tel:718.260.5497">718.260.5497</a></td>
-</tr><tr><td><strong>Multimedia:</strong></td>
-<td align="right"><a href="tel:718.260.5476">718.260.5476</a></td>
-</tr><tr><td><strong>Periodicals:</strong></td>
-<td align="right"><a href="tel:718.260.5482">718.260.5482</a></td>
-</tr><tr><td><strong>Interlibrary Loan:</strong></td>
-<td align="right"><a href="tel:718.260.5792">718.260.5792</a></td>
-</tr></tbody></table>
+      <table class="table table-striped"><tbody><tr><td><strong>Circulation:</strong></td>
+      <td align="right"><a href="tel:718.260.5470">718.260.5470</a></td>
+      </tr><tr><td><strong>Reference:</strong></td>
+      <td align="right"><a href="tel:718.260.5485">718.260.5485</a></td>
+      </tr><tr><td><strong>Administration:</strong></td>
+      <td align="right"><a href="tel:718.260.5497">718.260.5497</a></td>
+      </tr><tr><td><strong>Multimedia:</strong></td>
+      <td align="right"><a href="tel:718.260.5476">718.260.5476</a></td>
+      </tr><tr><td><strong>Periodicals:</strong></td>
+      <td align="right"><a href="tel:718.260.5482">718.260.5482</a></td>
+      </tr><tr><td><strong>Interlibrary Loan:</strong></td>
+      <td align="right"><a href="tel:718.260.5792">718.260.5792</a></td>
+      </tr></tbody></table>
 
         <h2>Library Subject Specialists</h2>
     
