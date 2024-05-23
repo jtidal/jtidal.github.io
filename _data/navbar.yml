@@ -104,9 +104,13 @@ toc:
     subfolderitems:
       - page: LibraryBuzz News Blog
         url: https://openlab.citytech.cuny.edu/library
+        title: Stay up to date on library news
       - page: Events
         url: https://openlab.citytech.cuny.edu/library/category/events/
+        title: Learn about upcoming workshops, exhibits, events, and more
       - page: Workshops
         url: https://libcal.citytech.cuny.edu/calendar/workshops?cid=17264&t=g&d=0000-00-00&cal=17264&inc=0
+        title: Look at the library workshop offersing and schedule
       - page: Exhibits  
         url: https://libguides.citytech.cuny.edu/exhibits
+        title: Access past and present library exhibits or apply to host an exhibit at the library.
