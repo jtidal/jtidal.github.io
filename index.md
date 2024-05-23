@@ -8,7 +8,7 @@ title: Welcome to City Tech Library
 			<div class="card-header"><h2 class="embolden"><i class="bi-alarm icon-space" ></i><a href="https://libcal.citytech.cuny.edu">Hours</a></h2></div>
 				<script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
 				<script src="https://citytech-cuny.libcal.com/js/hours_today.js"></script> 
-				<div id="s_lc_tdh_4689_10010" style=" font-size:14px;"></div> 
+				<div id="s_lc_tdh_4689_10010" class="text-center"></div> 
 				<script>
 					$(function(){ 
 						var s_lc_tdh_4689_10010 = new $.LibCalTodayHours( $("#s_lc_tdh_4689_10010"), { iid: 4689, lid: 10010 }); 
