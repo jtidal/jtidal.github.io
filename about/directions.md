@@ -22,44 +22,40 @@ The Ursula C. Schwerin Library is located on the 4th floor of the Library Buildi
 - B54 to Jay St./Myrtle Plz.
 - B25, B38, B103 to Tillary St./Cadman Plz E.
 - <a href="http://www.mta.info/nyct/maps/busbkln.pdf" style="text-decoration: underline;">Brooklyn bus map</a> (PDF)
-
 </div>
 
 <div class="col-md-6 col-sm-12">
 ### Driving Directions</h3>
-#### Manhattan</h4>
-
+#### Manhattan
 - Take the FDR Drive to the Brooklyn Bridge.
 - Stay to the left and exit the bridge, turning left onto Tillary. 
 - Turn right onto Jay Street at the first light.
 
 
-#### Bronx:</h4> 
-
+#### Bronx:
 - Take the FDR Drive to the Brooklyn Bridge. 
 - Stay to the left and exit the bridge, turning left onto Tillary. 
 - Turn right onto Jay Street at the first light.
 
 
-#### Queens:</h4> 
+#### Queens:
 
 - Take the Long Island Expressway west to the BQE. 
 - Follow the sign to downtown Brooklyn. 
 - Exit at Tillary and stay in the center lane past the Flatbush Avenue Extensions; move left and turn left at Jay Street.
 
 
-#### Brooklyn:</h4> 
+#### Brooklyn:
 
 - Take the Belt Parkway to the Brooklyn-Queens Expressway and get off at the Atlantic Avenue exit. Turn right on Atlantic; continue for five blocks to Smith Street. 
 - Make a left onto Smith; continue across Fulton where Smith becomes Jay.
 
 
-#### Staten Island:</h4> 
+#### Staten Island:
 
 - Cross the Verrazano Bridge to the Brooklyn-Queens Expressway. 
 - Take the Belt Parkway to the Brooklyn-Queens Expressway and get off at the Atlantic Avenue exit. 
 - Turn right on Atlantic; continue for five blocks to Smith Street. Make a left onto Smith; continue across Fulton where Smith becomes Jay.
 
 </div>
-<div>
 </div>
