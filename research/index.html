@@ -2,6 +2,10 @@
 layout: page
 title: Find
 ---
-{% for link in site.data.navbar.toc.title[0] %}
-  {{ link }}
+{% for link in site.data.navbar.toc[0] %}
+  {{ link.title }}<br>
+  {% for entry in link.subfolderitems %}
+      {{entry.page}}<br>
+  {% endfor %}
 {% endfor %}
+
