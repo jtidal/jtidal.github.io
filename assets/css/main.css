@@ -1,6 +1,11 @@
 .pageTitle{
   margin-bottom: 10px;
 }
+
+.borderButton{
+  border: 1px solid black;
+}
+
 p{
   margin: 5px;
   padding: 5px;
