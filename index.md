@@ -71,14 +71,15 @@ title: Welcome to City Tech Library
 				    
 				    <input label= "search query" id="primoQueryTemp" class="focus form-control" name="queryTemp" size="30" type="text" placeholder="Find books, media, and more" aria-label="Input search query here"/>
 				    <br>
-		    		<input alt="Search" class="btn-primary" id="submit" title="Search books, articles &amp; more" type="submit" value="Search" />
-		       		<fieldset>
+	<fieldset>
 	       			<legend style="display:none">Search type:</legend>
 		       		<label class="radio-inline"><input type="radio" name="radioSelection" checked="checked" value="any">Keyword</label>
 		       		<label class="radio-inline"><input type="radio" name="radioSelection" value="title">Title</label> 
 		       		<label class="radio-inline"><input type="radio" name="radioSelection" value="creator">Author</label>
 		       		<label class="radio-inline"><input type="radio" name="radioSelection" value="sub">Subject</label>
 				</fieldset>
+		    		<input alt="Search" class="btn-primary" id="submit" title="Search books, articles &amp; more" type="submit" value="Search" />
+		       		
     				</form><!--form-group-->
 			</div>
 		</div>
