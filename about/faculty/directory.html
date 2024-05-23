@@ -19,13 +19,13 @@ categories:
     <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
     <br>
     {% if person.email %}
-    <p></p><a href="mailto:{{ person.email }}">{{ person.email }} </a>
+    <p><a href="mailto:{{ person.email }}">{{ person.email }}</a>
     {% else %}
     {% endif %}
     <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
     {{ person.room }}</p>
     </td>
-    <td><p></p>{{ person.rank }}<br>{{ person.area }}</p>
+    <td><p>{{ person.rank }}<br>{{ person.area }}</p>
     </td>
     </tr>    
   {% endfor %}
@@ -43,7 +43,7 @@ categories:
   <tbody>
   {% for person in site.data.emeritus.emeritus %}
     <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
-    <br><p></p><a href="mailto:{{ person.email }}">{{ person.email }} </a></p>
+    <br><p><a href="mailto:{{ person.email }}">{{ person.email }} </a></p>
     </td>
     <td>{{ person.rank }}</td>
     </tr>    
