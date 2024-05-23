@@ -2,10 +2,8 @@
 layout: page
 title: Find
 ---
-{{site.data.navbar.toc[0].title}}
-
 {% for link in site.data.navbar.toc[0].subfolderitems %}
-  {{link.page}}<br>
+  <ul>
+    <li><a href="{{link.url}}">{{link.page}}</a>a></li>
+  </ul><br>
 {% endfor %}
-
-
