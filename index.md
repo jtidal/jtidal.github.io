@@ -28,7 +28,7 @@ title: Welcome to City Tech Library
 					.s-lc-w-location td {  font-weight: bold;  }
 					.s-lc-w-department {  display: none; } 
 					.s-lc-w-name {  display:none; }
-					.s-lc-w-times { display: inline; padding-left:45px; }
+					.s-lc-w-times { display: inline; }
 					.s-lc-w-today-view-link { text-decoration: none; font-size:12px;}
 					.s-lc-w-today-view-all { display:none; }
 					.s-lc-w-head-pre { padding-top:10px; display:none; }
