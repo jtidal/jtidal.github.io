@@ -49,7 +49,7 @@ title: Welcome to City Tech Library
 		<div class="card" >
 			<div class="card-header" style="background-color:#044e95; color:white;"><h1 class="embolden"><i class="bi-search icon-space"></i>Search the collection</h1></div>
 			<div class="card-body">
-			<form action="https://library.citytech.cuny.edu/oneSearch2.php" enctype="application/x-www-form-urlencoded; charset=utf-8" method="post" name="searchForm" role="search" class="form-inline">
+			<form action="https://library.citytech.cuny.edu/oneSearch2.php"  charset=utf-8" method="post" name="searchForm" role="search" class="form-inline">
 			        <select name="selectStyle" class="form-select form-control-lg" aria-label="Search by Type">
 				        <option label="Print and eBooks">Books (Print + eBooks)</option>
 				        <option label="Everything" selected="selected">Everything</option>
@@ -70,7 +70,7 @@ title: Welcome to City Tech Library
 				    <input name="search_scope" type="hidden" value="IZ_CI_AW"> 
 				    <input id="primoQuery" name="query" type="hidden"> 
 				    
-				    <input label= "search query" id="primoQueryTemp" class="focus form-control" name="queryTemp" size="30" type="text" placeholder="Find books, media, and more" aria-label="Input search query here"/>
+				    <input label= "search query" id="primoQueryTemp" class="focus form-control" name="queryTemp" size="30" type="text" placeholder="Find books, media, and more" aria-label="Input search query here">
 				    <br>
 	<fieldset>
 	       			<legend style="display:none">Search type:</legend>
@@ -79,7 +79,7 @@ title: Welcome to City Tech Library
 		       		<label class="radio-inline"><input type="radio" name="radioSelection" value="creator">Author</label>
 		       		<label class="radio-inline"><input type="radio" name="radioSelection" value="sub">Subject</label>
 				</fieldset>
-		    		<input alt="Search" class="btn-primary" id="submit" title="Search books, articles &amp; more" type="submit" value="Search" />
+		    		<input alt="Search" class="btn-primary" id="submit" title="Search books, articles &amp; more" type="submit" value="Search" >
 		       		
     				</form><!--form-group-->
 			</div>
