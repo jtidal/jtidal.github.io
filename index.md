@@ -133,7 +133,7 @@ title: Welcome to City Tech Library
 <div class="row">
 	<div class="col-md-8 col-sm-12" style="padding-bottom:10px;">
 		<div class="card card-primary" style="height: 750px;">
-	 		<div class="card-header" style="background-color:#044e95; color:white;"><h2 class="embolden"><i class="bi-newspaper icon-space"></i>News & Events</h2></div>
+	 		<div class="card-header" style="background-color: #044e95; color:white;"><h2 class="embolden"><i class="bi-newspaper icon-space"></i>News & Events</h2></div>
 			 <iframe src="https://library.citytech.cuny.edu/news.php" height="750" title="LibraryBuzz News Feed"></iframe> 
 	</div>
 	</div>
