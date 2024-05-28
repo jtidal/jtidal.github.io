@@ -22,7 +22,7 @@ title: Welcome to City Tech Library
 					.s-lc-w-loading { margin-top: 80px; text-align: center; }
 					.s-lc-w-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0; }
 					.s-lc-w-btn { line-height: 1.5; border-radius: 3px; display: inline-block; padding: 6px 0px 10px; 0px; margin-bottom: 0; font-size: 12px; font-weight: 400; text-align: center; white-space: nowrap; vertical-align: middle; touch-action: manipulation; cursor: pointer; user-select: none; border: 1px solid #ccc; color: #333; background-color: #fff; display: none; }
-					.s-lc-w-btn:active, .s-lc-w-btn:hover { color: #333; background-color: #d4d4d4; border-color: #8c8c8c; display: none;}
+					.s-lc-w-btn:active, .s-lc-w-btn:hover { color: #3333; background-color: #d4d4d4; border-color: #8c8c8c; display: none;}
 					.s-lc-w-previous { float: left;}
 					.s-lc-w-next { float: right; }
 					.s-lc-w-location td {  font-weight: bold;  }
