@@ -70,7 +70,7 @@ title: Welcome to City Tech Library
 				    <input name="search_scope" type="hidden" value="IZ_CI_AW"> 
 				    <input id="primoQuery" name="query" type="hidden"> 
 				    
-				    <input label= "search query" id="primoQueryTemp" class="focus form-control" name="queryTemp" size="30" type="text" placeholder="Find books, media, and more" aria-label="Input search query here">
+				    <input id="primoQueryTemp" class="focus form-control" name="queryTemp" size="30" type="text" placeholder="Find books, media, and more" aria-label="Input search query here">
 				    <br>
 	<fieldset>
 	       			<legend style="display:none">Search type:</legend>
