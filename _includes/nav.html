@@ -8,8 +8,8 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">{% for item in site.data.navbar.toc %}
           <li class="nav-item dropdown sideburns" >
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown{% increment my_counter %}" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color:white; font-weight:bold;">{{ item.title }}</a>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdown{{my_counter}}">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown{% assign nav = increment my_counter %}" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color:white; font-weight:bold;">{{ item.title }}</a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown{{nav}}">
               {% for entry in item.subfolderitems %}
               <li><a class="dropdown-item" href="{{ entry.url }}">{{ entry.page }}</a></li>
              {% endfor %}
