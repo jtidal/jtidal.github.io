@@ -8,13 +8,7 @@ title: Welcome to City Tech Library
 			<div class="card-header"><h2 class="embolden"><i class="bi-alarm icon-space" ></i><a href="https://libcal.citytech.cuny.edu">Hours</a></h2></div>
 				<script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
 				<script src="https://citytech-cuny.libcal.com/js/hours_today.js"></script> 
-				<div id="s_lc_tdh_4689_10010" class="text-center"></div> 
-				<script>
-					$(function(){ 
-						var s_lc_tdh_4689_10010 = new $.LibCalTodayHours( $("#s_lc_tdh_4689_10010"), { iid: 4689, lid: 10010 }); 
-					});
-				</script> 
-				<!-- Please note: The following styles are optional, feel free to modify! //-->
+			<!-- Please note: The following styles are optional, feel free to modify! //-->
 				<style>
 					.s-lc-w-today { border-spacing: 0; border-collapse: collapse; width: 100%; }
 					.s-lc-w-today td, .s-lc-w-today th { padding: 8px 5px; }
@@ -33,7 +27,14 @@ title: Welcome to City Tech Library
 					.s-lc-w-today-view-all { display:none; }
 					.s-lc-w-head-pre { padding-top:10px; display:none; }
 					.s-lc-hours-note {display:none;}
-				</style>
+				</style>	
+			<div id="s_lc_tdh_4689_10010" class="text-center"></div> 
+				<script>
+					$(function(){ 
+						var s_lc_tdh_4689_10010 = new $.LibCalTodayHours( $("#s_lc_tdh_4689_10010"), { iid: 4689, lid: 10010 }); 
+					});
+				</script> 
+				
 		</div><!-- card-->
 
 		<div class="card card-default">
@@ -79,7 +80,7 @@ title: Welcome to City Tech Library
 		       		<label class="radio-inline"><input type="radio" name="radioSelection" value="creator">Author</label>
 		       		<label class="radio-inline"><input type="radio" name="radioSelection" value="sub">Subject</label>
 				</fieldset>
-		    		<input alt="Search" class="btn-primary" id="submit" title="Search books, articles &amp; more" type="submit" value="Search" >
+		    		<input class="btn-primary" id="submit" title="Search books, articles &amp; more" type="submit" value="Search" >
 		       		
     				</form><!--form-group-->
 			</div>
