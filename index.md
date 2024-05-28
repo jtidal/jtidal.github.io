@@ -39,7 +39,7 @@ title: Welcome to City Tech Library
 		<div class="card card-default">
 			<div class="card-header"><h2 class="embolden"><i class="bi-chat icon-space"></i>Chat</h2></div>
 			<div class="card-body" style="text-align:center">
-				<a href="https://library.citytech.cuny.edu/help/ask/index.php"><img style="padding: 2px;  margin:2px; height:50px; width:50px;" src="https://library.citytech.cuny.edu/uploads/noun-chat-bubble-1388380.png" alt="Ask a Librarian"><p>Ask A Librarian</p></a>
+				<a href="https://library.citytech.cuny.edu/help/ask/index.php"><img style="padding: 2px; margin:2px; height:50px; width:50px;" src="https://library.citytech.cuny.edu/uploads/noun-chat-bubble-1388380.png" alt="Ask a Librarian"><p>Ask A Librarian</p></a>
 			</div>
 		</div>
 	</div> <!--col-md-3-->
@@ -63,12 +63,12 @@ title: Welcome to City Tech Library
 					
 					<p><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY&mode=advanced" style="color:#045099; font-weight:bold;">Advanced Search</a></p>
 
-				    <input name="institution" type="hidden" value="NY" /> 
-				    <input name="vid" type="hidden" value="ny" /> 
-				    <input name="group" type="hidden" value="GUEST" /> 
-				    <input name="onCampus" type="hidden" value="true" /> 
-				    <input name="search_scope" type="hidden" value="IZ_CI_AW" /> 
-				    <input id="primoQuery" name="query" type="hidden" /> 
+				    <input name="institution" type="hidden" value="NY"> 
+				    <input name="vid" type="hidden" value="ny"> 
+				    <input name="group" type="hidden" value="GUEST"> 
+				    <input name="onCampus" type="hidden" value="true"> 
+				    <input name="search_scope" type="hidden" value="IZ_CI_AW"> 
+				    <input id="primoQuery" name="query" type="hidden"> 
 				    
 				    <input label= "search query" id="primoQueryTemp" class="focus form-control" name="queryTemp" size="30" type="text" placeholder="Find books, media, and more" aria-label="Input search query here"/>
 				    <br>
