@@ -141,7 +141,7 @@ title: Welcome to City Tech Library
 	<div class="col-md-4 col-sm-12">
 	<div class="card card-warning">
 	  <div class="card-header" style="background-color: #ffa815;"><h2 style="font-weight:bold;"><i class="bi-people-fill icon-space"></i>Workshops</h2></div>
-	  <div class="card-body" style="height:100%;">
+	  <div class="card-body">
 	<div id="api_upc_cid17264_iid4689"></div><script src="https://libcal.citytech.cuny.edu/api_events.php?m=upc&cid=17264&audience=&c=&d=&l=5&target=_blank&simple=agenda&context=object&format=js"> </script>
 	</div><!--bod-->
 	</div><!--card-->
