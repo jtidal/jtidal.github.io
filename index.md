@@ -49,7 +49,7 @@ title: Welcome to City Tech Library
 		<div class="card" >
 			<div class="card-header" style="background-color:#044e95; color:white;"><h1 class="embolden"><i class="bi-search icon-space"></i>Search the collection</h1></div>
 			<div class="card-body">
-			<form action="https://library.citytech.cuny.edu/oneSearch2.php"  charset=utf-8" method="post" name="searchForm" role="search" class="form-inline">
+			<form action="https://library.citytech.cuny.edu/oneSearch2.php"  charset="utf-8" method="post" name="searchForm" role="search" class="form-inline">
 			        <select name="selectStyle" class="form-select form-control-lg" aria-label="Search by Type">
 				        <option label="Print and eBooks">Books (Print + eBooks)</option>
 				        <option label="Everything" selected="selected">Everything</option>
