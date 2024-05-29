@@ -2,7 +2,6 @@
 layout: orientation
 title: Tutorials
 ---
-**{{page.title | upcase }}**
 
 <div class="row">
   <div class="card-group">
