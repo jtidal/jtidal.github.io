@@ -7,7 +7,7 @@ title: Tutorials
 <div class="row">
   <div class="card-group">
     <div class="card">
-        <a href="research-question-2.md"><img src="" alt="Developing a Research Question"></a>
+        <a href="research-question-2.html"><img src="" alt="Developing a Research Question"></a>
     </div>
     <div class="card">
         <img src="" alt="Search Strategies">
