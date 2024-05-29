@@ -19,7 +19,7 @@ title: Tutorials
 </div>
 
 <div class="row">
-    <div class="card">
+    <div class="card-group">
     <div class="card">
       <img src="" alt="How to Find a Book">
   </div>
@@ -33,7 +33,7 @@ title: Tutorials
 </div>
 
 <div class="row">
-  <div class="card">
+  <div class="card-group">
     <div class="card">
       <img src="" alt="Finding EBooks">
   </div>
