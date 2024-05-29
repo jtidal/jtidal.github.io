@@ -1,5 +1,6 @@
 ---
 title: Tutorials & Research Support
+layout: orientation
 ---
 **HOME**
 <div class="text-center"><img src="" alt="Tutorials"></div>
