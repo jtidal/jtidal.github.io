@@ -2,6 +2,8 @@
 layout: orientation
 title: Tutorials
 ---
+**{{page.title | upcase }}**
+
 <div class="row">
   <div class="col-4">
       <img src="" alt="Developing a Research Question">
