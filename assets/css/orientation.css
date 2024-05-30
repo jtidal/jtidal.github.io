@@ -1,0 +1,83 @@
+.TwoHunImg{
+ height: 200px;
+ width: 200px;
+}
+
+input{
+ padding: 3px;
+ margin: 3px;
+}
+
+/* unvisited link */
+a:link {
+  color: 0000FF;
+}
+
+/* visited link */
+a:visited {
+  color: 0000FF;
+}
+
+/* mouse over link */
+a:hover {
+  color: 0000FF;
+}
+
+/* selected link */
+a:active {
+  color: 0000FF;
+} 
+
+.pageTitle{
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.borderButton{
+  border: 1px solid black;
+}
+
+.btn-info{
+ background-color: #044e95;
+  color: white;
+}
+
+p{
+  margin: 5px;
+  padding: 5px;
+}
+
+h1, h2, h3, h4{
+  margin: 5px;
+  padding: 5px;
+}
+
+label{
+  padding: 5px;
+}
+
+input{
+  padding: 5px;
+}
+
+.card{
+  margin: 15px;
+  padding: 0px;
+}
+
+.embolden{
+  font-weight:bold;
+}
+
+footer {
+  background-color: white;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.icon-space{
+  margin-right: 5px;
+}
+
+.sideburns{padding: 0px 15px 0px 5px;"}
+
