@@ -16,10 +16,10 @@ layout: orientation
 
 <h2>Library Services for Students</h2>
 <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
-  <button type="button" class="btn btn-primary">Ask a Librarian</button>
-  <button type="button" class="btn btn-primary">Research Guides</button>
-  <button type="button" class="btn btn-primary">Tutorials</button>
-  <button type="button" class="btn btn-primary">Interlibrary Loan</button>
-  <button type="button" class="btn btn-primary">Citations</button>
-  <button type="button" class="btn btn-primary">Connect with us!</button>
+    <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#ask" aria-expanded="false" aria-controls="ask">Ask a Librarian</button>
+    <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#research" aria-expanded="false" aria-controls="research">Research Guides</button>
+    <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#tutorials" aria-expanded="false" aria-controls="tutorials">Tutorials</button>
+   <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#ill" aria-expanded="false" aria-controls="ill">Interlibrary Loan</button>
+    <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#citations" aria-expanded="false" aria-controls="citations">Citations</button>
+    <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#connect" aria-expanded="false" aria-controls="connect">Connect with us!</button>
 </div>
