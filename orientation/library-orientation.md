@@ -16,8 +16,10 @@ layout: orientation
 
 <h2>Library Services for Students</h2>
 <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
-  <button type="button" class="btn btn-primary">Button</button>
-  <button type="button" class="btn btn-primary">Button</button>
-  <button type="button" class="btn btn-primary">Button</button>
-  <button type="button" class="btn btn-primary">Button</button>
+  <button type="button" class="btn btn-primary">Ask a Librarian</button>
+  <button type="button" class="btn btn-primary">Research Guides</button>
+  <button type="button" class="btn btn-primary">Tutorials</button>
+  <button type="button" class="btn btn-primary">Interlibrary Loan</button>
+  <button type="button" class="btn btn-primary">Citations</button>
+  <button type="button" class="btn btn-primary">Connect with us!</button>
 </div>
