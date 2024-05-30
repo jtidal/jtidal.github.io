@@ -8,6 +8,11 @@ header{
  width: 200px;
 }
 
+.FiveHunImg{
+ height: 500px;
+ width: 280px;
+}
+
 input{
  padding: 3px;
  margin: 3px;
