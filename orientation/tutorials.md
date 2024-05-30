@@ -4,7 +4,7 @@ title: Tutorials
 ---
 
 <div class="row">
-  <div class="card-group">
+  <div class="card-group text-center">
     <div class="card">
         <a href="research-question-2.html"><img class="img-thumbnail TwoHunImg" src="{{site.url}}assets/images/ResearchQuestion.png" alt="Developing a Research Question"></a>
     </div>
@@ -18,7 +18,7 @@ title: Tutorials
 </div>
 
 <div class="row">
-    <div class="card-group">
+    <div class="card-group text-center">
     <div class="card">
       <img class="img-thumbnail TwoHunImg" src="{{site.url}}assets/images/Find-a-book-e1591913297501.png" alt="How to Find a Book">
   </div>
@@ -32,7 +32,7 @@ title: Tutorials
 </div>
 
 <div class="row">
-  <div class="card-group">
+  <div class="card-group text-center">
     <div class="card">
       <img class="img-thumbnail TwoHunImg" src="{{site.url}}assets/images/FindingEbooks-e1591911668435.png" alt="Finding EBooks">
   </div>
