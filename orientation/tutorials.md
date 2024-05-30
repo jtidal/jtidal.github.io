@@ -6,13 +6,13 @@ title: Tutorials
 <div class="row">
   <div class="card-group">
     <div class="card">
-        <a href="research-question-2.html"><img src="" alt="Developing a Research Question"></a>
+        <a href="research-question-2.html"><img src="{{site.url}}assets/images/ResearchQuestion.png" alt="Developing a Research Question"><img src=""></a>
     </div>
     <div class="card">
-        <img src="" alt="Search Strategies">
+        <img src="{{site.url}}assets/images/SearchStrategies-e1591912638563.png" alt="Search Strategies">
     </div>
     <div class="card">
-        <img src="" alt="What's an Academic Source?">
+        <img src="{{site.url}}assets/images/Academic-e1591913078736.png" alt="What's an Academic Source?">
     </div>
   </div>
 </div>
@@ -20,13 +20,13 @@ title: Tutorials
 <div class="row">
     <div class="card-group">
     <div class="card">
-      <img src="" alt="How to Find a Book">
+      <img src="{{site.url}}assets/images/Find-a-book-e1591913297501.png" alt="How to Find a Book">
   </div>
     <div class="card">
-      <img src="" alt="Choosing a Database">
+      <img src="{{site.url}}assets/images/choosingDatabase-e1591912162753.png" alt="Choosing a Database">
   </div>
     <div class="card">
-      <img src="" alt="Evaluating Online Sources">
+      <img src="{{site.url}}assets/images/EvaluatingOnlineSources-e1591912420876.png" alt="Evaluating Online Sources">
     </div>
   </div>
 </div>
@@ -34,13 +34,13 @@ title: Tutorials
 <div class="row">
   <div class="card-group">
     <div class="card">
-      <img src="" alt="Finding EBooks">
+      <img src="{{site.url}}assets/images/FindingEbooks-e1591911668435.png" alt="Finding EBooks">
   </div>
     <div class="card">
-      <img src="" alt="Citing Sources">
+      <img src="{{site.url}}assets/images/citations.png" alt="Citing Sources">
   </div>
     <div class="card">
-      <img src="" alt="Annotated Bibliography">
+      <img src="{{site.url}}assets/images/Annotated-Bib.png" alt="Annotated Bibliography">
     </div>
   </div>
 </div>
