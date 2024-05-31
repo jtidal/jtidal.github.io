@@ -1,7 +1,14 @@
   {% include header.html %}
   <body>
   <div class="container">
-    {% include nav.html %}
+    <div class="row">
+      <div class="col-lg-9 col-md-9 col-sm-12">
+        {% include nav.html %}
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-12">
+        {% include search-lunr.html %}
+      </div>
+    </div>
   </div>
     <main>
       <div class="container fluid">
