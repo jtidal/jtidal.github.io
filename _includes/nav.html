@@ -5,6 +5,10 @@
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
+         <div class="pull-right">
+          <a class="btn pull-right" style="display:inline" href="https://www.citytech.cuny.edu"><img src="{{ site.url}}/assets/images/citytech_logo.png" style="width:168px; height:48px;" alt="Link to the New York City College of Technology Website">
+          </a>
+         </div>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">{% for item in site.data.navbar.toc %}
           <li class="nav-item dropdown sideburns" >
@@ -20,11 +24,8 @@
         </ul>
        
         </div>
-         <div class="pull-right">
-          <a class="btn pull-right" style="display:inline" href="https://www.citytech.cuny.edu"><img src="{{ site.url}}/assets/images/citytech_logo.png" style="width:168px; height:48px;" alt="Link to the New York City College of Technology Website">
-          </a>
+
     </div>
   </div>
-    {% include search-lunr.html %}
   </nav>
 </header>
