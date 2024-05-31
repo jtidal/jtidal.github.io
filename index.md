@@ -41,7 +41,6 @@ title: Welcome to City Tech Library
 				        <option label="eBooks">eBooks</option>
 				        <option label="Video, Audio and More">Media</option>
 		                <option label="Journals">Journal</option>
-				        <option label="Site Search">Site</option>
 				     </select> 
 					
 					<p><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY&mode=advanced" style="color:#045099; font-weight:bold;">Advanced Search</a></p>
