@@ -42,8 +42,6 @@ title: Welcome to City Tech Library
 				        <option label="Video, Audio and More">Media</option>
 		                <option label="Journals">Journal</option>
 				     </select> 
-					
-					<p><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY&mode=advanced" style="color:#045099; font-weight:bold;">Advanced Search</a></p>
 
 				    <input name="institution" type="hidden" value="NY"> 
 				    <input name="vid" type="hidden" value="ny"> 
@@ -64,6 +62,7 @@ title: Welcome to City Tech Library
 		    		<input class="btn-primary" id="submit" title="Search books, articles &amp; more" type="submit" value="Search" >
 		       		
     				</form><!--form-group-->
+						<p><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY&mode=advanced" style="color:#045099; font-weight:bold;">Advanced Search</a></p>
 			</div>
 		</div>
 	</div>
