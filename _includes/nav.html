@@ -1,12 +1,12 @@
 <header> 
   <nav class="navbar navbar-expand-md fixed-top" style="background:#044e95;">
-    <div class="container">
+    <div class="container-fluid">
     <a class="navbar-brand" href="{{site.url}}"><span><img src="{{ site.url }}assets/images/logo.png" alt="City Tech Library logo"></span></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">{% for item in site.data.navbar.toc %}
+        <ul class="navbar-nav mx-auto">{% for item in site.data.navbar.toc %}
           <li class="nav-item dropdown sideburns" >
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown{% assign nav = increment my_counter %}" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color:white; font-weight:bold;">{{ item.title }}</a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown{{nav}}">
@@ -16,7 +16,7 @@
             </ul>
             </li>
             {% endfor %}
-            <li class="nav-item"><a class="nav-link" style="color:white; font-weight:bold" href="https://cuny-ny.primo.exlibrisgroup.com/discovery/account?vid=01CUNY_NY:CUNY_NY">My Library Account</a></li>
+            <li class="nav-item sideburns"><a class="nav-link" style="color:white; font-weight:bold" href="https://cuny-ny.primo.exlibrisgroup.com/discovery/account?vid=01CUNY_NY:CUNY_NY">My Library Account</a></li>
         </ul>
                 <div class="pull-right">
           <a class="btn pull-right" style="display:inline" href="https://www.citytech.cuny.edu"><img src="{{ site.url}}/assets/images/citytech_logo.png" style="width:168px; height:48px;" alt="Link to the New York City College of Technology Website">
@@ -26,5 +26,4 @@
 
     </div>
   </div>
-  </nav>
-</header>
+  </nav></header>
