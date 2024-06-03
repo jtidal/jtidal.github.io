@@ -81,7 +81,7 @@ title: Welcome to City Tech Library
 				    	<a href="https://libguides.citytech.cuny.edu/"><img style="padding: 2px; margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-research-5090533%281%29.png" alt="Access research guides"><br>Research Guides</a>
 				    </div>
 				    <div class="col-md-3 col-center" style="padding:5px;">
-				    	<a href="research/articles/subjects/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-articles-2663651.png" alt="Access articles and databases"><br>Articles & Databases</a>
+				    	<a href="research/articles/subjects/index.html"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-articles-2663651.png" alt="Access articles and databases"><br>Articles & Databases</a>
 				    </div>
 				    <div class="col-md-3 col-center" style="padding:5px;">
 				    	<a href="https://libguides.citytech.cuny.edu/az.php?t=42693"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-ebook-4317312.png" alt="Access eBooks"><br>eBooks</a>
