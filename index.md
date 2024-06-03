@@ -99,7 +99,7 @@ title: Welcome to City Tech Library
 	    				<a href="https://libguides.citytech.cuny.edu/az.php?t=49467"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-streaming-3320374.png" alt="Access streaming video"><br>Streaming Video</a>
 	    			</div>
 	    			<div class="col-md-3 col-center" style="padding:5px;">
-	    				<a href="services/interlibraryLoan/index.php"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-book-delivery-85121.png" alt="Access interlibrary loan"><br>Interlibrary Loan</a>
+	    				<a href="services/interlibraryLoan/index.html"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-book-delivery-85121.png" alt="Access interlibrary loan"><br>Interlibrary Loan</a>
 	    			</div>
 					<div class="col-md-3 col-center" style="padding:5px;">
 						<a href="https://library.citytech.cuny.edu/orientation/"  target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-tutorial-2366925.png" alt="Access library tutorials"><br>Tutorials</a>
