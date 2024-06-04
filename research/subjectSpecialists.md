@@ -17,4 +17,3 @@ categories: research
 <td><a href="{{item.link}}">{{item.specialist}}</a></td></tr>
 {% endfor %}
 </table>
-</div>
