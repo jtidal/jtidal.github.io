@@ -5,7 +5,9 @@
 
 # Project Description
 This project is a repository for the Ursula C. Schwerin Library of the New York City College of Technology (City Tech), CUNY. 
-The site was coded using Jekyll and Liquid, and utilizes YAML files to create the site's navigation, content, and breadcrumbs. Bootstrap 5.3 is the web framework used due to it's mobile forward design. 
+Moving away from a Drupal installation, the site was coded using Jekyll and Liquid, and utilizes YAML files to create the site's navigation, content, and breadcrumbs. Bootstrap 5.3 is the web framework used due to it's mobile forward design. 
+
+It utilizes the [Lunr] (https://lunrjs.com/) search engine for client-side searching.
 
 It was coded by Abubakar R. Tidal, Jr. (Junior), Web Services & Multimedia Librarian, Professor, during the spring and summer terms of 2024. 
 
