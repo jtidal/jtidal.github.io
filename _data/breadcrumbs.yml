@@ -20,23 +20,23 @@ antioppression:
 
 faculty:
    title: Faculty Services
-   url: faculty/index.html
+   url: services/faculty/index.html
 
 mission:
    title: Mission
-   url: mission/index.html
+   url: about/mission/index.html
 
 policies:
    title: Policies
-   url: policies/index.html
+   url: about/policies/index.html
 
 access:
    title: Access
-   url: access/index.html
+   url: about/policies/access/index.html
 
 multimedia:
    title: Multimedia
-   url: multimedia/index.html
+   url: services/multimedia/index.html
 
 help:
   title: Help
@@ -44,11 +44,11 @@ help:
 
 ask:
    title: Ask
-   url: ask/index.html
+   url: help/ask/index.html
 
 classes:
    title: Classes
-   url: classes/index.html
+   url: help/classes/index.html
 
 research:
    title: Find
@@ -56,16 +56,12 @@ research:
 
 articles:
    title: Articles
-   url: articles/index.html
+   url: research/articles/subjects/index.html
 
 subjects:
    title: Subjects
-   url: subjects/index.html
+   url: research/articles/subjects/index.html
 
 otherLibraries:
    title: Other Libraries
-   url: otherLibraries/index.html
-
-news:
-  title: News
-  url: news/
+   url: research/otherLibraries/index.html
