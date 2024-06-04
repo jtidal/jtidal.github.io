@@ -6,7 +6,7 @@ categories:
  - policies
  - multimedia
 ---
-###Eligibility
+### Eligibility
 
 Podcasting kits can be loaned to currently enrolled City Tech students or faculty who maintain a valid library account in good standing. Items loaned must be returned, including:
 
@@ -18,18 +18,18 @@ Podcasting kits can be loaned to currently enrolled City Tech students or facult
 
 Only one podcasting kit can be checked out per person.
 
-###Loan period
+### Loan period
 - Podcasting kits are loaned for 14 days with 1 renewal.
 - The podcasting kit will be loaned on a first-come, first served basis. You may not reserve a podcasting kit.
 
-###Returns
+### Returns
 Podcasting kits must be returned in good working order to the library’s Multimedia Resource Center **30 minutes before closing**.
 
 Upon returning, allow a minimum of 30 minutes for inspection.
 
 The working condition of the podcasting kit will be inspected by a library staff member before checkout. Upon its return, a staff member will verify that the podcasting kit is in working order before the borrower leaves the desk. ***It is the borrower’s responsibility to allot 30 minutes for this***.
 
-###Fines and Damages
+### Fines and Damages
 Borrowers are required to immediately report any problems to the library’s Multimedia Resource Center experienced with the podcasting kit during their borrowing period.
 - **Late fines will be charged at the rate of $100 per day to a maximum of $400**.
 - **If a podcasting kit is more than 4 days overdue, it is considered lost**.
@@ -43,7 +43,7 @@ Borrowers are required to immediately report any problems to the library’s Mul
 - In case of an emergency evacuation, take the podcasting kit with you.
 - Noncompliance with the above rules will result in a registration block and suspension of library privileges.
 
-###Personal Data and Information
+### Personal Data and Information
 The podcasting kit comes with a suite of preloaded applications. Borrowers may add additional data and applications, however all data from the podcasting kit will be wiped and replaced with the standard set of preloaded apps once it is returned to the library.
 
 Any additional apps or programs purchased by the borrower during the loan period must be done with the borrower’s own funds. Any data or documents saved to the podcasting kit by the patron during the loan period will be permanently erased during the restore process.
