@@ -4,6 +4,7 @@ layout: page
 categories:
  - about
  - policies
+ - multimedia
 ---
 ###Eligibility
 
