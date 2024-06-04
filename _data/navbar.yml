@@ -5,7 +5,7 @@ toc:
         url: https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY
         title: "Find materials within City Tech and CUNY's collection."
       - page: Articles
-        url: {{site.url}}research/articles/subjects/index.html
+        url: '{{site.url}}research/articles/subjects/index.html'
         title: 'Find articles, journals, and other materials.'
       - page: Journals
         url: https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?vid=01CUNY_NY:CUNY_NY
