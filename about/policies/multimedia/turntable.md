@@ -6,7 +6,7 @@ categories:
  - policies
  - multimedia
 ---
-###Eligibility
+### Eligibility
 
 Victrola Revolution Go Portable Turntables can be loaned to currently enrolled City Tech students and faculty who maintain a valid library account in good standing. 
 Items loaned must be returned, including:
@@ -21,19 +21,19 @@ Only one turntable can be checked out per person.
 
 Loaned turntables may not be used inside the library. 
 
-###Loan period
+### Loan period
 - Turntables are loaned for 7 days.
 - Each loan is allowed 1 renewal
 - Turntables will be loaned on a first-come, first served basis. You may not reserve a turntable.
 
-###Returns
+### Returns
 
 Turntables must be returned in good working order to the library’s Multimedia Resource Center **30 minutes before closing**.
 Upon returning, allow a minimum of 15 minutes for inspection.
 The working condition of the turntable will be inspected by a library staff member before checkout. Upon its return, a staff member will verify that the turntable is in working order before the borrower leaves the desk. 
 **It is the borrower’s responsibility to allot 15 minutes for this**.
 
-###Fines and Damages
+### Fines and Damages
 
 Borrowers are required to immediately report any problems to the library’s Multimedia Resource Center experienced with the turntable during their borrowing period.
 
