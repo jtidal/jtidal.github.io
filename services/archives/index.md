@@ -5,7 +5,7 @@ categories:
  - services
 ---
 <p>The Archives contain historical materials from City Tech's precursors: the New York Trade School, Voorhees Technical Institute, and the New York City Community College.</p>
-<p>Materials include: 
+<p>Materials include: </p>
 <ul>
   <li>student records, </li>
   <li>administrative memos, </li>
@@ -16,7 +16,7 @@ categories:
   <li>ephemera, </li>
   <li>and realia.</li>
 </ul>
-</p>
+
 <p>The Vogel Ophthalmology Collection is also housed in the archives.</p>
 
   <p>As of Spring 2016 the <a href="https://openlab.citytech.cuny.edu/sciencefictionatcitytech/librarycollection/" rel="noopener noreferrer" target="_blank" data-mce-href="https://openlab.citytech.cuny.edu/sciencefictionatcitytech/librarycollection/" data-mce-style="text-decoration: underline;">City Tech Science Fiction Collection</a> has also joined the Archives. For access and research <a href="#scifiPolicy" data-mce-href="#scifiPolicy" data-mce-style="text-decoration: underline;">see policies specific to this collection</a>.</p>
