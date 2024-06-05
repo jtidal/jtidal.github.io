@@ -5,7 +5,7 @@ categories: help
 ---
 <div class="alert alert-danger alert-dismissible show" role="alert">
   <strong>Research appointments are only available online.</strong>
-  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+  <button type="button" class="close" data-bs-dismiss="alert" aria-label="Close">
     <span aria-hidden="true">&times;</span>
   </button>
 </div>
