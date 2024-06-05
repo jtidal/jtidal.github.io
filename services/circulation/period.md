@@ -13,58 +13,57 @@ categories:
       <th scope="col"  class="text-center" style="vertical-align:top">CUNY Undergrad & Staff</th>
       <th scope="col"  class="text-center" style="vertical-align:top">CUNY Faculty</th>
       <th scope="col"  class="text-center" style="vertical-align:top">CUNY Masters and PhD students</th>
-
     </tr>
   </thead>
   <tbody>
     <tr>
-<th scope="row" class="text-left">Books, paperbacks, and graphic novels</th>
-<td class="text-center">16 wks.</td>
-<td class="text-center">16 wks.</td>
-<td class="text-center">16 wks.</td>
-</tr>
+      <th scope="row" class="text-left">Books, paperbacks, and graphic novels</th>
+      <td class="text-center">16 wks.</td>
+      <td class="text-center">16 wks.</td>
+      <td class="text-center">16 wks.</td>
+    </tr>
     <tr>
-<th scope="row" class="text-left">Reserve materials*</th>
-<td class="text-center">2 hrs.</td>
-<td class="text-center">2 hrs.</td>
-<td class="text-center">2 hrs.</td>
-</tr>
+      <th scope="row" class="text-left">Reserve materials*</th>
+      <td class="text-center">2 hrs.</td>
+      <td class="text-center">2 hrs.</td>
+      <td class="text-center">2 hrs.</td>
+    </tr>
     <tr>
-<th scope="row" class="text-left">Reserve 3wks</th>
-<td class="text-center">3 wks.</td>
-<td class="text-center">3 wks.</td>
-<td class="text-center">3 wks.</td>
-</tr>
+      <th scope="row" class="text-left">Reserve 3wks</th>
+      <td class="text-center">3 wks.</td>
+      <td class="text-center">3 wks.</td>
+      <td class="text-center">3 wks.</td>
+    </tr>
     <tr>
-<th scope="row" class="text-left"><a href="https://library.citytech.cuny.edu/services/circulation/calculators.html">Calculators</a>**</th>
-<td class="text-center">1 or 2 days</td>
-<td class="text-center"> - </td>
-<td class="text-center"> - </td>
-</tr>
-<tr>
-<th scope="row" class="text-left">Music CDs</th>
-<td class="text-center">1 wk</td>
-<td class="text-center">1 wk</td>
-<td class="text-center">1 wk</td>
-</tr>
-<tr>
-<th scope="row" class="text-left">Videos</th>
-<td class="text-center">1 wk</td>
-<td class="text-center">1 wk</td>
-<td class="text-center"> - </td>
-</tr>
-<tr>
-<th scope="row" class="text-left"><a href="https://library.citytech.cuny.edu/about/policies/laptop.html">Laptops</a>, tablets**</th>
-<td class="text-center">1 wk</td>
-<td class="text-center"> - </td>
-<td class="text-center"> - </td>
-</tr>
-<tr>
-<th scope="row" class="text-left">Headphones, doc. scanners**</th>
-<td class="text-center">3 hrs.</td>
-<td class="text-center"> - </td>
-<td class="text-center"> - </td>
-</tr>
+      <th scope="row" class="text-left"><a href="https://library.citytech.cuny.edu/services/circulation/calculators.html">Calculators</a>**</th>
+      <td class="text-center">1 or 2 days</td>
+      <td class="text-center"> - </td>
+      <td class="text-center"> - </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-left">Music CDs</th>
+      <td class="text-center">1 wk</td>
+      <td class="text-center">1 wk</td>
+      <td class="text-center">1 wk</td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-left">Videos</th>
+      <td class="text-center">1 wk</td>
+      <td class="text-center">1 wk</td>
+      <td class="text-center"> - </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-left"><a href="https://library.citytech.cuny.edu/about/policies/laptop.html">Laptops</a>, tablets**</th>
+      <td class="text-center">1 wk</td>
+      <td class="text-center"> - </td>
+      <td class="text-center"> - </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-left">Headphones, doc. scanners**</th>
+      <td class="text-center">3 hrs.</td>
+      <td class="text-center"> - </td>
+      <td class="text-center"> - </td>
+    </tr>
 </table>
 
 <table class="table table-responsive-lg table-striped table-hover">
