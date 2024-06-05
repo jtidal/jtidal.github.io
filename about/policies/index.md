@@ -7,7 +7,7 @@ categories: about
   <div class="col-md-6">
     <h3 class="mb-4"><a href="{{site.url}}about/policies/access/index.html">Access Policies</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}services/archives/index.html">Archive Policies</a></h3>
-    <h3 class="mb-4"><a href="{{site.url}}services/circulation/calculators.html" >Calculator Policy</a>
+    <h3 class="mb-4"><a href="{{site.url}}services/circulation/calculators.html">Calculator Policy</a>
     <h3 class="mb-4"><a href="{{site.url}}services/circulation/index.html">Borrowing Policies</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/classvisits/index.html">Class Visits to the Library</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/collectionDev.html">Collection Development Policy</a></h3>
@@ -15,7 +15,7 @@ categories: about
     <h3 class="mb-4"><a href="https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/cis/it-policies/ComputerUsePolicy1.pdf">CUNY Policy on Acceptable Use of Computer Resources</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/eClassroom.html">eClassroom Guidelines</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/eresources.html">Electronic Resources Policy</a></h3>
-    <h3 class="mb-4"><a href="{{site.url}}about/policies/exhibit.html" style="text-decoration: underline">Exhibit Policies</a></h3>
+    <h3 class="mb-4"><a href="{{site.url}}about/policies/exhibit.html">Exhibit Policies</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}services/circulation/fines.html">Fines Policy</a></h3>
   </div>
   <div class="col-md-6">
