@@ -7,7 +7,7 @@ categories: about
   <div class="col-sm-12 col-md-6 col-lg-6">
     <h3 class="mb-4"><a href="{{site.url}}about/policies/access/index.html">Access Policies</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}services/archives/index.html">Archive Policies</a></h3>
-    <h3 class="mb-4"><a href="{{site.url}}services/circulation/calculators.html">Calculator Policy</a>
+    <h3 class="mb-4"><a href="{{site.url}}services/circulation/calculators.html">Calculator Policy</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}services/circulation/index.html">Borrowing Policies</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/classvisits/index.html">Class Visits to the Library</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/collectionDev.html">Collection Development Policy</a></h3>
