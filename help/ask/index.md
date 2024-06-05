@@ -87,4 +87,3 @@ categories: help
     <div class="col-md-4"></div>
 
   </div><!--row-->
-</div><!-- container -->
