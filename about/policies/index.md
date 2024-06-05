@@ -4,7 +4,7 @@ title: Policies
 categories: about
 ---
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-sm-12 col-md-6 col-lg-6">
     <h3 class="mb-4"><a href="{{site.url}}about/policies/access/index.html">Access Policies</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}services/archives/index.html">Archive Policies</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}services/circulation/calculators.html">Calculator Policy</a>
@@ -18,11 +18,11 @@ categories: about
     <h3 class="mb-4"><a href="{{site.url}}about/policies/exhibit.html">Exhibit Policies</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}services/circulation/fines.html">Fines Policy</a></h3>
   </div>
-  <div class="col-md-6">
+  <div class="col-sm-12 col-md-6 col-lg-6">
     <h3 class="mb-4"><a href="{{site.url}}about/policies/gifts.html">Gifts Policy</a></h3>
-    <h3 class="mb-4"><a href="{{site.url}}services/circulation/holds.html" >Holds Policy</a></h3>
+    <h3 class="mb-4"><a href="{{site.url}}services/circulation/holds.html">Holds Policy</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/ill.html">Interlibrary Loan Policy</a></h3>
-    <h3 class="mb-4"><a href="{{site.url}}about/policies/laptop.html" >Laptop Loans Policy</a></h3>
+    <h3 class="mb-4"><a href="{{site.url}}about/policies/laptop.html">Laptop Loans Policy</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/onlineLibraryInstruction.html">Library Instruction and Research Consultations</a></h3> 
     <h3 class="mb-4"><a href="{{site.url}}about/policies/access/metrocard.html">Metro Card Policy</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/multimedia/index.html">Multimedia Resource Center Policies</a></h3>
@@ -37,5 +37,5 @@ categories: about
 
 <h4 style="font-weight:bold;">Related</h4>
 <ul>
-  <li><a href="https://www.citytech.cuny.edu/about-us/policies.aspx" target="_blank" >City Tech Policies</a></li>
+  <li><a href="https://www.citytech.cuny.edu/about-us/policies.aspx" target="_blank">City Tech Policies</a></li>
 </ul>
