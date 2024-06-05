@@ -27,7 +27,7 @@ categories: help
   </ul>
   <p style="font-size: small;">*text adapted from Bronx Community College Library</p>
 
-  <h3>Don't feel like chatting?</strong></h3>
+  <h3 class="embolden">Don't feel like chatting?</h3>
   <div class="row">
     <div class="col-md-4" style="margin-bottom:10px;">
       <div class="card card-default">
