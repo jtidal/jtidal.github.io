@@ -54,23 +54,21 @@ categories: services
 </div>
 
 <div class="row">
-<div class="col-md-12">
-<div class="card">
-<div class="card-header">
-<h2>Returning</h2></div>
-<div class="card-body">
-<ul>
-<li><a href="{{site.url}}services/circulation/returning.html">Returning library items</a></li>
-<li><a href="{{site.url}}services/circulation/fines.html">Fines</a></li>
-<li><a href="{{site.url}}services/circulation/blocks.html">Library blocks</a></li>
-</ul>
-</div>
-</div>
-</div>
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-header"><h2>Returning</h2></div>
+      <div class="card-body">
+        <ul>
+          <li><a href="{{site.url}}services/circulation/returning.html">Returning library items</a></li>
+          <li><a href="{{site.url}}services/circulation/fines.html">Fines</a></li>
+          <li><a href="{{site.url}}services/circulation/blocks.html">Library blocks</a></li>
+        </ul>
+        </div>
+      </div>
+    </div>
 </div>
 
 <p style="font-weight:bold;">Questions about your loan?</p> 
 <p>Email <a href="mailto:NYCCTCirculation@citytech.cuny.edu">NYCCTCirculation@citytech.cuny.edu</a>.</p>
 <h4>See also</h4>
-<ul><li><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01CUNY_NY:CUNY_NY">Featured Collections</a></li><//ul>
-</div>
+<ul><li><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01CUNY_NY:CUNY_NY">Featured Collections</a></li></ul>
