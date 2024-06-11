@@ -19,4 +19,4 @@ categories:
 <li>Please <a style="text-decoration: underline;" href="mailto:NYCCTCirculation@citytech.cuny.edu">email</a> a picture of the tracking number/receipt.</li>
 <li>Return library materials to this address:</li>
 </ul>
-<blockquote>New York City College of Technology<br> Library Building, 4th Fl.<br> Borrow &amp; Return Desk<br> 300 Jay St.<br> Brooklyn, NY 11201</blockquote>
+<p>New York City College of Technology<br> Library Building, 4th Fl.<br> Borrow &amp; Return Desk<br> 300 Jay St.<br> Brooklyn, NY 11201</p>
