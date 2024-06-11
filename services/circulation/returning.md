@@ -5,7 +5,7 @@ categories:
   - services
   - circulation
 ---
-<h2>Book Return Drop Box</strong></h2>
+<h2>Book Return Drop Box</h2>
 <ul>
 <li>Library book return box is located at 300 Jay Street entrance, ground floor just pass the turnstiles to the left. Users must show CUNY ID or ask Public Safety to access the book return box.</li>
 <li>Only CUNY library items should be placed in the book return drop box.</li>
