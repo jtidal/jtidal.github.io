@@ -76,22 +76,6 @@ librarians:
       link: https://library.citytech.cuny.edu/subject-specializations/health-sciences
     - sub: Psychology
       link: https://library.citytech.cuny.edu/subject-specializations/psychology
-
-  - name: Morris Hounion
-    fname: Morris
-    lname: Hounion
-    email: mhounion@citytech.cuny.edu
-    phone: 718.260.5491
-    room: L539A
-    rank: Assistant Professor 
-    area: 'Instruction  and Reference, Exhibits, Gifts (of materials to library)'
-    specialist:   
-    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=45409'
-    subjects:
-    - sub: Communications
-      link: https://library.citytech.cuny.edu/subject-specializations/communications
-    - sub: Vision Care Technology
-      link: https://library.citytech.cuny.edu/subject-specializations/vision-care-technology
         
   - name: Jen Hoyer
     fname: Jen
