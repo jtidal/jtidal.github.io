@@ -1,5 +1,6 @@
 ---
-# Chief Librarian should be at the top. Code does not sort librarians alphabetically, so the list should be alphabetized by last name.
+# Chief Librarian should be at the top. 
+# Code does not sort librarians alphabetically, so the list should be alphabetized by last name.
 # Librarians
 librarians:
   - name: Abubakar Tidal, Jr.
