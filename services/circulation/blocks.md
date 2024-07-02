@@ -13,4 +13,3 @@ categories:
 <li>outstanding fines ($25 and above),</li>
 <li>or lost book charges.</li>
 </ul>
-</ul>
