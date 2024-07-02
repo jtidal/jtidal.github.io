@@ -63,4 +63,3 @@ categories:
    <li>Turn right on Atlantic; continue for five blocks to Smith Street. Make a left onto Smith; continue across Fulton where Smith becomes Jay.</li>
   </ul>
  </div>
-</div>
