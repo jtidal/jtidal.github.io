@@ -104,7 +104,7 @@ The City Tech library offers yellow title METRO referral cards. The cards allow 
     <div class="card-heading">
       <h3 class="card-header">
         <strong>Manhattan Research Library Initiative</strong>
-      </h4>
+      </h3>
     </div>
       <div class="card-body"><a href="https://www.nypl.org/help/finding-things/MaRLI" target="_blank" >MaRLI</a>&nbsp; is a partnership between New York Public Library, Columbia University, and New York University. Any NYPL cardholder who has exhausted local research resources is eligible to borrow select research materials from Columbia and NYU Libraries. <a href="https://www.nypl.org/help/library-card" target="_blank" >NYPL cardholders</a> may <a href="https://www.nypl.org/MaRLI-application" target="_blank" >register for MaRLI&nbsp;</a>.
 For complete details about the program, including a list of participating libraries and all eligibility requirements, please view the&nbsp;<a href="https://marli.libguides.com/content.php?pid=194135&amp;sid=1627106" target="_blank" >LibGuide</a>&nbsp;on the NYU library website.
