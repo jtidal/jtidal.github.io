@@ -5,7 +5,7 @@ toc:
         url: https://cuny-ny.primo.exlibrisgroup.com/discovery/search?vid=01CUNY_NY:CUNY_NY
         title: "Find materials within City Tech and CUNY's collection."
       - page: Articles
-        url: https://jtidal.github.io/research/articles/subjects/index.html
+        url: https://library.citytech.cuny.edu/research/articles/subjects/index.html
         title: 'Find articles, journals, and other materials.'
       - page: Journals
         url: https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?vid=01CUNY_NY:CUNY_NY
@@ -23,41 +23,41 @@ toc:
         url: https://libguides.citytech.cuny.edu/?b=s
         title: 'Start your research with librarian curated research guides.'
       - page: Other Libraries
-        url: https://jtidal.github.io/research/otherLibraries/index.html
+        url: https://library.citytech.cuny.edu/research/otherLibraries/index.html
         title: "Use CUNY, public, and other institutions' libraries for your research."
       - page: Library Subject Specialists
-        url: https://jtidal.github.io/research/subjectSpecialists.html
+        url: https://library.citytech.cuny.edu/research/subjectSpecialists.html
         title: 'This is a list of faculty library subject specialists.'
   - title: Services
     subfolderitems:
       - page: Borrow, Renew, Request
-        url: https://jtidal.github.io/services/circulation/index.html
+        url: https://library.citytech.cuny.edu/services/circulation/index.html
         title: Information on borrowing from the library.
       - page: Interlibrary Loan
-        url: https://jtidal.github.io/services/interlibraryLoan/index.html
+        url: https://library.citytech.cuny.edu/services/interlibraryLoan/index.html
         title: Borrow from other institutions
       - page: Student Services
-        url: https://jtidal.github.io/services/student/index.html
+        url: https://library.citytech.cuny.edu/services/student/index.html
         title: Resources for students 
       - page: Faculty Services
-        url: https://jtidal.github.io/services/faculty/index.html
+        url: https://library.citytech.cuny.edu/services/faculty/index.html
         title: Information about course reserves, class visits, and faculty resources.
       - page: Multimedia Resources Center
-        url: https://jtidal.github.io/services/multimedia/index.html
+        url: https://library.citytech.cuny.edu/services/multimedia/index.html
         title: Borrow technology, media, and more
       - page: Archives
-        url: https://jtidal.github.io/services/archives/index.html
+        url: https://library.citytech.cuny.edu/services/archives/index.html
         title: Information on the college archives, the Sci-Fi Collection, and more
       - page: Open Educational Resources
-        url: https://jtidal.github.io/services/oer/index.html
+        url: https://library.citytech.cuny.edu/services/oer/index.html
         title: Information about OERs and the OER Fellowship
       - page: Library Classes
-        url: https://jtidal.github.io/help/classes/index.html
+        url: https://library.citytech.cuny.edu/help/classes/index.html
         title: Learn about credit-bearing courses offered through the Library Department
   - title: Research Help
     subfolderitems:
       - page: Ask A Librarian
-        url: https://jtidal.github.io/help/ask/index.html
+        url: https://library.citytech.cuny.edu/help/ask/index.html
         title: Need help? Ask a Librarian!
       - page: Citations & Writing
         url: https://libguides.citytech.cuny.edu/citations
@@ -77,28 +77,28 @@ toc:
         url: https://libcal.citytech.cuny.edu/
         title: When does the library open and close?
       - page: Directions
-        url: https://jtidal.github.io/about/directions.html
+        url: https://library.citytech.cuny.edu/about/directions.html
         title: Where is the library?
       - page: Library Faculty & Staff
-        url: https://jtidal.github.io/about/faculty/directory.html
+        url: https://library.citytech.cuny.edu/about/faculty/directory.html
         title: Find library faculty and staff
       - page: LIB Courses
-        url: https://jtidal.github.io/help/lib1201.html
+        url: https://library.citytech.cuny.edu/help/lib1201.html
         title: Learn about the LIB 1201 course
       - page: Mission & History
-        url: https://jtidal.github.io/about/mission/index.html
+        url: https://library.citytech.cuny.edu/about/mission/index.html
         title: Learn about the Ursula C. Schwerin Library
       - page: Strategic Plan
-        url: https://jtidal.github.io/strategicPlan.html
+        url: https://library.citytech.cuny.edu/strategicPlan.html
         title: Learn about the future direction of the library
       - page: Diversity Commitments
-        url: https://jtidal.github.io/about/antioppression/index.html
+        url: https://library.citytech.cuny.edu/about/antioppression/index.html
         title: More information on Library Department statements 
       - page: Policies
-        url: https://jtidal.github.io/about/policies/index.html
+        url: https://library.citytech.cuny.edu/about/policies/index.html
         title: Read more about library standards
       - page: Employment
-        url: https://jtidal.github.io/about/openPositions.html
+        url: https://library.citytech.cuny.edu/about/openPositions.html
         title: Open faculty and student positions in the library
   - title: News
     subfolderitems:
