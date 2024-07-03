@@ -60,7 +60,7 @@ categories: research
             <ul>
               <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176732" title="African American Studies">African American Studies</a></li>
               <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176722" title="Art, Art History, & Communication Design">Art, Art History, & Communication Design</a></li>
-              <li><a href="https://libguides.citytech.cuny.edu/az.php?s=99193 title="Business & Technology of Fashion">Business & Technology of Fashion</a></li>
+              <li><a href="https://libguides.citytech.cuny.edu/az.php?s=99193" title="Business & Technology of Fashion">Business & Technology of Fashion</a></li>
               <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176745" title="Education">Education</a></li>
               <li><a href="https://libguides.citytech.cuny.edu/az.php?s=110936" title="English">English</a></li>
               <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176729" title="Hospitality Management">Hospitality Management</a></li>
@@ -70,13 +70,10 @@ categories: research
             <ul>
               <li>
               <a href="https://libguides.citytech.cuny.edu/az.php?s=176718" title="Humanities (Communications, Literature, Music, & more)">Humanities (Communications, Literature, Music, & more)</a></li>
-              <!--
-              <a href="https://libguides.citytech.cuny.edu/az.php?s=176718" title=">Humanities (Communications, Literature, Music, & more)">Humanities (Communications, Literature, Music, & more)</a></li>
-              -->
               <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176735" title="Human Services">Human Services</a></li>
               <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176728" title="Law/Paralegal Studies">Law/Paralegal Studies</a></li>
-              <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176744 title="Psychology">Psychology</a></li>
-              <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176725 title="Social Sciences (History, Sociology, & more)">Social Sciences (History, Sociology, & more)</a></li>
+              <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176744" title="Psychology">Psychology</a></li>
+              <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176725" title="Social Sciences (History, Sociology, & more)">Social Sciences (History, Sociology, & more)</a></li>
             </ul>
           </div>
         </div>
@@ -106,7 +103,7 @@ categories: research
               <li><a href="https://libguides.citytech.cuny.edu/az.php?s=56906" title="Nursing">Nursing</a></li>
               <li><a href="https://libguides.citytech.cuny.edu/az.php?s=56908" title="Physics">Physics</a></li>
               <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176748" title="Radiologic Technology &amp; Medical Imaging<">Radiologic Technology &amp; Medical Imaging</a></li>
-              <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176739 title="Restorative Dentistry">Restorative Dentistry</a></li>
+              <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176739" title="Restorative Dentistry">Restorative Dentistry</a></li>
               <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176740" title="Science & Technology<">Science & Technology</a></li>
               <li><a href="https://libguides.citytech.cuny.edu/az.php?s=176742" title="Vision Care Technology">Vision Care Technology</a></li>
             </ul>
