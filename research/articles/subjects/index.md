@@ -7,7 +7,7 @@ categories: research
   <div class="col-sm-12 col-md-9 col-lg-9">
 
     <div class="card">
-      <div class="card-header"><h2>Browse by Database Name</h2></a></div>
+      <div class="card-header"><h2>Browse by Database Name</h2></div>
       <div class="card-body">
         <div class="btn-toolbar text-center">
           <div class="btn-group btn-group-lg flex-wrap">
