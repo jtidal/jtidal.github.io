@@ -58,7 +58,7 @@ categories:
  
  <h4>Staten Island:</h4> 
   <ul>
-   <li>Cross the Verrazano Bridge to the Brooklyn-Queens Expressway. 
+   <li>Cross the Verrazano Bridge to the Brooklyn-Queens Expressway. </li>
    <li>Take the Belt Parkway to the Brooklyn-Queens Expressway and get off at the Atlantic Avenue exit. </li>
    <li>Turn right on Atlantic; continue for five blocks to Smith Street. Make a left onto Smith; continue across Fulton where Smith becomes Jay.</li>
   </ul>
