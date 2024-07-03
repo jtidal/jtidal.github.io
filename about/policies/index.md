@@ -27,11 +27,11 @@ categories: about
     <h3 class="mb-4"><a href="{{site.url}}about/policies/access/metrocard.html">Metro Card Policy</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/multimedia/index.html">Multimedia Resource Center Policies</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/openaccess.html">Open Access Pledge</a></h3>
+    <h3 class="mb-4"><a href="{{site.url}}about/policies/multimedia/podcastkingKit.html">Podcasting Kit Policy</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}services/circulation/renewals.html">Renewal Policy</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}services/circulation/reserves.html">Reserves</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/studyrooms.html">Study Room Policy</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/multimedia/turntable.html">Turntable Policy</a></h3>
-    <h3 class="mb-4"><a href="{{site.url}}about/policies/multimedia/podcastkingKit.html">Podcasting Kit Policy</a></h3>
   </div>
 </div>
 
