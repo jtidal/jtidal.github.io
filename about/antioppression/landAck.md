@@ -6,7 +6,7 @@ categories:
  - antioppression
 ---
 <div class="card">
- <div class="body">
+ <div class="card-body">
 <p>New York City (Lenapehoking) is built on unceded land of the Lenape people–past, present, and future. New York City College of Technology is among the thousands of institutions and businesses in this city that were founded upon exclusions and erasures of indigenous people, including the Lenape who were displaced from this land. This acknowledgement demonstrates a commitment to beginning the process of working to dismantle the legacies of settler colonialism.* </p>
 
 <p>The City Tech Library is engaged in the following practices as part of this commitment:</p>
