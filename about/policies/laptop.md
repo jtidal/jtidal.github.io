@@ -4,6 +4,7 @@ title: Laptop Loan Policy
 categories:
  - about
  - policies
+ - multimedia
 ---
 <h2>Eligibility</h2>
 <p>Laptops can be loaned to currently enrolled City Tech students who maintain a valid library account in good standing.
