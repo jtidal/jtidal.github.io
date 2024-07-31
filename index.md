@@ -41,7 +41,7 @@ title: Welcome to City Tech Library
 				        <option label="Print Books">Books (Print)</option>
 				        <option label="eBooks">eBooks</option>
 				        <option label="Video, Audio and More">Media</option>
-		                <option label="Journals">Journal</option>
+		                <option label="Journals">Journals</option>
 				     </select> 
 
 				    <input name="institution" type="hidden" value="NY"> 
