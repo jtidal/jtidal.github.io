@@ -42,6 +42,11 @@ switch ($searchSelect){
                 header('Location:'.$redirect);
                 break;
 
+        case "Journals":
+
+        		$redirect = https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?query=any,contains,'.$theQuery.'&tab=jsearch_slot&vid=01CUNY_NY:CUNY_NY&offset=0&journals=any,'.$theQuery;
+        		header('Location:'.$redirect);
+        		break;
 }
 ?>
 
