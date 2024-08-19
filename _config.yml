@@ -1,5 +1,5 @@
 
-url: https://library.citytech.cuny.edu
+url: https://library.citytech.cuny.edu/
 
 plugins:
   - jekyll-autoprefixer
