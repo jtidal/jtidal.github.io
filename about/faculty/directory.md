@@ -115,7 +115,7 @@ categories:
 
         <h2>Library Subject Specialists</h2>
     
-  <p>Looking for a library faculty member specific to your department, subject, or discipline? <a href="https://library.citytech.cuny.edu/research/subjectSpecialists.php">Consult the library faculty subject specialist directory</a>.</p>
+  <p>Looking for a library faculty member specific to your department, subject, or discipline? <a href="https://library.citytech.cuny.edu/research/subjectSpecialists.html">Consult the library faculty subject specialist directory</a>.</p>
 
   </div>
 </div>
