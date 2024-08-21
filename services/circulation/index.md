@@ -12,7 +12,7 @@ categories: services
 <li><a href="{{site.url}}services/circulation/borrow.html">Who can borrow?</a></li>
 <li><a href="{{site.url}}services/circulation/period.html">Loan periods</a></li>
 <li><a href="https://citytech-cuny.libanswers.com/how/faq/378870">Borrowing a book from other CUNY Libraries</a></li>
-<li><a href="https://libanswers.citytech.cuny.edu/how/faq/413063?m=p">Borrowing a book from SUNY Libraries</a><li>
+<li><a href="https://libanswers.citytech.cuny.edu/how/faq/413063?m=p">Borrowing a book from SUNY Libraries</a></li>
 <li><a href="{{site.url}}services/circulation/reserves.html">Course reserves</a></li>
 <li><a href="{{site.url}}services/multimedia/index.html">Laptops, tablets, and other technology</a></li>
 <li><a href="{{site.url}}services/circulation/calculators.html">Calculators</a></li>
