@@ -121,21 +121,6 @@ librarians:
     - sub: 'Radiologic Technology & Medical Imaging'
       link: https://library.citytech.cuny.edu/subject-specializations/radiologic-technology-medical-imaging
         
-  - name: Nanette Johnson
-    fname: Nanette
-    lname: Johnson
-    email: njohnson@citytech.cuny.edu
-    phone: 718.260.5471
-    room: L438A
-    rank: Assistant Professor 
-    area: 'Access Services (Circulation, Reserves)'
-    url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=193221'
-    subjects:
-    - sub: Mathematics
-      link: https://library.citytech.cuny.edu/subject-specializations/mathematics
-    - sub: Modern Languages
-      link: https://library.citytech.cuny.edu/subject-specializations/modern-languages
-        
   - name: Rachel Jones
     fname: Rachel
     lname: Jones
