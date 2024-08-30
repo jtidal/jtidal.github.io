@@ -33,6 +33,9 @@ toc:
       - page: Borrow, Renew, Request
         url: https://library.citytech.cuny.edu/services/circulation/index.html
         title: Information on borrowing from the library.
+      - page: Technology
+        url: https://library.citytech.cuny.edu/services/technology/index.html
+        title: Technology Loans
       - page: Interlibrary Loan
         url: https://library.citytech.cuny.edu/services/interlibraryLoan/index.html
         title: Borrow from other institutions
