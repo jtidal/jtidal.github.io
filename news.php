@@ -34,7 +34,7 @@ echo '<div class="panel-body"><table class="table"><tbody>';
 
                 $description = rtrim(mb_strimwidth($description, 0, 250, "..."));
 
-		echo '<tr><td><p><span style="font-weight:bold;">'.$date.'</span><br><a href="'.$link.'" title="'.$title.'" style="font-weight:bold;">'.$title.'</a></p><p>'.$description.'</p><p><a class="btn btn-primary" href="'.$link.'" role="button">Read more</a></p></td></tr>';
+		echo '<tr><td><p><span style="font-weight:bold;">'.$date.'</span><br><a href="'.$link.'" title="'.$title.'" style="font-weight:bold;" target="_blank">'.$title.'</a></p><p>'.$description.'</p><p><a class="btn btn-primary" href="'.$link.'" role="button">Read more</a></p></td></tr>';
 	}
        echo '<tr><td align="right"><a href="http://openlab.citytech.cuny.edu/library"><p>More News...</p></a></tr></td>';
 	echo '</tbody></table></div>';
