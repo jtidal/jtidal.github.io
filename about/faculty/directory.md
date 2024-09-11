@@ -17,9 +17,9 @@ categories:
   <tbody>
   {% for person in site.data.librarians.librarians %}
     <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
-     <p>{{ person.pronouns }}</p>
-    {% if person.email %}
-    <p><a href="mailto:{{ person.email }}">{{ person.email }}</a>
+     {% if person.email %}
+    <p>{{ person.pronouns }}<br>
+     <a href="mailto:{{ person.email }}">{{ person.email }}</a>
     {% else %}
     {% endif %}
     <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
