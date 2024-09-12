@@ -3,7 +3,19 @@ layout: default
 title: Welcome to City Tech Library
 ---
 <div class="row">
-	<div id="textCarousel" class="carousel carousel-dark slide alert alert-success">
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap 5 Text Carousel</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+</head>
+<body>
+<div class="container my-4">
+
+<div id="textCarousel" class="carousel carousel-dark slide alert alert-success">
     <div class="carousel-indicators">
         <button type="button" data-bs-target="#textCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
         <button type="button" data-bs-target="#textCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -34,15 +46,22 @@ title: Welcome to City Tech Library
             </div><!-- end of div style min-height: 140px; -->
         </div>
     </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#textCarousel" data-bs-slide="prev" class="width: 14px; height: 14px;">
+    <button class="carousel-control-prev" type="button" data-bs-target="#textCarousel" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true" ></span>
         <span class="visually-hidden">Previous</span>
     </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#textCarousel" data-bs-slide="next" class="width: 14px; height: 14px;">
+    <button class="carousel-control-next" type="button" data-bs-target="#textCarousel" data-bs-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true" ></span>
         <span class="visually-hidden">Next</span>
     </button>
 </div>
+  
+  
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+</body>
+</html>
+
 </div>
 <div class="row">
 <h2 class="embolden">Ursula C. Schwerin Library</h2>
