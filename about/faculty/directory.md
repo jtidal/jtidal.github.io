@@ -17,13 +17,21 @@ categories:
   <tbody>
   {% for person in site.data.librarians.librarians %}
     <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
-     {% if person.email %}
-    <p>{{ person.pronouns }}<br>
-     <a href="mailto:{{ person.email }}">{{ person.email }}</a>
+    <p>
+    {% if person.namedrop %}
+    <a href="{{ person.namedrop }}" target="_blank">Name pronunciation</a><br>
     {% else %}
     {% endif %}
-    <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
-    {{ person.room }}</p>
+    {% if person.pronouns %}
+    {{ person.pronouns }}<br>
+    {% else %}
+    {% endif %}
+    <a href="mailto:{{ person.email }}">{{ person.email }}</a>
+    {% if person.phone %}
+    <br><a href="{{ person.phone }}">{{ person.phone }}</a>
+    {% else %}
+    {% endif %}
+    <br>{{ person.room }}</p>
     </td>
     <td><p>{{ person.rank }}<br>{{ person.area }}</p>
     </td>
