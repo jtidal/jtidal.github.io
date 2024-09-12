@@ -72,7 +72,7 @@ title: Welcome to City Tech Library
 	</div>
 </div><!--row-->
 <div class="row">
-
+<h2>News</h2>
 <div id="textCarousel" class="carousel carousel-dark slide alert alert-success">
     <div class="carousel-indicators">
         <button type="button" data-bs-target="#textCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
