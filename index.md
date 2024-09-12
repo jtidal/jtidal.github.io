@@ -3,8 +3,49 @@ layout: default
 title: Welcome to City Tech Library
 ---
 <div class="row">
+	<div id="textCarousel" class="carousel carousel-dark slide alert alert-success">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#textCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#textCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#textCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active" data-bs-interval="10000">
+            <!-- <img src="..." class="d-block w-100" alt="..."> -->
+
+            <!-- Instead of image, div with style and min-height --><div style="min-height: 75px;">
+                <div class="carousel-caption d-block">
+                    <p>Some representative placeholder content for the first slide.</p>
+                </div>
+            </div><!-- end of div style min-height: 140px; -->
+        </div>
+        <div class="carousel-item" data-bs-interval="2000">
+            <!-- Instead of image, div with style and min-height --><div style="min-height: 75px;">
+                <div class="carousel-caption d-block">
+                    <p>Some representative placeholder content for the second slide.</p>
+                </div>
+            </div><!-- end of div style min-height: 140px; -->
+        </div>
+        <div class="carousel-item">
+            <!-- Instead of image, div with style and min-height --><div style="min-height: 75px;">
+                <div class="carousel-caption d-block">
+                    <p>Some representative placeholder content for the third slide.</p>
+                </div>
+            </div><!-- end of div style min-height: 140px; -->
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#textCarousel" data-bs-slide="prev" class="width: 14px; height: 14px;">
+        <span class="carousel-control-prev-icon" aria-hidden="true" ></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#textCarousel" data-bs-slide="next" class="width: 14px; height: 14px;">
+        <span class="carousel-control-next-icon" aria-hidden="true" ></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+</div>
+<div class="row">
 <h2 class="embolden">Ursula C. Schwerin Library</h2>
-	<iframe src="https://library.citytech.cuny.edu/tester/" height="200" width="300" title="Iframe Example">
 	<div class="col-md-3 col-sm-12">
 		<div class="card card-info">
 			<div class="card-header"><h2 class="embolden"><i class="bi-alarm icon-space" ></i><a href="https://libcal.citytech.cuny.edu">Hours</a></h2></div>
