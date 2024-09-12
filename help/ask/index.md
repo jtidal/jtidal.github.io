@@ -53,7 +53,6 @@ categories: help
               <li>The reference desk is located just inside the library entrance on the fourth floor of the Library Building.</li>
           </ul>
         </div>
-        <div class="card-footer text-center"><a href="https://library.citytech.cuny.edu/about/hours/notClosed.php" class="btn btn-info" style="color:white;">Visit the Reference Desk</a></div>
       </div>
     </div>
 
@@ -67,7 +66,7 @@ categories: help
               <li>This service is available to City Tech students only.</li>
             </ul>
           </div>
-        <div class="card-footer text-center"><a href="https://library.citytech.cuny.edu/help/ask/appointments.php" class="btn btn-info" style="color:white;">Schedule a research appointment</a></div>
+        <div class="card-footer text-center"><a href="https://library.citytech.cuny.edu/help/ask/appointments.html" class="btn btn-info" style="color:white;">Schedule a research appointment</a></div>
       </div>
     </div>
   </div><!-- row-->
