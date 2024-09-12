@@ -70,7 +70,12 @@ categories:
   <tbody>
   {% for person in site.data.staff.staff %}
     <tr><td><h4>{{ person.name }}</h4>
-    <p><a href="mailto:{{ person.email }}">{{ person.email }}</a>
+    <p>
+    {% if person.pronouns %}
+    {{ person.pronouns }}<br>
+    {% else %}
+    {% endif %}
+     <a href="mailto:{{ person.email }}">{{ person.email }}</a>
     <br><a href="{{ person.phone }}">{{ person.phone }}</a><br>
     {{ person.room }}</p>
     </td>
