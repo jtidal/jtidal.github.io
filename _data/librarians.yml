@@ -54,6 +54,7 @@ librarians:
     room: L543A
     rank: Professor
     area: Instruction and Scholarly Communications
+    pronouns: she/her/hers
     url: 'https://libguides.citytech.cuny.edu/prf.php?account_id=26580'
     subjects:
     - sub: Art History
@@ -105,7 +106,7 @@ librarians:
   - name: Jen Hoyer
     fname: Jen
     lname: Hoyer
-    email: jhoyer@citytech.cuny.edu
+    email: jennifer.hoyer18@citytech.cuny.edu
     phone: 718.260.5434
     room: L539B
     rank: Assistant Professor 
