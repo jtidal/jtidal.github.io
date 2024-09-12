@@ -2,7 +2,11 @@
 layout: default
 title: Welcome to City Tech Library
 ---
+
 <div class="row">
+<h2 class="embolden">Ursula C. Schwerin Library</h2>
+	<div class="col-md-3 col-sm-12">
+		<div class="row">
 
 <div id="textCarousel" class="carousel carousel-dark slide alert alert-success">
     <div class="carousel-indicators">
@@ -49,9 +53,6 @@ title: Welcome to City Tech Library
 
 
 </div>
-<div class="row">
-<h2 class="embolden">Ursula C. Schwerin Library</h2>
-	<div class="col-md-3 col-sm-12">
 		<div class="card card-info">
 			<div class="card-header"><h2 class="embolden"><i class="bi-alarm icon-space" ></i><a href="https://libcal.citytech.cuny.edu">Hours</a></h2></div>
 				<script src="//ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> 
