@@ -13,7 +13,6 @@ title: Welcome to City Tech Library
 
 </head>
 <body>
-<div class="container my-4">
 
 <div id="textCarousel" class="carousel carousel-dark slide alert alert-success">
     <div class="carousel-indicators">
@@ -57,10 +56,7 @@ title: Welcome to City Tech Library
 </div>
   
   
-</div>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
-</body>
-</html>
+
 
 </div>
 <div class="row">
