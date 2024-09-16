@@ -2,16 +2,10 @@
 # Adjunct Library Faculty
 adjuncts:
 
-- name: Eirini Melena Karoutsos
-  fname: Eirini
-  lname: Karoutsos
-  email: EiriniMelena.Karoutsos91@citytech.cuny.edu
-  area: 'Instruction/Reference'
-
 - name: Mara Lasky
   fname: Mara
   lname: Lasky
-  email:
+  email: MARA.LASKY12@login.cuny.edu
   area: 'Instruction/Reference'
 
 - name: Laurie Murphy
