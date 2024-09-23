@@ -151,6 +151,7 @@ librarians:
   - name: Anne Leonard
     fname: Anne
     lname: Leonard
+    pronouns: she/her
     email: aleonard@citytech.cuny.edu
     phone: 718.260.5487
     room: L539A
