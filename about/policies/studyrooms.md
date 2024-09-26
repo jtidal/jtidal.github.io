@@ -17,5 +17,7 @@ categories:
 <li>The study room key must be returned to the Circulation Desk on time to avoid late fees. The overdue fine for returning the key late is 2 cents minute, with a maximum fine of $10.</li>
 <li>When leaving the study room, the group must ensure the room is clean, the equipment is functioning, furniture is in order, and the door is locked.</li>
 <li>Absolutely no eating or drinking is allowed in the study rooms.</li>
+ <li>Violation of the study room policies may result in forfeiting the use of the rooms.</li>
 </ol>
-<p>Rev. 10.05.22</p>
+<p>Rev. 09.26.24<br>
+ Rev. 10.05.22</p>
