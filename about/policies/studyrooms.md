@@ -21,3 +21,7 @@ categories:
 </ol>
 <p>Rev. 09.26.24<br>
  Rev. 10.05.22</p>
+<h4>See also</h4>
+<ul>
+<li><a href="https://libanswers.citytech.cuny.edu/how/faq/378860">How do I reserve a study room?</a></li>
+</ul>
