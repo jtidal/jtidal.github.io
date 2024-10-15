@@ -7,7 +7,7 @@ categories:
 ---
 <h3>Rooms L534, L535, L536, L537, L538</h3>
 <ol>
-<li>Current City Tech students, or students accompanied by faculty/staff, may reserve study rooms for academic purposes only.”</li>
+<li>Current City Tech students, or students accompanied by faculty/staff, may reserve study rooms for academic purposes only.</li>
 <li>Study rooms are available on a first come, first served basis.</li>
 <li>Reservations will be cancelled if a group arrives more than 15 minutes past their scheduled time.</li>
 <li>Study rooms may be used for up to 3 hours. There is a limit of 1 use per room per day for any group.</li>
