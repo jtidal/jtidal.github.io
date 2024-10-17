@@ -7,10 +7,12 @@ categories:
 ---
 <p> <a href="https://citytech-cuny.libwizard.com/f/multimedia" style="text-decoration:underline;">Reserve the Multimedia Screening and Meeting Space</a></p>
 <h2>Technology Loan Policies</h2>
-<p><a href="{{site.url}}about/policies/laptop.html">Laptop Policy</a></p>
-<p><a href="{{site.url}}about/policies/multimedia/turntable.html">Turntable Policy</a></p>
-<p><a href="{{site.url}}about/policies/multimedia/podcastkingKit.html">Podcasting Kit Policy</a></p>
-
+<ul>
+<li></li><a href="{{site.url}}about/policies/laptop.html">Laptop Policy</a></li>
+<li<a href="{{site.url}}about/policies/multimedia/turntable.html">Turntable Policy</a></li>
+<li><a href="{{site.url}}about/policies/multimedia/podcastkingKit.html">Podcasting Kit Policy</a></li>
+</ul>
+ 
 <h2>Multimedia Screening and Meeting Space (MSMS) Policy</h2>
 <p>The MSMS is located in room L432 of the library's Multimedia Resources Center. 
 <ul>
