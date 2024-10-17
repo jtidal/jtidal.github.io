@@ -30,9 +30,7 @@ categories:
 <li>The room can only be reserved for up to 2 hours at a time. (exceptions can be made if no one has reserved the room for the following time slot but shall never exceed 3 hours continuously)</li>
 </ul>
 
-<li class="findText" style="font-weight:bold;"></li>
-<li>If you have any questions or concerns about these policies, please feel free to contact&nbsp;<a href="mailto:jtidal@citytech.cuny.edu">Prof. Junior Tidal</a>&nbsp;at ext. 5481.</li>
-</ul>
+<p>If you have any questions or concerns about these policies, please feel free to contact&nbsp;<a href="mailto:jtidal@citytech.cuny.edu">Prof. Junior Tidal</a>&nbsp;at ext. 5481.</p>
 <a name="reserves"></a>
 <h2>Media Reserves</h2>
 <h3>Copyright and Licenses</h3>
