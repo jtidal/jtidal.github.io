@@ -5,6 +5,7 @@ categories:
  - about
  - policies
 ---
+<p> <a href="https://citytech-cuny.libwizard.com/f/multimedia" style="text-decoration:underline;">Reserve the Mmultimedia Screening and Meeting Space</a></p>
 <h2>Technology Loan Policies</h2>
 <p><a href="{{site.url}}about/policies/laptop.html">Laptop Policy</a></p>
 <p><a href="{{site.url}}about/policies/multimedia/turntable.html">Turntable Policy</a></p>
@@ -27,7 +28,7 @@ categories:
 <li>The room can only be reserved for up to 2 hours at a time. (exceptions can be made if no one has reserved the room for the following time slot but shall never exceed 3 hours continuously)</li>
 </ul>
 
-<li class="findText" style="font-weight:bold;">Use this <a href="https://citytech-cuny.libwizard.com/f/multimedia" style="text-decoration:underline;">form</a> to make a reservation to use the MSMS</li>
+<li class="findText" style="font-weight:bold;"></li>
 <li>If you have any questions or concerns about these policies, please feel free to contact&nbsp;<a href="mailto:jtidal@citytech.cuny.edu">Prof. Junior Tidal</a>&nbsp;at ext. 5481.</li>
 </ul>
 <a name="reserves"></a>
