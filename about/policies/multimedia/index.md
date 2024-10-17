@@ -9,7 +9,7 @@ categories:
 <h2>Technology Loan Policies</h2>
 <ul>
 <li><a href="{{site.url}}about/policies/laptop.html">Laptop Policy</a></li>
-<li<a href="{{site.url}}about/policies/multimedia/turntable.html">Turntable Policy</a></li>
+<li></li><a href="{{site.url}}about/policies/multimedia/turntable.html">Turntable Policy</a></li>
 <li><a href="{{site.url}}about/policies/multimedia/podcastkingKit.html">Podcasting Kit Policy</a></li>
 </ul>
  
