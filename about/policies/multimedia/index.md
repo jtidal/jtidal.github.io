@@ -28,10 +28,10 @@ categories:
 </ul>
 
 <li class="findText" style="font-weight:bold;">Use this <a href="https://citytech-cuny.libwizard.com/f/multimedia" style="text-decoration:underline;">form</a> to make a reservation to use the MSMS</li>
-<li>If you have any questions or concerns about these policies, please feel free to contact&nbsp;<a href="mailto:jtidal@citytech.cuny.edu"><u><font color="#0000ff">Prof. Junior Tidal</font></u></a>&nbsp;at ext. 5481.</p>
+<li>If you have any questions or concerns about these policies, please feel free to contact&nbsp;<a href="mailto:jtidal@citytech.cuny.edu">Prof. Junior Tidal</a>&nbsp;at ext. 5481.</li>
 </ul>
 <a name="reserves"></a>
-<h2>Media Reserves</strong></h2>
+<h2>Media Reserves</h2>
 <h3>Copyright and Licenses</h3>
 <ul>
 <li>DVDs, CDs, audio cassettes, and VHS (video cassettes) &nbsp;at the Ursula C. Schwerin Library’s Multimedia Resource Center (MRC) are used to support classroom instruction, research and study for the City Tech community.</li>
