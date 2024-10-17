@@ -8,7 +8,7 @@ categories:
 <p> <a href="https://citytech-cuny.libwizard.com/f/multimedia" style="text-decoration:underline;">Reserve the Multimedia Screening and Meeting Space</a></p>
 <h2>Technology Loan Policies</h2>
 <ul>
-<li></li><a href="{{site.url}}about/policies/laptop.html">Laptop Policy</a></li>
+<li><a href="{{site.url}}about/policies/laptop.html">Laptop Policy</a></li>
 <li<a href="{{site.url}}about/policies/multimedia/turntable.html">Turntable Policy</a></li>
 <li><a href="{{site.url}}about/policies/multimedia/podcastkingKit.html">Podcasting Kit Policy</a></li>
 </ul>
