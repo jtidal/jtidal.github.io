@@ -5,7 +5,7 @@ categories:
  - about
  - policies
 ---
-<p> <a href="https://citytech-cuny.libwizard.com/f/multimedia" style="text-decoration:underline;">Reserve the Mmultimedia Screening and Meeting Space</a></p>
+<p> <a href="https://citytech-cuny.libwizard.com/f/multimedia" style="text-decoration:underline;">Reserve the Multimedia Screening and Meeting Space</a></p>
 <h2>Technology Loan Policies</h2>
 <p><a href="{{site.url}}about/policies/laptop.html">Laptop Policy</a></p>
 <p><a href="{{site.url}}about/policies/multimedia/turntable.html">Turntable Policy</a></p>
