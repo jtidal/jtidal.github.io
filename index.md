@@ -28,7 +28,7 @@ title: Welcome to City Tech Library
 		<div class="card card-default">
 			<div class="card-header"><h2 class="embolden"><i class="bi-chat icon-space"></i>Chat</h2></div>
 			<div class="card-body" style="text-align:center">
-				<a href="https://library.citytech.cuny.edu/help/ask/index.html"><img style="padding: 2px; margin:2px; height:50px; width:50px;" src="https://library.citytech.cuny.edu/uploads/noun-chat-bubble-1388380.png" alt="Ask a Librarian"><p>Ask A Librarian</p></a>
+				<a href="https://library.citytech.cuny.edu/help/ask/index.html"><img style="padding: 2px; margin:2px; height:50px; width:50px;" src="https://library.citytech.cuny.edu/uploads/noun-chat-bubble-1388380.png" alt="Ask a Librarian"><p>Chat virtually with a real human, 24/7.</p></a>
 			</div>
 		</div>
 	</div> <!--col-md-3-->
