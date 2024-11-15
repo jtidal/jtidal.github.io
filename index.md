@@ -3,7 +3,7 @@ layout: default
 title: Welcome to City Tech Library
 ---
 <div class="alert alert-success" role="alert">
-  Need headphones? Borrow them from the multimedia resource center or periodicals!
+  Your thoughts matter! How can we improve the <a href="https://library.citytech.cuny.edu/comments.html">City Tech Library</a>?
 </div>
 <div class="row">
 <h2 class="embolden">Ursula C. Schwerin Library</h2>
