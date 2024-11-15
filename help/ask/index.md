@@ -11,7 +11,7 @@ categories: help
     </div>
   </div>
 
-  <p>The Library never sleeps! Chat with a librarian 24 hours a day, 7 days a week.</p>
+  <p>The Library never sleeps! Chat with a real human librarian 24 hours a day, 7 days a week.</p>
   <p>Use <strong>ASK A LIBRARIAN</strong> to:</p>
 
   <ul>
