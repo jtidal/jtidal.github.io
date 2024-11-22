@@ -126,6 +126,7 @@ title: Welcome to City Tech Library
 			 <iframe src="https://library.citytech.cuny.edu/news.php" height="800" title="LibraryBuzz News Feed"></iframe>
 				<a href="https://openlab.citytech.cuny.edu/library">More news</a>
 	</div>
+	</div>
 
 	<div class="col-md-4 col-sm-12">
 	<div class="card card-warning">
