@@ -36,7 +36,7 @@ echo '<div class="panel-body"><table class="table"><tbody>';
 
 		echo '<tr><td><p><span style="font-weight:bold;">'.$date.'</span><br><a href="'.$link.'" title="'.$title.'" style="font-weight:bold;" target="_blank">'.$title.'</a></p><p>'.$description.'</p><p><a class="btn btn-primary" href="'.$link.'" target="_blank" role="button">Read more</a></p></td></tr>';
 	}
-       echo '<tr><td align="right"><a href="http://openlab.citytech.cuny.edu/library"><p>More News...</p></a></tr></td>';
+       //echo '<tr><td align="right"><a href="http://openlab.citytech.cuny.edu/library"><p>More News...</p></a></tr></td>';
 	echo '</tbody></table></div>';
 	echo '<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   </body>
