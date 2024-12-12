@@ -3,7 +3,7 @@ layout: default
 title: Welcome to City Tech Library
 ---
 <div class="alert alert-danger" role="alert">
-  The library will be closed from 12/23 - 1/1/2025.
+  <strong>The library will be closed from 12/23 - 1/1/2025</strong>.
 </div>
 
 <div class="alert alert-success" role="alert">
