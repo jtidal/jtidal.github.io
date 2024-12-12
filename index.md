@@ -3,8 +3,13 @@ layout: default
 title: Welcome to City Tech Library
 ---
 <div class="alert alert-success" role="alert">
+  The library will be closed from 12/23 - 1/1/2025.</a>?
+</div>
+
+<div class="alert alert-success" role="alert">
   Your feedback matters! <a href="https://library.citytech.cuny.edu/comments.html">How can we improve the City Tech Library</a>?
 </div>
+
 <div class="row">
 <h2 class="embolden">Ursula C. Schwerin Library</h2>
 	
