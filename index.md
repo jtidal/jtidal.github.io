@@ -2,9 +2,6 @@
 layout: default
 title: Welcome to City Tech Library
 ---
-<div class="alert alert-danger" role="alert">
-  <strong>The library will be closed from 12/23 - 1/1/2025</strong>.
-</div>
 
 <div class="alert alert-success" role="alert">
   Your feedback matters! <a href="https://library.citytech.cuny.edu/comments.html">How can we improve the City Tech Library</a>?
