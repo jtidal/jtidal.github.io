@@ -2,10 +2,22 @@
 # Adjunct Library Faculty
 adjuncts:
 
+- name: Taylor DeCelles
+  fname: Taylor
+  lname: Decelles
+  email:
+  area: 'Instruction/Reference'
+
 - name: Mara Lasky
   fname: Mara
   lname: Lasky
   email: MARA.LASKY12@login.cuny.edu
+  area: 'Instruction/Reference'
+
+- name: Samuel Mintzer
+  fname: Samuel
+  lname: Mintzer
+  email:
   area: 'Instruction/Reference'
 
 - name: Laurie Murphy
@@ -20,10 +32,22 @@ adjuncts:
   email: jpeach@citytech.cuny.edu
   area: 'Open Educational Resources/Reference'
 
+- name: Sara Sarmiento 
+  fname: Sara
+  lname: Sarmiento
+  email:
+  area: 'Instruction/Reference'
+
 - name: Amanda Timolat
   fname: Amanda
   lname: Timolat
   email: Amanda.Timolat@baruch.cuny.edu
+  area: 'Instruction/Reference'
+
+- name: Erin Walden 
+  fname: Erin
+  lname: Walden
+  email:
   area: 'Instruction/Reference'
 
 - name: James Wechsler
