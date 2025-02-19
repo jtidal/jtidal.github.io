@@ -5,7 +5,8 @@ categories:
  - about
  - policies
 ---
-<h3><a href="https://citytech-cuny.libwizard.com/f/LibraryExhibitApplicationForm">Apply to use the library exhibit space</a>.</h3>
+<p><a href="https://citytech-cuny.libwizard.com/f/LibraryExhibitApplicationForm">Apply to use the library exhibit space</a>.</p>
+
 <p>Contact <a href="mailto:nprince@citytech.cuny.edu"> Prof. Nandi Prince</a> or <a href="mailto:keith.muchowski15@citytech.cuny.edu?subject=Exhibits%20Inquiry">Prof. Keith Muchowski</a> for more information about applying to use the library exhibit space.</p>
 
 <ol>
