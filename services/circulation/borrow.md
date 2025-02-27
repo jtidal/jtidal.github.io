@@ -32,5 +32,5 @@ categories:
 <ul>
   <li><a href="https://library.citytech.cuny.edu/services/circulation/index.html">Borrow, Renew, Request</a></li>
   <li><a href="https://library.citytech.cuny.edu/services/circulation/period.html">Loan periods</a></li>
-  <li><a href="https://www.cuny.edu/about/administration/offices/library-services/policies/circulation/">CUNY Libraries Circulation Policy</li>
+  <li><a href="https://www.cuny.edu/about/administration/offices/library-services/policies/circulation/">CUNY Libraries Circulation Policy</a></li>
 </ul>
