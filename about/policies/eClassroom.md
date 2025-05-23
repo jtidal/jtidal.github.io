@@ -1,35 +1,30 @@
 ---
 layout: page
-title: Library eClassroom Guidelines
+title: Library Classroom Policy 
 categories:
  - about
  - policies
 ---
-  <h2>Conditions of Use</h2>
-  <p>The Library classroom (Rm. L540), has 30 computer workstations and is reserved for computer-related instruction, including:</p>
-  <ul>
-    <li>The Library's program of course-related <a href="http://library.citytech.cuny.edu/services/faculty/teaching/instruction.html">research and information literacy instruction</a> for students</li>
-    <li>Library <a href="http://library.citytech.cuny.edu/instruction/workshops/index.html">workshops</a> for faculty and students</li>
-    <li>Academic course sections requiring a computer classroom (limited to one or two such meetings per course section per semester)</li>
-    <li>Faculty/staff training using the Internet and other electronic resources.</li>
-  </ul>
-  <p>Due to our growing library instruction program, please note that we may be unable to schedule classes other than our own, especially during the busiest times of the semester. The library classroom may <strong>NOT</strong> be used for an entire course. Final authorization for classroom use is at the discretion of the library administration.</p>
-  
-  <h2>Making a Reservation</h2>
-  <p>Class visits to the library are by appointment only. <a href="https://library.citytech.cuny.edu/about/policies/classvisits/index.html">Read our complete class visits policy.</a></p>
-  <p>Please use this <a href="https://library.citytech.cuny.edu/services/faculty/teaching/request.html">form </a>to make an appointment to use the library classroom. Please note that our classroom fills up during the semester, so it's best to submit your request as early as possible. Please do not assume that the classroom is available until you have received confirmation from us.</p>
-  
-  <h2>Classroom Procedures</h2>
-  <p>Please visit the library's administrative office, Rm. L544, during daytime hours, or speak to the reference librarian on the 4th floor after 5:00pm to unlock the door to the classroom. <strong>The library department cannot provide a technician or other technical support for non-library classes or programs.</strong></p>
-  <h2>Instructor Responsibilities</h2>
-  
-  <ul>
-    <li>No food or drink is allowed in the classroom.</li>
-    <li>The instructor must remain with the class at all times. Do not leave the room unsupervised.</li>
-    <li>Do not load software of any kind onto the classroom computers.</li>
-    <li>The instructor is responsible for the security of all classroom hardware and software. Please be aware of what students are doing to prevent any abuse of equipment.</li>
-    <li>There is no printing in the library classroom.</li>
-    <li>At the end of the class please turn off the projectors and shut down all computers (instructions are posted on the teacher podium).</li>
-    <li>Please leave the room at the scheduled time, turn off the lights, and lock the door.</li>
-    <li>The instructor bears the ultimate responsibility to maintain the classroom in accord with library and college policies. All instructors must be familiar with the <a href="https://www.york.cuny.edu/academics/academic-affairs/ctlet/for-faculty/labs/cuny-computer-user-responsibilities">CUNY computer users' responsibilities</a>.</li>
-  </ul>
+ <p>City Tech librarians use the library classroom, L540, to teach over 350 library research and information literacy classes per year. L540 is the library’s main teaching space, with capacity for 30 students at PC workstations, an instructor PC, two projectors, and two screens. There is a black and white laser printer and a dry-erase board. The library welcomes requests from faculty from other departments interested in making use of the active learning capabilities of L540. To make access as equitable as possible, we want faculty to be familiar with our policies for using L540 without a librarian:</p>
+
+<ul>
+<li>Requests are considered on a case-by-case basis</li> 
+<li>L540 bookings are limited to the class meeting time</li>  
+<li>Weekend and evening hours are sometimes available</li> 
+<li>L540 is unavailable when the library is closed</li> 
+<li>Drinks and food are not allowed in the library</li> 
+<li>Classes must leave the room as they found it, and instructors must remain with their students</li> 
+</ul>
+
+<p>Please know that scheduling library instruction sessions takes priority throughout the year. To request use of L540, please email <a href="mailto:aleonard@citytech.cuny.edu">Prof. Anne Leonard</a> one week in advance of your desired date. There is usually more flexibility and availability at these times:</p>
+
+<ul>
+<li>After November Break</li>
+<li>After Spring Break</li>
+<li>Most Fridays</li> 
+<li>Summer and January sessions</li> 
+</ul>
+
+<p>Tech support is generally available weekdays (9-5) during Fall and Spring semesters. We have limited ability to provide tech support at other times.</p>
+<p>Class visits to the library are by appointment only. Read our complete <a href="https://library.citytech.cuny.edu/about/policies/classvisits/index.html">class visits policy</a>.</p>
+
