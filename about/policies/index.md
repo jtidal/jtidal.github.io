@@ -13,7 +13,6 @@ categories: about
     <h3 class="mb-4"><a href="{{site.url}}about/policies/collectionDev.html">Collection Development Policy</a></h3>
     <h3 class="mb-4"><a href="https://guides.cuny.edu/cunyfairuse/welcome">Copyright Guidelines</a></h3>
     <h3 class="mb-4"><a href="https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/cis/it-policies/ComputerUsePolicy1.pdf">CUNY Policy on Acceptable Use of Computer Resources</a></h3>
-    <h3 class="mb-4"><a href="{{site.url}}about/policies/eClassroom.html">eClassroom Guidelines</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/eresources.html">Electronic Resources Policy</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/exhibit.html">Exhibit Policies</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}services/circulation/fines.html">Fines Policy</a></h3>
@@ -23,6 +22,7 @@ categories: about
     <h3 class="mb-4"><a href="{{site.url}}services/circulation/holds.html">Holds Policy</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/ill.html">Interlibrary Loan Policy</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/laptop.html">Laptop Loans Policy</a></h3>
+    <h3 class="mb-4"><a href="{{site.url}}about/policies/eClassroom.html">Library Classroom Guidelines</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/onlineLibraryInstruction.html">Library Instruction and Research Consultations</a></h3> 
     <h3 class="mb-4"><a href="{{site.url}}about/policies/access/metrocard.html">Metro Card Policy</a></h3>
     <h3 class="mb-4"><a href="{{site.url}}about/policies/multimedia/index.html">Multimedia Resource Center Policies</a></h3>
