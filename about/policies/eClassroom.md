@@ -16,7 +16,7 @@ categories:
 <li>Classes must leave the room as they found it, and instructors must remain with their students</li> 
 </ul>
 
-<p>Please know that scheduling library instruction sessions takes priority throughout the year. To request use of L540, please email <a href="mailto:aleonard@citytech.cuny.edu">Prof. Anne Leonard</a> one week in advance of your desired date. There is usually more flexibility and availability at these times:</p>
+<p>Please know that scheduling <a href="https://library.citytech.cuny.edu/services/faculty/teaching/request.html">library instruction sessions</a> takes priority throughout the year. To request use of L540, please email <a href="mailto:aleonard@citytech.cuny.edu">Prof. Anne Leonard</a> one week in advance of your desired date. There is usually more flexibility and availability at these times:</p>
 
 <ul>
 <li>After November Break</li>
