@@ -39,7 +39,7 @@ categories: help
               <li>Replies are sent within 1-2 business days.</li>
             </ul>
           </div>
-        <div class="card-footer text-center"><a href="https://library.citytech.cuny.edu/help/ask/webForm.php" class="btn btn-info" style="color:white;">Ask a librarian over email</a></div>
+        <div class="card-footer text-center"><a href="https://library.citytech.cuny.edu/help/ask/webform.html" class="btn btn-info" style="color:white;">Ask a librarian over email</a></div>
       </div>
     </div>
 
