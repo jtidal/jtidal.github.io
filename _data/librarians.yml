@@ -204,11 +204,10 @@ librarians:
       link: https://library.citytech.cuny.edu/subject-specializations/restorative-dentistry
 
   - name: Ashley Rockenbach
-     fname: Ashley
-     lname: Rockenbach
-     email:
-     phone:
-     room:
-     rank: Assistant Professor
-     area: Access Services 
-  
+    fname: Ashley
+    lname: Rockenbach
+    email: 
+    phone: 
+    room: 
+    rank: Assistant Professor 
+    area: Access Services
