@@ -124,14 +124,7 @@ librarians:
       link: 'https://library.citytech.cuny.edu/subject-specializations/philosophy'
     - sub: 'Radiologic Technology & Medical Imaging'
       link: https://library.citytech.cuny.edu/subject-specializations/radiologic-technology-medical-imaging
-        
-  - name: Rachel Jones
-    fname: Rachel
-    lname: Jones
-    email: RaJones@citytech.cuny.edu
-    rank: Substitute
-    area: 'Substitute Access Services Librarian'
-        
+                
   - name: Kel Karpinski
     fname: Kel
     lname: Karpinski
@@ -209,3 +202,13 @@ librarians:
       link: https://library.citytech.cuny.edu/subject-specializations/nursing
     - sub: Restorative Dentistry
       link: https://library.citytech.cuny.edu/subject-specializations/restorative-dentistry
+
+  - name: Ashley Rockenbach
+     fname: Ashley
+     lname: Rockenbach
+     email:
+     phone:
+     room:
+     rank: Assistant Professor
+     area: Access Services 
+  
