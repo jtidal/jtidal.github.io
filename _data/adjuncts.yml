@@ -16,16 +16,16 @@ adjuncts:
   email: TAYLOR.DECELLES82@citytech.cuny.edu
   area: 'Instruction/Reference'
 
+  - name: Rachel Jones
+  fname: Rachel
+  lname: Jones
+  email: RaJones@CityTech.Cuny.Edu
+  area: 'Instruction/Reference'
+
 - name: Mara Lasky
   fname: Mara
   lname: Lasky
   email: MARA.LASKY12@login.cuny.edu
-  area: 'Instruction/Reference'
-
-- name: Samuel Mintzer
-  fname: Samuel
-  lname: Mintzer
-  email: SAMUEL.MINTZER26@citytech.cuny.edu
   area: 'Instruction/Reference'
 
 - name: Laurie Murphy
