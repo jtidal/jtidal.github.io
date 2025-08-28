@@ -1,0 +1,19 @@
+---
+# College Laboratory Technicians
+clts:
+
+- name: Yi Chen
+  fname: Yi
+  lname: Chen
+  email: yimechen@citytech.cuny.edu
+  phone: 718.260.5798
+  room: L441
+  area: College Laboratory Technician  
+  
+- name: Anderson Uribe-Rodriguez
+  fname: Anderson
+  lname: Uribe
+  email: ARodriguez@citytech.cuny.edu
+  phone: 718.254.8617
+  room: L441
+  area: College Laboratory Technician 
