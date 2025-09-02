@@ -40,6 +40,40 @@ categories:
   </tbody>
     </table>
 
+<h2>College Laboratory Technicians</h2>
+<table class="cols-2 table table-striped table-condensed">
+  <thead>
+    <tr>
+    <th>Name &amp; Contact</th>
+    <th>Rank &amp; Service Area</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for person in site.data.clt.clts %}
+ <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
+    <p>
+    {% if person.namedrop %}
+    <a href="{{ person.namedrop }}" target="_blank">Name pronunciation</a><br>
+    {% else %}
+    {% endif %}
+    {% if person.pronouns %}
+    {{ person.pronouns }}<br>
+    {% else %}
+    {% endif %}
+    <a href="mailto:{{ person.email }}">{{ person.email }}</a>
+    {% if person.phone %}
+    <br><a href="{{ person.phone }}">{{ person.phone }}</a>
+    {% else %}
+    {% endif %}
+    <br>{{ person.room }}</p>
+    </td>
+    <td><p>{{ person.area }}</p>
+    </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+    </table>
+
 <h2>Emeritus Faculty</h2>
 <table class="cols-2 table table-striped table-condensed">
   <thead>
