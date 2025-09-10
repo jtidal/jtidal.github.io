@@ -50,7 +50,7 @@ categories:
   </thead>
   <tbody>
   {% for person in site.data.clt.clts %}
- <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
+ <tr><td><h4>{{ person.name }}</h4>
     <p>
     {% if person.namedrop %}
     <a href="{{ person.namedrop }}" target="_blank">Name pronunciation</a><br>
