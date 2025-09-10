@@ -10,14 +10,6 @@ staff:
   room: L539
   area: Technical Services
 
-- name: Yi Chen
-  fname: Yi
-  lname: Chen
-  email: yimechen@citytech.cuny.edu
-  phone: 718.260.5798
-  room: L441
-  area: College Laboratory Technician  
-
 - name: Suraya Choudhury
   fname: Suraya
   lname: Choudhury
@@ -65,15 +57,7 @@ staff:
   phone: 718.260.5447
   room: L438B
   area: Circulation
-  
-- name: Anderson Uribe-Rodriguez
-  fname: Anderson
-  lname: Uribe
-  email: ARodriguez@citytech.cuny.edu
-  phone: 718.254.8617
-  room: L441
-  area: College Laboratory Technician 
-  
+   
 - name: Anita Rolling
   fname: Anita
   lname: Rolling
