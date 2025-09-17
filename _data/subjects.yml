@@ -3,13 +3,13 @@
 disciplines:
   - subject:  African American Studies
     url: https://libguides.citytech.cuny.edu/afr
-    specialist:  Wanett Clyde
+    specialist:  Wanett Clyde and Ashley Rockenbach
     link: https://libguides.citytech.cuny.edu/prf.php?account_id=185296
   - subject:  Anthropology
     url: https://libguides.citytech.cuny.edu/az.php?s=207175
-    specialist:  Jen Hoyer
+    specialist:  Jen Hoyer and Ashley Rockenbach
     link: https://libguides.citytech.cuny.edu/prf.php?id=60d18225-7cdb-11ed-9922-0ad758b798c3
-  - subject:  Architectural Technology
+  - subject:  Architecture
     url: https://libguides.citytech.cuny.edu/architecture
     specialist:  Nora Almeida
     link: https://libguides.citytech.cuny.edu/prf.php?account_id=45408
@@ -19,7 +19,7 @@ disciplines:
     link: https://libguides.citytech.cuny.edu/art
   - subject:  Biological Sciences	
     url: https://libguides.citytech.cuny.edu/biology
-    specialist:  Cailean Cooney and Wanett Clyde
+    specialist:  Cailean Cooney 
     link: https://libguides.citytech.cuny.edu/prf.php?account_id=41998
   - subject:  'Business: Accounting/Marketing'
     url: https://libguides.citytech.cuny.edu/prf.php?account_id=41998
@@ -31,7 +31,7 @@ disciplines:
     link: https://libguides.citytech.cuny.edu/prf.php?account_id=185296
   - subject:  Career and Technology Teacher Education	
     url: https://libguides.citytech.cuny.edu/careerTech
-    specialist:  Cailean Cooney and Anne Leonard
+    specialist:  Cailean Cooney 
     link: https://libguides.citytech.cuny.edu/prf.php?account_id=41998
   - subject:  Chemistry
     url: https://libguides.citytech.cuny.edu/chem
@@ -135,11 +135,11 @@ disciplines:
     link: https://libguides.citytech.cuny.edu/prf.php?id=60d18225-7cdb-11ed-9922-0ad758b798c3
   - subject:  Mathematics
     url: https://libguides.citytech.cuny.edu/mat
-    specialist:  Monica Berger
+    specialist:  Monica Berger and Ashley Rockenbach
     link: https://libguides.citytech.cuny.edu/prf.php?account_id=193221
   - subject:  Mechanical Engineering Technology	
     url: https://libguides.citytech.cuny.edu/mech
-    specialist:  Junior Tidal
+    specialist:  Jen Hoyer
     link: https://libguides.citytech.cuny.edu/prf.php?id=58e5d847-7cdb-11ed-9922-0ad758b798c3
   - subject:  Modern Languages
     url: 
@@ -167,7 +167,7 @@ disciplines:
     link: https://libguides.citytech.cuny.edu/prf.php?id=58e793a4-7cdb-11ed-9922-0ad758b798c3
   - subject:  Psychology
     url: https://libguides.citytech.cuny.edu/psych
-    specialist:   Nora Almeida
+    specialist:   Cailean Cooney
     link: https://libguides.citytech.cuny.edu/prf.php?account_id=41998
   - subject:  'Radiologic Technology & Medical Imaging'
     url: https://libguides.citytech.cuny.edu/rad
