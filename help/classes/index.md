@@ -42,10 +42,10 @@ categories:
       </div>
       <div class="card-body text-center">
           <img src="https://library.citytech.cuny.edu/uploads/noun_Library_37831.png" alt="Icon depicting a class visit to the library.">
-        <p>Did your class visit the library? Has a librarian created a research guide for your class? Browse through the list to find your class or topics covered in the library.</p>
+        <p>Brose through the library's research guides for help getting started with library research.</p>
       </div>
       <div class="card-footer text-center">
-        <a class="btn btn-info" style="color: white;" href="https://libguides.citytech.cuny.edu/how">Class topics</a>
+        <a class="btn btn-info" style="color: white;" href="https://libguides.citytech.cuny.edu/">Class topics</a>
       </div>
     </div>
   </div>
@@ -61,7 +61,7 @@ categories:
         <p>Faculty, want to schedule a library research session for your class?</p>
       </div>
       <div class="card-footer text-center">
-        <a class="btn btn-info" style="color: white;" href="http://library.citytech.cuny.edu/services/faculty/teaching/instruction.html">Schedule a session</a>
+        <a class="btn btn-info" style="color: white;" href="http://library.citytech.cuny.edu/services/faculty/teaching/instruction.html">Schedule a Library Visit</a>
       </div>
     </div>
   </div>
@@ -72,7 +72,7 @@ categories:
       </div>
       <div class="card-body text-center">
         <img src="https://library.citytech.cuny.edu/uploads/noun_classes_2746928.png" alt="image depicting a class">
-          <p>English 1101 classes and instructors can access the course specific research guide.</p>
+          <p>English 1101 students and instructors can access the ENG 1101 research guide.</p>
       </div>
       <div class="card-footer text-center"><a class="btn btn-info" style="color: white;" href="http://libguides.citytech.cuny.edu/eng1101">ENG 1101</a></div>
     </div>
