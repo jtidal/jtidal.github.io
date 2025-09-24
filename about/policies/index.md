@@ -3,7 +3,6 @@ layout: page
 title: Policies
 categories: about
 ---
-<h1 class="pageTitle">Policies</h1>
   <div class="row">
     <div class="col-sm-12 col-md-6 col-lg-6">
 
