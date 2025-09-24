@@ -32,7 +32,7 @@ categories: about
         <h3 class="mb-4"><a href="https://library.citytech.cuny.edu/about/policies/onlineLibraryInstruction.html">Library Instruction and Research Consultations</a></h3> 
         <h3 class="mb-4"><a href="https://library.citytech.cuny.edu/about/policies/eClassroom.html">Library Classroom Guidelines</a></h3>
 
-      <h2 class="embolden"Technology Policies</h2>
+      <h2 class="embolden">Technology Policies</h2>
         <h3 class="mb-4"><a href="https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/cis/it-policies/ComputerUsePolicy1.pdf">CUNY Policy on Acceptable Use of Computer Resources</a></h3>
         <h3 class="mb-4"><a href="https://library.citytech.cuny.edu/services/circulation/calculators.html">Calculator Policy</a></h3>
         <h3 class="mb-4"><a href="https://library.citytech.cuny.edu/about/policies/laptop.html">Laptop Loans Policy</a></h3>
