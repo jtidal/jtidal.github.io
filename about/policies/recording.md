@@ -1,3 +1,10 @@
+---
+layout: page
+title: Collection Development Policy
+categories: 
+ - about
+ - policies
+---
 Policies for Recording Online Library Instruction
 
 Concerns about library instruction sessions being recorded without consent from library faculty, and lack of clarity around where and for how long recordings will be stored, especially in sessions taught by adjunct faculty, have prompted these best practices for recording library instruction sessions:
