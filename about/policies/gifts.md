@@ -15,5 +15,5 @@ categories:
 <li>Publicity or publications (including in-house publications) pertaining to gifts or a gift collection are produced in consultation with the library department. The library can make no commitment to update particular gift collections in future years.</li>
 </ul>
 <p>The library does not accept gifts of periodicals.</p>
-<p>For DVDs, CDs, and other media formats, please consult with <a href="mailto:jtidal@citytech.cuny.edu">Prof. Junior Tidal</a> in the Multimedia Resource Center.<br><br> Upon request, the library prepares gift receipt acknowledgements.&nbsp;For tax deduction purposes, we cannot provide an assessed value for donated materials.&nbsp;</p>
+<p>For DVDs, CDs, and other media formats, please consult with <a href="mailto:jtidal@citytech.cuny.edu">Prof. Junior Tidal</a> <br><br> Upon request, the library prepares gift receipt acknowledgements.&nbsp;For tax deduction purposes, we cannot provide an assessed value for donated materials.&nbsp;</p>
 <p>Gift books not retained for the library’s collection are often kept aside for the library's book sales or distributed free to the college community.</p>
