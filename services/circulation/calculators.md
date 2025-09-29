@@ -10,7 +10,7 @@ categories:
 <h2>Calculator policy</h2>
 <ul>
 <li>TI-84 Plus and Silver models are loaned for 1 day.</li>
-<li>TI-36X Pro are loaned for 2 days.</li>
+<li>TI-36X Pro are loaned for 1 days.</li>
 <li>Renewals are not permitted for calculators.</li>
 <li>Calculators must be returned in good working order to the library’s Circulation Desk half an hour before the library closes.</li>
 <li>Borrower must pay all repairs and/or replacement costs resulting from damage or loss.</li>
