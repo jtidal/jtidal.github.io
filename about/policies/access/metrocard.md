@@ -13,4 +13,4 @@ categories:
 
 <h2>Visiting a METRO library:</h2> When the card is issued, the librarian should inform the library user that the card is good for one visit only. The librarian should telephone the holding library to confirm library hours and ownership of the item, as well as to find out about any access restrictions. The METRO title referral card (yellow card) does not entitle users to reference assistance or borrowing rights, nor does it guarantee that the material required will be available during the time of the visit. METRO card users should familiarize themselves with the regulations printed on the back of the card ("to the user") before they visit the METRO member library.</p>
 
-<p>For further information, please contact <a href="mailto:njohnson@citytech.cuny.edu">Nanette </a> or call 718.260.5424.</p>
+<p>For further information, please contact <a href="mailto:arockenbach@citytech.cuny.edu">Prof. Ashley Rockenbach </a> or call 718.260.5424.</p>
