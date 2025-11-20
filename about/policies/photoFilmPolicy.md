@@ -14,5 +14,6 @@ any formal project, outreach initiative, or assignment. </p>
 <p>Permission is not required for non-disruptive photography or filming for personal use (e.g. a selfie). The photographer is responsible for protecting 
 others' reasonable expectations of privacy. This includes assuring that other people’s faces aren’t identifiable.</p>
 
-<p>Patrons may be asked to discontinue photography or filming if a staff member of the library determines it is unsafe, inappropriate, or disruptive to students, faculty or staff.
-Contact [Prof. Junior Tidal](mailto:jtidal@citytech.cuny.edu), Chief Librarian, for photography and filming inquiries.</p>
+<p>Patrons may be asked to discontinue photography or filming if a staff member of the library determines it is unsafe, inappropriate, or disruptive to students, faculty or staff.</p>
+
+<p>Contact <a href="mailto:jtidal@citytech.cuny.edu">Prof. Junior Tidal</a>, Chief Librarian, for photography and filming inquiries.</p>
