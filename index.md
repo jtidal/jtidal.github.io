@@ -5,7 +5,7 @@ title: Welcome to City Tech Library
 <div class="alert alert-success" role="alert">
 <a href="https://citytech.cunytuesday.org/organizations/ursula-c-schwerin-library-at-city-tech">Donate to the Library's #GivingTuesday Fund</a>!
 </div>
-https://citytech.cunytuesday.org/organizations/ursula-c-schwerin-library-at-city-tech
+
 <div class="alert alert-success" role="alert">
   Your feedback matters! <a href="https://library.citytech.cuny.edu/comments.html">How can we improve the City Tech Library</a>?
 </div>
