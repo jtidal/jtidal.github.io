@@ -26,51 +26,45 @@ categories:
         </ol>
     </div>
 </div>
-    <form name="myform" id="myform" action="https://library.citytech.cuny.edu/process.php" class="form-horizontal" role="form" method="POST">
+<form name="myform" id="myform" action="https://library.citytech.cuny.edu/process.php" class="form-horizontal" role="form" method="POST">
 
-<div>
-        <div class="form-group">
-            <label for="name" id="name_label" class="control-label"><strong></strong></label>
-            <input onfocus="this.value='';" type="text" class="form-control" name="theAddie" id="theAddie" value="Paste address or DOI, e.g. http://muse.jhu.edu/journals/american_imago/v069/"/>
+    <div class="form-group">
+        <label for="theAddie" class="control-label">Address or DOI</label>
+        <input onfocus="this.value='';" type="text" class="form-control" name="theAddie" id="theAddie" 
+               placeholder="Paste address or DOI, e.g. http://muse.jhu.edu/journals/american_imago/v069/" required />
+    </div>
+
+    <fieldset class="form-group">
+        <legend>Type:</legend>
+        <div class="radio">
+            <label><input type="radio" name="RadioSelector" id="url" value="url" checked>URL</label>
         </div>
-
-        <div class="row">
-            <div class="radio">
-                <label><input type="radio" style="padding:0px;" name="RadioSelector" id="RadioSelector" value="url" checked="checked">URL</label>
-            </div>
-
-            <div class="radio">
-                <label><input type="radio" name="RadioSelector" id="RadioSelector" value="doi">DOI</label>
-            </div>
-
-            <!-- The Submit button -->
-            <div style="margin-top:10px; margin-bottom:10px;">
-                <button type="submit" class="btn btn-primary" name="submit" value="Submit">Submit</button>
-                <button type="reset" class="btn btn-primary"  name="reset" value="Clear">Clear</button>
-            </div>
+        <div class="radio">
+            <label><input type="radio" name="RadioSelector" id="doi" value="doi">DOI</label>
         </div>
-        
-        <div>
-            <p>
-            <strong>Examples:</strong>
-            <br>
-            <strong>URL:</strong>
-            http://muse.jhu.edu/journals/american_imago/v069/...
-            <br>
-            <strong>DOI:</strong>
-            10.1021/ac0354342
-            </p>
-        </div>
+    </fieldset>
 
-        <div class="form-group">
-            <div class="col-sm-10">
-                <div id="results"><div>
-                    <!-- We will output the results from process.php here -->
-            </div>
-        </div>
+    <div class="form-group" style="margin-top:10px; margin-bottom:10px;">
+        <button type="submit" class="btn btn-primary" name="submit" value="Submit">Submit</button>
+        <button type="reset" class="btn btn-secondary" name="reset" value="Clear">Clear</button>
+    </div>
 
-</div>
-    </form>
+    <div>
+        <p>
+            <strong>Examples:</strong><br>
+            <strong>URL:</strong> http://muse.jhu.edu/journals/american_imago/v069/...<br>
+            <strong>DOI:</strong> 10.1021/ac0354342
+        </p>
+    </div>
+
+    <div class="form-group">
+        <div id="results">
+            <!-- We will output the results from process.php here -->
+        </div>
+    </div>
+
+</form>
+
 <div class="row">
     <h3>It's not working.</h3>
     <p>Contact <a href="mailto:jtidal@citytech.cuny.edu">Prof. Junior Tidal</a> to report any problems.</p>
