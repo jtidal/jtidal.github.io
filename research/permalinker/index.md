@@ -26,9 +26,9 @@ categories:
         </ol>
     </div>
 </div>
+    <form name="myform" id="myform" action="https://library.citytech.cuny.edu/process.php" class="form-horizontal" role="form" method="POST">
 
 <div>
-    <form name="myform" id="myform" action="https://library.citytech.cuny.edu/process.php" class="form-horizontal" role="form" method="POST">
         <div class="form-group">
             <label for="name" id="name_label" class="control-label"><strong></strong></label>
             <input onfocus="this.value='';" type="text" class="form-control" name="theAddie" id="theAddie" value="Paste address or DOI, e.g. http://muse.jhu.edu/journals/american_imago/v069/"/>
@@ -68,9 +68,9 @@ categories:
                     <!-- We will output the results from process.php here -->
             </div>
         </div>
-    </form>
-</div>
 
+</div>
+    </form>
 <div class="row">
     <h3>It's not working.</h3>
     <p>Contact <a href="mailto:jtidal@citytech.cuny.edu">Prof. Junior Tidal</a> to report any problems.</p>
