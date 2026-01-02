@@ -2,9 +2,6 @@
 layout: default
 title: Welcome to City Tech Library
 ---
-<div class="alert alert-success" role="alert">
-Do you have an early morning math final? The library will have a calculator check-out station in front of the library beginning at <strong>8am on December 16, 17, 18, 19, and 22</strong>.
-</div>
 
 <div class="alert alert-success" role="alert">
   Your feedback matters! <a href="https://library.citytech.cuny.edu/comments.html">How can we improve the City Tech Library</a>?
