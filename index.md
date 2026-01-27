@@ -4,10 +4,6 @@ title: Welcome to City Tech Library
 ---
 
 <div class="alert alert-success" role="alert">
-  <b>Monday, January 26:</b> The library is closed but reference librarians are <a href="https://library.citytech.cuny.edu/help/ask/index.html">available</a> for virtual assistance. 
-</div>
-
-<div class="alert alert-success" role="alert">
   Your feedback matters! <a href="https://library.citytech.cuny.edu/comments.html">How can we improve the City Tech Library</a>?
 </div>
 
