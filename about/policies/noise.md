@@ -27,18 +27,17 @@ Space in the library is divided into two areas allowing for differing levels of 
   <tbody>
     <tr>
       <td>
-       <ul>
-        <li>Talking in quiet, low voices</li>
-        <li>Groups that can work quietly</li>
-        <li>No phone or video calls (Zoom, FaceTime, etc.</li>
-       </ul>
-       </td>
-    </tr>
-    <tr>
-      <td>No talking (whispering) </td>
+        <ul>
+          <li>Talking in quiet, low voices</li>
+          <li>Groups that can work quietly</li>
+          <li>No phone or video calls (Zoom, FaceTime, etc.)</li>
+        </ul>
+      </td>
+      <td>No talking (whispering)</td>
     </tr>
   </tbody>
 </table>
+
 
  This noise policy is aligned with the [Henderson Rules](https://www.citytech.cuny.edu/about-us/docs/HendersonRules.pdf). Users who are making an unreasonable amount of noise, violating this noise policy, or causing a disruption that impedes library operations may be asked by library staff or Public Safety to leave the library.
 
