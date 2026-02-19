@@ -25,14 +25,17 @@ Space in the library is divided into two areas allowing for differing levels of 
  This noise policy is aligned with the [Henderson Rules](https://www.citytech.cuny.edu/about-us/docs/HendersonRules.pdf). Users who are making an unreasonable amount of noise, violating this noise policy, or causing a disruption that impedes library operations may be asked by library staff or Public Safety to leave the library.
 
 <strong>What should I do if someone is making too much noise in the library?</strong>
-*Call Public Safety and speak with them at the library entrance
-*Ask for help on the library’s online chat
-*Remind the person of the noise policy
+
+* Call Public Safety and speak with them at the library entrance
+* Ask for help on the library’s online chat
+* Remind the person of the noise policy
 
 <strong>Where can I find the quietest place in the library?</strong>
-*The 5th floor is a designated whispering zone
-*The 5th floor study rooms are available for quiet study
+
+* The 5th floor is a designated whispering zone
+* The 5th floor study rooms are available for quiet study
 
 <strong>Where can I send feedback regarding the noise policy?</strong>
+
 [Post a comment]()
 
