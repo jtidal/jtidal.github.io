@@ -17,11 +17,28 @@ The library is meant for academic engagement, where users can learn, study, and 
 
 Space in the library is divided into two areas allowing for differing levels of noise:
 
-| 4th Floor and 5th Floor Study Rooms - Low Noise| 5th Floor - Whispering|
-|----------|----------|
-|* Talking in quiet, low voices  | No talking (whispering) | 
-|* Groups that can work quietly | |
-|* No phone or video calls (Zoom, FaceTime, etc.)| |
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col"><strong>4th Floor and 5th Floor Study Rooms<br>Low Noise</strong></th>
+      <th scope="col"><strong>5th Floor<br>Whispering</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+       <ul>
+        <li>Talking in quiet, low voices</li>
+        <li>Groups that can work quietly</li>
+        <li>No phone or video calls (Zoom, FaceTime, etc.</li>
+       </ul>
+       </td>
+    </tr>
+    <tr>
+      <td>No talking (whispering) </td>
+    </tr>
+  </tbody>
+</table>
 
  This noise policy is aligned with the [Henderson Rules](https://www.citytech.cuny.edu/about-us/docs/HendersonRules.pdf). Users who are making an unreasonable amount of noise, violating this noise policy, or causing a disruption that impedes library operations may be asked by library staff or Public Safety to leave the library.
 
