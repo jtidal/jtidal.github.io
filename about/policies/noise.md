@@ -17,7 +17,8 @@ The library is meant for academic engagement, where users can learn, study, and 
 
 Space in the library is divided into two areas allowing for differing levels of noise:
 
-| 4th Floor and 5th Floor Study Rooms - Low Noise        | 5th Floor - Whispering|
+| 4th Floor and 5th Floor Study Rooms - Low Noise| 5th Floor - Whispering|
+|----------|----------|
 |* Talking in quiet, low voices  | No talking (whispering) | 
 |* Groups that can work quietly | |
 |* No phone or video calls (Zoom, FaceTime, etc.)| |
