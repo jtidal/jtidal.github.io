@@ -9,8 +9,8 @@ The Library maintains spaces for our community that balance a variety of needs, 
 
 The library is meant for academic engagement, where users can learn, study, and work without disruption. In general:
 
-*Remote class or video calls are allowed in library study rooms(https://library.citytech.cuny.edu/about/policies/studyrooms.html) only.
-*Headphones are required for any audio playing on your device.
+* Remote class or video calls are allowed in library study rooms(https://library.citytech.cuny.edu/about/policies/studyrooms.html) only.
+* Headphones are required for any audio playing on your device.
 
 
 ## Study Zones by Noise Level
@@ -18,9 +18,9 @@ The library is meant for academic engagement, where users can learn, study, and 
 Space in the library is divided into two areas allowing for differing levels of noise:
 
 | 4th Floor and 5th Floor Study Rooms - Low Noise        | 5th Floor - Whispering|
-| *Talking in quiet, low voices  | No talking (whispering) | 
-*Groups that can work quietly
-*No phone or video calls (Zoom, FaceTime, etc.)
+|* Talking in quiet, low voices  | No talking (whispering) | 
+|* Groups that can work quietly | |
+|* No phone or video calls (Zoom, FaceTime, etc.)| |
 
  This noise policy is aligned with the [Henderson Rules](https://www.citytech.cuny.edu/about-us/docs/HendersonRules.pdf). Users who are making an unreasonable amount of noise, violating this noise policy, or causing a disruption that impedes library operations may be asked by library staff or Public Safety to leave the library.
 
