@@ -43,7 +43,7 @@ categories:
 </table>
 </div>
 
-<p>This noise policy is aligned with the [Henderson Rules](https://www.citytech.cuny.edu/about-us/docs/HendersonRules.pdf). </p>
+This noise policy is aligned with the [Henderson Rules](https://www.citytech.cuny.edu/about-us/docs/HendersonRules.pdf).
 <div class="w-75">
 
 <p>Users who are making an unreasonable amount of noise, violating this noise policy, or causing a disruption that impedes library operations may be asked by library staff or Public Safety to leave the library.</p>
