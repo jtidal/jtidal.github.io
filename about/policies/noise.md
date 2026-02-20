@@ -19,10 +19,10 @@ The library is meant for academic engagement, where users can learn, study, and 
 ## Study Zones by Noise Level
 
 Space in the library is divided into two areas allowing for differing levels of noise:
-<div class="w-75">
+
 <table class="table table-striped table-bordered justify-content-center">
   <thead>
-    <tr>
+    <tr class="justify-content-center">
       <th scope="col"><strong>4th Floor and 5th Floor Study Rooms<br>Low Noise</strong></th>
       <th scope="col"><strong>5th Floor<br>Whispering</strong></th>
     </tr>
@@ -40,7 +40,7 @@ Space in the library is divided into two areas allowing for differing levels of 
     </tr>
   </tbody>
 </table>
- </div>
+
  <div class="w-75">
 
   This noise policy is aligned with the [Henderson Rules](https://www.citytech.cuny.edu/about-us/docs/HendersonRules.pdf). Users who are making an unreasonable amount of noise, violating this noise policy, or causing a disruption that impedes library operations may be asked by library staff or Public Safety to leave the library.
