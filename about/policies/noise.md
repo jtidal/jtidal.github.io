@@ -46,6 +46,7 @@ This noise policy is aligned with the [Henderson Rules](https://www.citytech.cun
 <div class="w-75">
 Users who are making an unreasonable amount of noise, violating this noise policy, or causing a disruption that impedes library operations may be asked by library staff or Public Safety to leave the library.
 </div>
+
  <strong>What should I do if someone is making too much noise in the library?</strong>
  
  * Call Public Safety and speak with them at the library entrance
