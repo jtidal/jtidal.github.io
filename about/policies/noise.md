@@ -18,8 +18,8 @@ The library is meant for academic engagement, where users can learn, study, and 
 
 Space in the library is divided into two areas allowing for differing levels of noise:
 
-<div class="w-25 justify-content-center">
-<table class="table table-striped table-bordered">
+<div class="w-25 ">
+<table class="table table-striped table-bordered justify-content-center">
   <thead>
     <tr>
       <th scope="col"><strong>4th Floor and 5th Floor Study Rooms<br>Low Noise</strong></th>
