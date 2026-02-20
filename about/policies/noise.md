@@ -22,9 +22,9 @@ Space in the library is divided into two areas allowing for differing levels of 
 
 <table class="table table-striped table-bordered justify-content-center">
   <thead>
-    <tr class="justify-content-center">
-      <th scope="col"><strong>4th Floor and 5th Floor Study Rooms<br>Low Noise</strong></th>
-      <th scope="col"><strong>5th Floor<br>Whispering</strong></th>
+    <tr>
+      <th scope="col" class="justify-content-center"><strong>4th Floor and 5th Floor Study Rooms<br>Low Noise</strong></th>
+      <th scope="col" class="justify-content-center"><strong>5th Floor<br>Whispering</strong></th>
     </tr>
   </thead>
   <tbody>
