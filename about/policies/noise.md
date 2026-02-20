@@ -18,7 +18,7 @@ The library is meant for academic engagement, where users can learn, study, and 
 
 Space in the library is divided into two areas allowing for differing levels of noise:
 
-<div class="w-25">
+<div class="w-25 justify-content-center">
 <table class="table table-striped table-bordered">
   <thead>
     <tr>
