@@ -19,7 +19,7 @@ The library is meant for academic engagement, where users can learn, study, and 
 ## Study Zones by Noise Level
 
 Space in the library is divided into two areas allowing for differing levels of noise:
-<div class="w-75">
+<div class="w-50">
 <table class="table table-striped table-bordered justify-content-center">
   <thead>
     <tr>
