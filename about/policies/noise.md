@@ -5,9 +5,7 @@ categories:
  - about
  - policies
 ---
-<div class="container">
-   <div class="row">
-        <div class="col-sm">
+
 The Library maintains spaces for our community that balance a variety of needs, ranging from those studying alone who need to concentrate to those working collaboratively as a group to prepare for an exam or work on a project. We aim to support those varied uses of the library by limiting noise levels to what is considered to be acceptable and reasonable. Depending on the space, that noise level may range from one of absolute silence to that of quiet group collaboration and considerate conversation.
 
 The library is meant for academic engagement, where users can learn, study, and work without disruption. In general:
@@ -58,7 +56,5 @@ Space in the library is divided into two areas allowing for differing levels of 
  <strong>Where can I send feedback regarding the noise policy?</strong>
  
  [Post a comment](https://library.citytech.cuny.edu/comments.html)
- </div>
- </div>
-</div>
+
 
