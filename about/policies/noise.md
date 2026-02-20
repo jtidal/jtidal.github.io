@@ -58,8 +58,8 @@ Users who are making an unreasonable amount of noise, violating this noise polic
  * The 5th floor study rooms are available for quiet study
  
  <strong>Where can I send feedback regarding the noise policy?</strong>
-
- 
  [Post a comment](https://library.citytech.cuny.edu/comments.html)
+
+ Rev. 02.20.26
 
 
