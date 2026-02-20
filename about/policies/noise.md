@@ -41,7 +41,10 @@ Space in the library is divided into two areas allowing for differing levels of 
   </tbody>
 </table>
 </div>
-This noise policy is aligned with the [Henderson Rules](https://www.citytech.cuny.edu/about-us/docs/HendersonRules.pdf). Users who are making an unreasonable amount of noise, violating this noise policy, or causing a disruption that impedes library operations may be asked by library staff or Public Safety to leave the library.
+
+* This noise policy is aligned with the [Henderson Rules](https://www.citytech.cuny.edu/about-us/docs/HendersonRules.pdf). 
+
+* Users who are making an unreasonable amount of noise, violating this noise policy, or causing a disruption that impedes library operations may be asked by library staff or Public Safety to leave the library.
 
  <strong>What should I do if someone is making too much noise in the library?</strong>
  
