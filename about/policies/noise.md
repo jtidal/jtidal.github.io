@@ -44,7 +44,7 @@ Space in the library is divided into two areas allowing for differing levels of 
  <div class="w-75">
 
   This noise policy is aligned with the [Henderson Rules](https://www.citytech.cuny.edu/about-us/docs/HendersonRules.pdf). Users who are making an unreasonable amount of noise, violating this noise policy, or causing a disruption that impedes library operations may be asked by library staff or Public Safety to leave the library.
- 
+ </div>
  <strong>What should I do if someone is making too much noise in the library?</strong>
  
  * Call Public Safety and speak with them at the library entrance
@@ -57,7 +57,7 @@ Space in the library is divided into two areas allowing for differing levels of 
  * The 5th floor study rooms are available for quiet study
  
  <strong>Where can I send feedback regarding the noise policy?</strong>
- </div>
+
  
  [Post a comment](https://library.citytech.cuny.edu/comments.html)
 
