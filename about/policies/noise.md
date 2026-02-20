@@ -7,10 +7,11 @@ categories:
 ---
 <div class="w-75">
 
-The Library maintains spaces for our community that balance a variety of needs, ranging from those studying alone who need to concentrate to those working collaboratively as a group to prepare for an exam or work on a project. We aim to support those varied uses of the library by limiting noise levels to what is considered to be acceptable and reasonable. Depending on the space, that noise level may range from one of absolute silence to that of quiet group collaboration and considerate conversation.
+<p>The Library maintains spaces for our community that balance a variety of needs, ranging from those studying alone who need to concentrate to those working collaboratively as a group to prepare for an exam or work on a project. We aim to support those varied uses of the library by limiting noise levels to what is considered to be acceptable and reasonable. Depending on the space, that noise level may range from one of absolute silence to that of quiet group collaboration and considerate conversation.</p>
 </div>
 
-The library is meant for academic engagement, where users can learn, study, and work without disruption. In general:
+
+<p>he library is meant for academic engagement, where users can learn, study, and work without disruption. In general:</p>
 
 * Remote class or video calls are allowed in [library study rooms](https://library.citytech.cuny.edu/about/policies/studyrooms.html) only.
 * Headphones are required for any audio playing on your device.
@@ -18,7 +19,7 @@ The library is meant for academic engagement, where users can learn, study, and 
 
 ## Study Zones by Noise Level
 
-Space in the library is divided into two areas allowing for differing levels of noise:
+<p>Space in the library is divided into two areas allowing for differing levels of noise:</p>
 <div class="w-50">
 <table class="table table-striped table-bordered center">
   <thead>
@@ -42,9 +43,10 @@ Space in the library is divided into two areas allowing for differing levels of 
 </table>
 </div>
 
-This noise policy is aligned with the [Henderson Rules](https://www.citytech.cuny.edu/about-us/docs/HendersonRules.pdf). 
+<p>This noise policy is aligned with the [Henderson Rules](https://www.citytech.cuny.edu/about-us/docs/HendersonRules.pdf). </p>
 <div class="w-75">
-Users who are making an unreasonable amount of noise, violating this noise policy, or causing a disruption that impedes library operations may be asked by library staff or Public Safety to leave the library.
+
+<p>Users who are making an unreasonable amount of noise, violating this noise policy, or causing a disruption that impedes library operations may be asked by library staff or Public Safety to leave the library.</p>
 </div>
 
  <strong>What should I do if someone is making too much noise in the library?</strong>
