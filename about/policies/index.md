@@ -10,6 +10,7 @@ categories: about
         <h3 class="mb-4"><a href="https://library.citytech.cuny.edu/about/policies/access/index.html">Access Policies</a></h3>
         <h3 class="mb-4"><a href="https://library.citytech.cuny.edu/about/policies/eresources.html">Electronic Resources Policy</a></h3>
         <h3 class="mb-4"><a href="https://library.citytech.cuny.edu/about/policies/access/metrocard.html">METRO Card Policy</a></h3>
+        <h3 class="mb-4"><a href="https://library.citytech.cuny.edu/about/policies/noise.html">Noise Policy</a></h3>
         <h3 class="mb-4"><a href="https://library.citytech.cuny.edu/about/policies/photoFilmPolicy.html">Photography and Filming Policy</a></h3>
         <h3 class="mb-4"><a href="https://library.citytech.cuny.edu/services/circulation/reserves.html">Reserves</a></h3>
         <h3 class="mb-4"><a href="https://library.citytech.cuny.edu/about/policies/studyrooms.html">Study Room Policy</a></h3>
