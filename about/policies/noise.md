@@ -51,7 +51,7 @@ This noise policy is aligned with the [Henderson Rules](https://www.citytech.cun
 
  <strong>What should I do if someone is making too much noise in the library?</strong>
  
- * Call Public Safety and speak with them at the library entrance
+ * Call Public Safety and speak with them at the library entrance - 718.260.5550
  * Ask for help on the library’s online chat
  * Remind the person of the noise policy
  
@@ -61,7 +61,7 @@ This noise policy is aligned with the [Henderson Rules](https://www.citytech.cun
  * The 5th floor study rooms are available for quiet study
  
  <strong>Where can I send feedback regarding the noise policy?</strong>
- [Post a comment](https://library.citytech.cuny.edu/comments.html)
+ <br>[Post a comment](https://library.citytech.cuny.edu/comments.html)
 
  Rev. 02.20.26
 
