@@ -11,14 +11,14 @@ categories:
 <li>Study rooms are available on a first come, first served basis.</li>
 <li>Reservations will be cancelled if a group arrives more than 15 minutes past their scheduled time.</li>
 <li>Study rooms may be used for up to 3 hours. There is a limit of 1 use per room per day for any group.</li>
-<li>5. Rooms 534, 537, 538: 2 to 5 students for up to 180 minutes.</li>
-<li>Rooms 535 and 536: 1 to 5 students for up to 180 minutes. </li>
-<li>To use a study room, ALL students in the group must present their City Tech IDs at the Borrow & Return Desk. The study room key will be checked out to each student in the library’s online system.</li>
-<li>The study room key must be returned to the Borrow & Return Desk on time to avoid late fees. The overdue fine for returning the key late is $1/minute per patron, with a maximum fine of $10 per patron.</li>
-<li>Patrons who incur a late fine will be issued an invoice through their CUNY email. They must print out this form and take it to the Bursar’s office during business hours to pay the fine. Patrons will not be allowed to use a study room again until they have paid the fine.</li>
-<li>When leaving the study room, the group must ensure the room is clean, the equipment is functioning, furniture is in order, and the door is locked.</li>
+<li>Rooms 534, 537, 538: 2 to 5 students for up to 180 minutes.</li>
+<li>Rooms 535 and 536: 1 to 5 students for up to 180 minutes.</li>
+<li>To use a study room, ALL students in the group must present their City Tech IDs at the Borrow & Return Desk. The study room key will be checked out to each student in the library's online system.</li>
 <li>Absolutely no eating is allowed in the study rooms. Drinks with secure lids are allowed.</li>
-<li>Violation of the study room policies may result in forfeiting the use of the rooms.</li>
+<li>When leaving the study room, the group must ensure the room is clean, the equipment is functioning, furniture is in order, and the door is locked.</li>
+<li>The study room key must be returned to the Borrow & Return Desk on time to avoid late fees. The overdue fine for returning the key late is $0.50/minute per patron, with a maximum fine of $5 per patron.</li>
+<li>Patrons who incur a late fine will be issued an invoice through their CUNY email. They must print out this form and take it to the Bursar's office during business hours to pay the fine.</li>
+<li>Patrons who accrue excessive late fines, or who repeatedly violate study room policies (e.g., having food in the room), may be barred from using study rooms.</li>
 </ol>
 <p>Rev. 01.26.26<br>
  Rev. 09.26.24<br>
