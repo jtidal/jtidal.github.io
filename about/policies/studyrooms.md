@@ -20,7 +20,8 @@ categories:
 <li>Patrons who incur a late fine will be issued an invoice through their CUNY email. They must print out this form and take it to the Bursar's office during business hours to pay the fine.</li>
 <li>Patrons who accrue excessive late fines, or who repeatedly violate study room policies (e.g., having food in the room), may be barred from using study rooms.</li>
 </ol>
-<p>Rev. 01.26.26<br>
+<p>Rev. 03.12.26<br>
+ Rev. 01.26.26<br>
  Rev. 09.26.24<br>
  Rev. 10.05.22</p>
 <h4>See also</h4>
