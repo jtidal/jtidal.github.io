@@ -143,7 +143,7 @@ title: Welcome to City Tech Library
 
 <!--EXPLORE-->
 	<div class="card card-primary">
-	  <div class="card-header" style="background-color:#044e95; color:white;"><h2 class="embolden"><i class="bi-globe icon-space"></i>Explore</h2></div>
+	  <div class="card-header" style="background-color:#FF9B29; color:white;"><h2 class="embolden"><i class="bi-globe icon-space"></i>Explore</h2></div>
 	  <div class="card-body">
 	<div class="row"  style="text-align:center;">
 	<div style="padding: 15px;"><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01CUNY_NY:CUNY_NY" target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-book-shelf-2174494%281%29.png" alt="Featured Collections"><br>Featured Collections</a></div>
