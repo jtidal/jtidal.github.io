@@ -80,7 +80,7 @@ title: Welcome to City Tech Library
 <div class="row">
 	<div class="col-md-12 col-sm-12" style="padding-bottom:10px;">
 		<div class="card">
-			<div class="card-header" style="background-color:#FF9B29; color:white;">
+			<div class="card-header" style="background-color:#FF9B29; color:#EAECEC;">
 				<h2 class="embolden"><i class="bi-mortarboard-fill icon-space"></i>Start Your Research</h2>
 		 	</div>
   			<div class="card-body" style="text-align:center;">
