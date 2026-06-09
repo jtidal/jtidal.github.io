@@ -122,7 +122,7 @@ title: Welcome to City Tech Library
 <div class="row">
 	<div class="col-md-8 col-sm-12" style="padding-bottom:10px;">
 		<div class="card card-primary">
-	 		<div class="card-header" style="background-color: #044e95; color:white;">
+	 		<div class="card-header" style="background-color: #1D97B9; color:white;">
 				<h2 class="embolden"><i class="bi-newspaper icon-space"></i>News & Events</h2>
 			</div>
 			 <iframe src="https://library.citytech.cuny.edu/news.php" height="800" title="LibraryBuzz News Feed"></iframe>
@@ -132,14 +132,16 @@ title: Welcome to City Tech Library
 		</div>
 	</div>
 
+<!--WORKSHOPS-->
 	<div class="col-md-4 col-sm-12">
 	<div class="card card-warning">
-	  <div class="card-header" style="background-color: #ffa815;"><h2 style="font-weight:bold;"><i class="bi-people-fill icon-space"></i>Workshops</h2></div>
+	  <div class="card-header" style="background-color: #E17800;"><h2 style="font-weight:bold;"><i class="bi-people-fill icon-space"></i>Workshops</h2></div>
 	  <div class="card-body">
 	<div id="api_upc_cid17264_iid4689"></div><script src="https://libcal.citytech.cuny.edu/api_events.php?m=upc&cid=17264&audience=&c=&d=&l=5&target=_blank&simple=agenda&context=object&format=js"> </script>
 	</div><!--bod-->
 	</div><!--card-->
 
+<!--EXPLORE-->
 	<div class="card card-primary">
 	  <div class="card-header" style="background-color:#044e95; color:white;"><h2 class="embolden"><i class="bi-globe icon-space"></i>Explore</h2></div>
 	  <div class="card-body">
