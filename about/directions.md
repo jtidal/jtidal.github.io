@@ -10,7 +10,11 @@ categories:
 
 <div class="row">
  <div class="col-md-6 col-sm-12">
+  
+  <div class="card">
+  <div class="card-header"> 
   <h3>Public Transportation</h3>
+  </div>
   <h4>By Train:</h4> 
   <ul>
    <li>2, 3, 4, or 5 trains to Borough Hall</li> 
@@ -25,6 +29,7 @@ categories:
    <li>B25, B38, B103 to Tillary St./Cadman Plz E.</li>
    <li><a href="http://www.mta.info/nyct/maps/busbkln.pdf" style="text-decoration: underline;">Brooklyn bus map</a> (PDF)</li> 
   </ul>
+  </div>
  </div>
  
  <div class="col-md-6 col-sm-12">
