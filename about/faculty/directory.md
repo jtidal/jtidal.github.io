@@ -46,7 +46,11 @@ categories:
  </div>
 </div>
 
+<div class="card">
+ <div class="card-header">
 <h2>College Laboratory Technicians</h2>
+ </div>
+ <div class="card-body">
 <table class="cols-2 table table-striped table-condensed">
   <thead>
     <tr>
@@ -79,8 +83,14 @@ categories:
     {% endfor %}
   </tbody>
     </table>
+ </div>
+</div>
 
+<div class="card">
+ <div class="card-header">
 <h2>Emeritus Faculty</h2>
+ </div>
+ <div class="card-body">
 <table class="cols-2 table table-striped table-condensed">
   <thead>
     <tr>
@@ -98,8 +108,14 @@ categories:
   {% endfor %}
   </tbody>
     </table>
+ </div>
+</div>
 
+<div class="card">
+ <div class="card-header">
     <h2>Administrative and Technical Staff</h2>
+ </div>
+ <div class="card-body">
     <table class="cols-2 table table-striped table-condensed">
   <thead>
     <tr>
@@ -125,8 +141,13 @@ categories:
   {% endfor %}
   </tbody>
     </table>
-
+ </div>
+ 
+<div class="card">
+ <div class="card-header">
   <h2>Adjunct Library Faculty</h2>
+ </div>
+ <div class="card-body">
    <table class="cols-2 table table-striped table-condensed">
   <thead>
     <tr>
@@ -147,6 +168,8 @@ categories:
   {% endfor %}
   </tbody>
     </table>
+ </div>
+</div>
     
   </div>
   <div class="col-sm-12 col-md-3 col-lg-3">
