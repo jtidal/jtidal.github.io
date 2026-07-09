@@ -35,7 +35,11 @@ categories:
  </div>
  
  <div class="col-md-6 col-sm-12">
+  <div class="card">
+   <div class="card-header">
   <h3>Driving Directions</h3>
+   </div>
+   <div class="card-body">
   <h4>Manhattan</h4>
   <ul>
    <li>Take the FDR Drive to the Brooklyn Bridge.</li>
@@ -71,4 +75,7 @@ categories:
    <li>Turn right on Atlantic; continue for five blocks to Smith Street. </li>
    <li>Make a left onto Smith; continue across Fulton where Smith becomes Jay.</li>
   </ul>
+  </div>
+  </div>
+  </div>
  </div>
