@@ -15,6 +15,7 @@ categories:
   <div class="card-header"> 
   <h3>Public Transportation</h3>
   </div>
+   <div class="card-body">
   <h4>By Train:</h4> 
   <ul>
    <li>2, 3, 4, or 5 trains to Borough Hall</li> 
@@ -29,6 +30,7 @@ categories:
    <li>B25, B38, B103 to Tillary St./Cadman Plz E.</li>
    <li><a href="http://www.mta.info/nyct/maps/busbkln.pdf" style="text-decoration: underline;">Brooklyn bus map</a> (PDF)</li> 
   </ul>
+  </div>
   </div>
  </div>
  
@@ -57,7 +59,8 @@ categories:
  
   <h4>Brooklyn:</h4> 
   <ul>
-   <li>Take the Belt Parkway to the Brooklyn-Queens Expressway and get off at the Atlantic Avenue exit. Turn right on Atlantic; continue for five blocks to Smith Street. </li>
+   <li>Take the Belt Parkway to the Brooklyn-Queens Expressway and get off at the Atlantic Avenue exit.</li> 
+   <li>Turn right on Atlantic; continue for five blocks to Smith Street.</li>
    <li>Make a left onto Smith; continue across Fulton where Smith becomes Jay.</li>
   </ul>
  
@@ -65,6 +68,7 @@ categories:
   <ul>
    <li>Cross the Verrazano Bridge to the Brooklyn-Queens Expressway. </li>
    <li>Take the Belt Parkway to the Brooklyn-Queens Expressway and get off at the Atlantic Avenue exit. </li>
-   <li>Turn right on Atlantic; continue for five blocks to Smith Street. Make a left onto Smith; continue across Fulton where Smith becomes Jay.</li>
+   <li>Turn right on Atlantic; continue for five blocks to Smith Street. </li>
+   <li>Make a left onto Smith; continue across Fulton where Smith becomes Jay.</li>
   </ul>
  </div>
