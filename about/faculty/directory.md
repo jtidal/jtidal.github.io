@@ -6,7 +6,11 @@ categories:
 ---
 <div class="row">
   <div class="col-sm-12 col-md-9 col-lg-9">
+<div class="card">
+ <div class="card-header">
 <h2>Library Faculty</h2>
+ </div>
+ <div class="card-body">
 <table class="cols-2 table table-striped table-condensed" style="padding-top:20px;">
   <thead>
     <tr>
@@ -39,6 +43,8 @@ categories:
   {% endfor %}
   </tbody>
     </table>
+ </div>
+</div>
 
 <h2>College Laboratory Technicians</h2>
 <table class="cols-2 table table-striped table-condensed">
