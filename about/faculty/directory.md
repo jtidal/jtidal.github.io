@@ -144,9 +144,11 @@ categories:
     
   </div>
   <div class="col-sm-12 col-md-3 col-lg-3">
-  
+  <div class="card">
+   <div class="card-header">
         <h2>Library Phone Numbers</h2>
-    
+   </div>
+   <div class="card-body">
       <table class="table table-striped"><tbody><tr><td><strong>Circulation:</strong></td>
       <td align="right"><a href="tel:718.260.5470">718.260.5470</a></td>
       </tr><tr><td><strong>Reference:</strong></td>
@@ -160,10 +162,16 @@ categories:
       </tr><tr><td><strong>Interlibrary Loan:</strong></td>
       <td align="right"><a href="tel:718.260.5792">718.260.5792</a></td>
       </tr></tbody></table>
+   </div>
+  </div>
 
-        <h2>Library Subject Specialists</h2>
+<div class="card">
+        <div class="card-header"><h2>Library Subject Specialists</h2></div>
+ <div class="card-body">
     
   <p>Looking for a library faculty member specific to your department, subject, or discipline? <a href="https://library.citytech.cuny.edu/research/subjectSpecialists.html">Consult the library faculty subject specialist directory</a>.</p>
+  </div>
+  </div>
 
   </div>
 </div>
