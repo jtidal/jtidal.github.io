@@ -8,7 +8,7 @@ categories:
   <div class="col-md-4" style="margin-bottom: 10px;">
     <div class="card card-default">
       <div class="card-header">
-        <h3 class="text-center embolden">LIB 1201</h3>
+        <h3 class="text-center">LIB 1201</h3>
       </div>
       <div class="card-body text-center">
         <img src="https://library.citytech.cuny.edu/uploads/noun_Research_2670597.png" alt="image depicting research">
@@ -23,7 +23,7 @@ categories:
   <div class="col-md-4" style="margin-bottom: 10px;">
     <div class="card card-default">
       <div class="card-header">
-        <h3 class="text-center embolden">LIB/ARCH 2205ID</h3>
+        <h3 class="text-center">LIB/ARCH 2205ID</h3>
         </div>
       <div class="card-body text-center">
         <img src="https://library.citytech.cuny.edu/uploads/noun_City_17945.png" alt="image depicting a city">
@@ -38,7 +38,7 @@ categories:
   <div class="col-md-4" style="margin-bottom: 10px;">
     <div class="card card-default">
       <div class="card-header">
-        <h3 class="text-center embolden">Class Visits</h3>
+        <h3 class="text-center">Class Visits</h3>
       </div>
       <div class="card-body text-center">
           <img src="https://library.citytech.cuny.edu/uploads/noun_Library_37831.png" alt="Icon depicting a class visit to the library.">
@@ -54,7 +54,7 @@ categories:
   <div class="col-md-4" style="margin-bottom: 10px;">
       <div class="card card-default">
         <div class="card-header">
-          <h3 class="text-center embolden">Scheduling a Library Visit
+          <h3 class="text-center">Scheduling a Library Visit
           </h3>
         </div>
       <div class="card-body text-center" style="height: 250px;"><img src="https://library.citytech.cuny.edu/uploads/noun_visit_3029454.png" alt="Image dipicting an arrow into a circle, meant to encourge making an appointment for a library research session.">
@@ -68,7 +68,7 @@ categories:
   <div class="col-md-4" style="margin-bottom: 10px;">
     <div class="card card-default">
       <div class="card-header">
-        <h3 class="text-center embolden">English 1101</h3>
+        <h3 class="text-center">English 1101</h3>
       </div>
       <div class="card-body text-center">
         <img src="https://library.citytech.cuny.edu/uploads/noun_classes_2746928.png" alt="image depicting a class">
