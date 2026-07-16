@@ -104,8 +104,10 @@ footer {
   padding:10px;
 }
 
-.navbar .navbarNav{
+.navbar {
 font-size: 18px;
 }
+
+#navbarNav{ font-size: 18px;}
 
 
