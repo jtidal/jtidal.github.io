@@ -17,3 +17,5 @@ others' reasonable expectations of privacy. This includes assuring that other pe
 <p>Patrons may be asked to discontinue photography or filming if a staff member of the library determines it is unsafe, inappropriate, or disruptive to students, faculty or staff.</p>
 
 <p>Contact <a href="mailto:jtidal@citytech.cuny.edu">Prof. Junior Tidal</a>, Chief Librarian, for photography and filming inquiries.</p>
+
+11.12.25
