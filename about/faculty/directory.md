@@ -20,7 +20,7 @@ categories:
   </thead>
   <tbody>
   {% for person in site.data.librarians.librarians %}
-    <tr><td><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
+    <tr><td style="padding:0px;"><h4><a href="{{ person.url }}">{{ person.name }}</a></h4>
     <p>
     {% if person.namedrop %}
     <a href="{{ person.namedrop }}" target="_blank">Name pronunciation</a><br>
