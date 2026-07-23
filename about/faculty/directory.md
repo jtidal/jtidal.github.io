@@ -11,7 +11,7 @@ categories:
 <h2>Library Faculty</h2>
  </div>
  <div class="card-body">
-<table class="cols-2 table table-striped table-condensed" style="padding-top:20px;">
+<table class="cols-2 table table-striped table-condensed table-responsive" style="padding-top:20px;">
   <thead>
     <tr>
     <th>Name &amp; Contact</th>
