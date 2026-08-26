@@ -77,15 +77,15 @@ categories:
 <td>
 <p><strong>TI-84 Plus</strong></p>
 </td>
-<td>$15.00 per hour to a maximum of $60.00</td>
-<td valign="top">$120.00</td>
+<td>$5.00 per hour to a maximum of $25.00</td>
+<td valign="top">Price of the item</td>
 <td>$25.00</td>
 </tr>
 <tr>
 <td>
 <p><strong>TI-84 Plus Silver</strong></p>
 </td>
-<td valign="top">$15.00 per hour to a maximum of $60.00</td>
+<td valign="top">$5.00 per hour to a maximum of $25.00</td>
 <td valign="top">$170.00</td>
 <td>$25.00</td>
 </tr>
