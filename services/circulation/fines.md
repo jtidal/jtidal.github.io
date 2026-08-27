@@ -34,7 +34,7 @@ categories:
 <td>$25.00</td>
 </tr>
 <tr><th>Reserve materials, Reserve materials with 3 weeks loan</th>
-<td valign="top">$6.00 per hour to a maximum $100.00</td>
+<td valign="top">$5.00 per hour if late, to a maximum $100.00</td>
 <td valign="top">Price of the item</td>
 <td>$25.00</td>
 </tr>
@@ -53,13 +53,9 @@ categories:
 <td valign="top">Price of the item</td>
 <td>$25.00</td>
 </tr>
-<tr><th>iPads</th>
-<td valign="top">$100.00 per day</td>
-<td valign="top">Price of the item</td>
-<td>$25.00</td>
-</tr>
+
 <tr><th>PC Laptops</th>
-<td valign="top">$100.00 per day</td>
+<td valign="top">$15 per day, max $100</td>
 <td valign="top">Price of the item</td>
 <td>$25.00</td>
 </tr>
@@ -70,7 +66,7 @@ categories:
 <tbody>
 <tr><th>
 <p>Item</p>
-</th><th>Fines and Overdue Charges</th><th>Replacement Costs</th><th>Processing Fee</th></tr>
+</th><th>Fines and Overdue Charges</th><th>Replacement Costs</th></tr>
 </tbody>
 <tbody>
 <tr>
@@ -79,23 +75,20 @@ categories:
 </td>
 <td>$5.00 per hour to a maximum of $25.00</td>
 <td valign="top">Price of the item</td>
-<td>$25.00</td>
 </tr>
 <tr>
 <td>
 <p><strong>TI-84 Plus Silver</strong></p>
 </td>
 <td valign="top">$5.00 per hour to a maximum of $25.00</td>
-<td valign="top">$170.00</td>
-<td>$25.00</td>
+<td valign="top">Price of the item</td>
 </tr>
 <tr>
 <td>
 <p><strong>TI-36X Pro</strong></p>
 </td>
 <td valign="top">$5.00 per day to a maximum of $25.00</td>
-<td valign="top">$20.00</td>
-<td>$25.00</td>
+<td valign="top">Price of the item</td>
 </tr>
 <tr>
 <td>
