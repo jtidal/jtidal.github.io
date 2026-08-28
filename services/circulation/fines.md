@@ -25,7 +25,7 @@ categories:
 <h2>Books and Reserves Material</h2>
 <table class="table table-condensed table-responsive table-striped table-hover">
 <tbody>
-<tr><th>Item</th><th>Fines and Overdue Charges</th><th>Replacement Costs</th><th>Processing Fee</th></tr>
+<tr><th>Item</th><th>Fines and Overdue Charges</th><th>Replacement Costs</th></tr>
 </tbody>
 <tbody>
 <tr><th>Books in Stacks, Paperbacks*</th>
@@ -45,19 +45,17 @@ categories:
 <tbody>
 <tr><th>
 <p>Item</p>
-</th><th>Fines and Overdue Charges</th><th>Replacement Costs</th><th>Processing Fee</th></tr>
+</th><th>Fines and Overdue Charges</th><th>Replacement Costs</th></tr>
 </tbody>
 <tbody>
 <tr><th>Music CDs, Videos, DVDs**</th>
 <td valign="top">$1.00 per day</td>
 <td valign="top">Price of the item</td>
-<td>$25.00</td>
 </tr>
 
 <tr><th>PC Laptops</th>
 <td valign="top">$15 per day, max $100</td>
 <td valign="top">Price of the item</td>
-<td>$25.00</td>
 </tr>
 </tbody>
 </table>
