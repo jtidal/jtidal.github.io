@@ -31,12 +31,10 @@ categories:
 <tr><th>Books in Stacks, Paperbacks*</th>
 <td>Recalled fines are $1 per day.</td>
 <td>Price of the item and processing fee</td>
-<td>$25.00</td>
 </tr>
 <tr><th>Reserve materials, Reserve materials with 3 weeks loan</th>
 <td valign="top">$5.00 per hour if late, to a maximum $100.00</td>
 <td valign="top">Price of the item</td>
-<td>$25.00</td>
 </tr>
 </tbody>
 </table>
