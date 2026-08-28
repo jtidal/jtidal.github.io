@@ -92,7 +92,6 @@ categories:
 </td>
 <td valign="top">N/A</td>
 <td valign="top">$5.00</td>
-<td>N/A</td>
 </tr>
 </tbody>
 </table>
