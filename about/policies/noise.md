@@ -59,7 +59,7 @@ This noise policy is aligned with the [Henderson Rules](https://www.citytech.cun
  
  <strong>Where can I find the quietest place in the library?</strong>
  
- * The 4th and 5th floor are designated whispering zone
+ * The 4th and 5th floor are designated silent study zones
  * The 5th floor study rooms are available for quiet study
  
  <strong>Where can I send feedback regarding the noise policy?</strong>
