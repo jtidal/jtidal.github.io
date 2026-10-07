@@ -24,8 +24,8 @@ categories:
 <table class="table table-striped table-bordered center">
   <thead>
     <tr>
-      <th scope="col"><p class="embolden" style="text-align:center;">4th Floor and 5th Floor Study Rooms<br>Low Noise</p></th>
-      <th scope="col"><p class="embolden" style="text-align:center;">5th Floor<br>Whispering</p></th>
+      <th scope="col"><p class="embolden" style="text-align:center;">5th Floor Study Rooms<br>Low Noise</p></th>
+      <th scope="col"><p class="embolden" style="text-align:center;">4th Floor and 5th Floor<br>Whispering</p></th>
     </tr>
   </thead>
   <tbody>
@@ -57,12 +57,13 @@ This noise policy is aligned with the [Henderson Rules](https://www.citytech.cun
  
  <strong>Where can I find the quietest place in the library?</strong>
  
- * The 5th floor is a designated whispering zone
+ * The 4th and 5th floor are designated whispering zone
  * The 5th floor study rooms are available for quiet study
  
  <strong>Where can I send feedback regarding the noise policy?</strong>
  <br>[Post a comment](https://library.citytech.cuny.edu/comments.html)
 
- Rev. 02.20.26
+ Rev. 10.07.26
+ 02.20.26
 
 
