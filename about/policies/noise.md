@@ -34,7 +34,6 @@ categories:
         <ul>
           <li>Talking in quiet, low voices</li>
           <li>Groups that can work quietly</li>
-          <li>No phone or video calls (Zoom, FaceTime, etc.)</li>
         </ul>
       </td>
       <td>No talking (whispering)</td>
