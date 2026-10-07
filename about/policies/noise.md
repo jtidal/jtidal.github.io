@@ -36,7 +36,10 @@ categories:
           <li>Groups that can work quietly</li>
         </ul>
       </td>
-      <td>No talking (whispering)</td>
+      <td>
+       <ul><li>No talking (whispering)</li>
+       <li>No phone or video calls (Zoom, FaceTime, etc.)</li>
+       </ul></td>
     </tr>
   </tbody>
 </table>
