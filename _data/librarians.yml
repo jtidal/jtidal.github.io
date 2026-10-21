@@ -211,3 +211,7 @@ librarians:
     room: L438A
     rank: Assistant Professor 
     area: Access Services
+    subjects:
+    - sub: Mathematics
+    - sub: African American Studies
+    - sub: Anthropology
