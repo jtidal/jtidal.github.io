@@ -120,20 +120,20 @@ title: Welcome to City Tech Library
 </div><!--row-->
 
 <!--NEWS AND EVENTS-->
-<!--
+
 <div class="row">
 	<div class="col-md-8 col-sm-12" style="padding-bottom:10px;">
 		<div class="card card-primary">
 	 		<div class="card-header" style="background-color: #1D97B9; color:white;">
 				<h2 class="embolden"><i class="bi-newspaper icon-space"></i>News & Events</h2>
-			</div>
-			 <iframe src="http://54.166.128.221//news.php" height="800" title="LibraryBuzz News Feed"></iframe>
+			</div><!--
+			 <iframe src="http://54.166.128.221//news.php" height="800" title="LibraryBuzz News Feed"></iframe>-->
 			<div class="card-footer float-right">
 				<a href="https://openlab.citytech.cuny.edu/library">More news</a>
 			</div>
 		</div>
 	</div>
-	-->
+
 
 <!--WORKSHOPS-->
 	<div class="col-md-4 col-sm-12">
