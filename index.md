@@ -125,7 +125,7 @@ title: Welcome to City Tech Library
 	 		<div class="card-header" style="background-color: #1D97B9; color:white;">
 				<h2 class="embolden"><i class="bi-newspaper icon-space"></i>News & Events</h2>
 			</div>
-			 <iframe src="https://jtidal.github.io/news.php" height="800" title="LibraryBuzz News Feed"></iframe>
+			 <!--<iframe src="https://jtidal.github.io/news.php" height="800" title="LibraryBuzz News Feed"></iframe>-->
 			<div class="card-footer float-right">
 				<a href="https://openlab.citytech.cuny.edu/library">More news</a>
 			</div>
