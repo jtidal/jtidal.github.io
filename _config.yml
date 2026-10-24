@@ -1,6 +1,6 @@
 
 # url: https://library.citytech.cuny.edu/
-url: jtidal.github.io
+url: https://jtidal.github.io
 
 plugins:
   - jekyll-autoprefixer
