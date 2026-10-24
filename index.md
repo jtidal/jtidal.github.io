@@ -2,10 +2,11 @@
 layout: default
 title: Welcome to City Tech Library 
 ---
-
+<!--
 <div class="alert alert-success" role="alert">
   Your feedback matters! <a href="http://54.166.128.221/comments.html">How can we improve the City Tech Library</a>?
 </div>
+-->
 
 <div class="row">
 <h2 class="embolden">Ursula C. Schwerin Library</h2>
