@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to City Tech Library
+title: Welcome to City Tech Library 
 ---
 
 <div class="alert alert-success" role="alert">
