@@ -119,6 +119,7 @@ title: Welcome to City Tech Library
 </div><!--row-->
 
 <!--NEWS AND EVENTS-->
+<!--
 <div class="row">
 	<div class="col-md-8 col-sm-12" style="padding-bottom:10px;">
 		<div class="card card-primary">
@@ -131,6 +132,7 @@ title: Welcome to City Tech Library
 			</div>
 		</div>
 	</div>
+	-->
 
 <!--WORKSHOPS-->
 	<div class="col-md-4 col-sm-12">
