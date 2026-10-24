@@ -4,7 +4,7 @@ title: Welcome to City Tech Library
 ---
 
 <div class="alert alert-success" role="alert">
-  Your feedback matters! <a href="https://library.citytech.cuny.edu/comments.html">How can we improve the City Tech Library</a>?
+  Your feedback matters! <a href="https://jtidal.github.io/comments.html">How can we improve the City Tech Library</a>?
 </div>
 
 <div class="row">
@@ -30,7 +30,7 @@ title: Welcome to City Tech Library
 		<div class="card card-default">
 			<div class="card-header"><h2 class="embolden"><i class="bi-chat icon-space"></i>Chat</h2></div>
 			<div class="card-body" style="text-align:center">
-				<a href="https://library.citytech.cuny.edu/help/ask/index.html"><img style="padding: 2px; margin:2px; height:50px; width:50px;" src="https://library.citytech.cuny.edu/uploads/noun-chat-bubble-1388380.png" alt="Ask a Librarian"><p>Chat virtually with a real human, 24/7.</p></a>
+				<a href="https://jtidal.github.io/help/ask/index.html"><img style="padding: 2px; margin:2px; height:50px; width:50px;" src="https://jtidal.github.io/uploads/noun-chat-bubble-1388380.png" alt="Ask a Librarian"><p>Chat virtually with a real human, 24/7.</p></a>
 			</div>
 		</div>
 	</div> <!--col-md-3-->
@@ -40,7 +40,7 @@ title: Welcome to City Tech Library
 		<div class="card" >
 			<div class="card-header" style="background-color:#007FA3; color:white;"><h1 class="embolden"><i class="bi-search icon-space"></i>Search the collection</h1></div>
 			<div class="card-body">
-			<form action="https://library.citytech.cuny.edu/oneSearch2.php" method="post" name="searchForm" role="search" class="form-inline">
+			<form action="https://jtidal.github.io/oneSearch2.php" method="post" name="searchForm" role="search" class="form-inline">
 			        <select name="selectStyle" class="form-select form-control-lg" aria-label="Search by Type">
 				        <option label="Print and eBooks">Books (Print + eBooks)</option>
 				        <option label="Everything" selected="selected">Everything</option>
@@ -86,31 +86,31 @@ title: Welcome to City Tech Library
   			<div class="card-body" style="text-align:center;">
 				<div class="row">
 				    <div class="col-md-3 col-center" style="padding:5px;">
-				    	<a href="https://libguides.citytech.cuny.edu/"><img style="padding: 2px; margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-research-5090533%281%29.png" alt="Access research guides"><br>Research Guides</a>
+				    	<a href="https://libguides.citytech.cuny.edu/"><img style="padding: 2px; margin:2px; height:100px; width:100px;" src="https://jtidal.github.io/uploads/noun-research-5090533%281%29.png" alt="Access research guides"><br>Research Guides</a>
 				    </div>
 				    <div class="col-md-3 col-center" style="padding:5px;">
-				    	<a href="research/articles/subjects/index.html"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-articles-2663651.png" alt="Access articles and databases"><br>Articles & Databases</a>
+				    	<a href="research/articles/subjects/index.html"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://jtidal.github.io/uploads/noun-articles-2663651.png" alt="Access articles and databases"><br>Articles & Databases</a>
 				    </div>
 				    <div class="col-md-3 col-center" style="padding:5px;">
-				    	<a href="https://libguides.citytech.cuny.edu/az.php?t=42693"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-ebook-4317312.png" alt="Access eBooks"><br>eBooks</a>
+				    	<a href="https://libguides.citytech.cuny.edu/az.php?t=42693"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://jtidal.github.io/uploads/noun-ebook-4317312.png" alt="Access eBooks"><br>eBooks</a>
 				    </div>
 				    <div class="col-md-3 col-center" style="padding:5px;">
-				    	<a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?vid=01CUNY_NY:CUNY_NY"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-magazine-1188936.png" alt="Access journals"><br>Journals</a>
+				    	<a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/jsearch?vid=01CUNY_NY:CUNY_NY"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://jtidal.github.io/uploads/noun-magazine-1188936.png" alt="Access journals"><br>Journals</a>
 				    </div>
 				</div><!--row-->
 				<br>
 				<div class="row" style="padding-bottom:5px;">
 	    			<div class="col-md-3 col-center" style="padding:5px;">
-	    				<a href="https://libguides.citytech.cuny.edu/er.php?b=c"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-shelves-2208934.png" alt="Access electronic reserves"><br>Electronic Reserves</a>
+	    				<a href="https://libguides.citytech.cuny.edu/er.php?b=c"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://jtidal.github.io/uploads/noun-shelves-2208934.png" alt="Access electronic reserves"><br>Electronic Reserves</a>
 	    			</div>
 	    			<div class="col-md-3 col-center" style="padding:5px;">
-	    				<a href="https://libguides.citytech.cuny.edu/az.php?t=49467"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-streaming-3320374.png" alt="Access streaming video"><br>Streaming Video</a>
+	    				<a href="https://libguides.citytech.cuny.edu/az.php?t=49467"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://jtidal.github.io/uploads/noun-streaming-3320374.png" alt="Access streaming video"><br>Streaming Video</a>
 	    			</div>
 	    			<div class="col-md-3 col-center" style="padding:5px;">
-	    				<a href="services/interlibraryLoan/index.html"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://library.citytech.cuny.edu/uploads/noun-book-delivery-85121.png" alt="Access interlibrary loan"><br>Interlibrary Loan</a>
+	    				<a href="services/interlibraryLoan/index.html"><img style="padding: 2px;  margin:2px; height:100px; width:100px;" src="https://jtidal.github.io/uploads/noun-book-delivery-85121.png" alt="Access interlibrary loan"><br>Interlibrary Loan</a>
 	    			</div>
 					<div class="col-md-3 col-center" style="padding:5px;">
-						<a href="https://library.citytech.cuny.edu/orientation/"  target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-tutorial-2366925.png" alt="Access library tutorials"><br>Tutorials</a>
+						<a href="https://jtidal.github.io/orientation/"  target="_blank"><img src="https://jtidal.github.io/uploads/noun-tutorial-2366925.png" alt="Access library tutorials"><br>Tutorials</a>
 					</div>
 				</div><!--row-->
 			</div><!--body-->
@@ -125,7 +125,7 @@ title: Welcome to City Tech Library
 	 		<div class="card-header" style="background-color: #1D97B9; color:white;">
 				<h2 class="embolden"><i class="bi-newspaper icon-space"></i>News & Events</h2>
 			</div>
-			 <iframe src="https://library.citytech.cuny.edu/news.php" height="800" title="LibraryBuzz News Feed"></iframe>
+			 <iframe src="https://jtidal.github.io/news.php" height="800" title="LibraryBuzz News Feed"></iframe>
 			<div class="card-footer float-right">
 				<a href="https://openlab.citytech.cuny.edu/library">More news</a>
 			</div>
@@ -146,12 +146,12 @@ title: Welcome to City Tech Library
 	  <div class="card-header" style="background-color:#FF9B29; color:000000;"><h2 class="embolden"><i class="bi-globe icon-space"></i>Explore</h2></div>
 	  <div class="card-body">
 	<div class="row"  style="text-align:center;">
-	<div style="padding: 15px;"><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01CUNY_NY:CUNY_NY" target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-book-shelf-2174494%281%29.png" alt="Featured Collections"><br>Featured Collections</a></div>
-	<div style="padding: 15px;"><a href="https://libguides.citytech.cuny.edu/exhibits" target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-exhibit-648083.png" alt="Access library exhibits"><br>Library Exhibits</a></div>
-	<div style="padding: 15px;"><a href="https://academicworks.cuny.edu/ny_pubs/"  target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-academic-1544056.png" alt="Access CUNY Academic Works"><br>Academic Works</a></div>
+	<div style="padding: 15px;"><a href="https://cuny-ny.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=01CUNY_NY:CUNY_NY" target="_blank"><img src="https://jtidal.github.io/uploads/noun-book-shelf-2174494%281%29.png" alt="Featured Collections"><br>Featured Collections</a></div>
+	<div style="padding: 15px;"><a href="https://libguides.citytech.cuny.edu/exhibits" target="_blank"><img src="https://jtidal.github.io/uploads/noun-exhibit-648083.png" alt="Access library exhibits"><br>Library Exhibits</a></div>
+	<div style="padding: 15px;"><a href="https://academicworks.cuny.edu/ny_pubs/"  target="_blank"><img src="https://jtidal.github.io/uploads/noun-academic-1544056.png" alt="Access CUNY Academic Works"><br>Academic Works</a></div>
 	</div>
 	<div class="row"  style="text-align:center;">
-	<div style="padding: 15px;"><a href="https://openlab.citytech.cuny.edu/oerresources/"  target="_blank"><img src="https://library.citytech.cuny.edu/uploads/noun-reading-book-4822569.png" alt="Access open educational resources"><br>Open Educational Resources</a></div>
+	<div style="padding: 15px;"><a href="https://openlab.citytech.cuny.edu/oerresources/"  target="_blank"><img src="https://jtidal.github.io/uploads/noun-reading-book-4822569.png" alt="Access open educational resources"><br>Open Educational Resources</a></div>
 	</div>
 	</div><!--bod-->
 	</div><!--card-->
